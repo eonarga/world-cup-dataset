@@ -4,10 +4,10 @@ const puppeteer = require('puppeteer');
 
 app.get('/', async (req, res) => {
 
-        const browser = await puppeteer.launch(); 
+        const browser = await puppeteer.launch({headless: true}); 
         const page = await browser.newPage();
         page.setExtraHTTPHeaders({'Accept-Language': 'pt-BR'});   
-        await page.goto(`https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_1930`);
+        await page.goto(`https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2022`);
         await page.setDefaultNavigationTimeout(90000);
     
         const pageContent = await page.evaluate(() => {
@@ -69,7 +69,6 @@ app.get('/', async (req, res) => {
             };
         });
         
-    
         await browser.close();
     
         res.send(
@@ -93,8 +92,69 @@ app.get('/', async (req, res) => {
 
 })
 
+
+
+
+app.get('/', async (req, res) => {
+
+    const browser = await puppeteer.launch({ headless: true }); 
+    const page = await browser.newPage();
+    page.setExtraHTTPHeaders({'Accept-Language': 'pt-BR'});   
+    await page.goto(`https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2022`);
+    await page.setDefaultNavigationTimeout(90000);
+
+    const pageContent = await page.evaluate(() => {
+
+        //estadios
+        const estadios = document.querySelector('.hgKElc').innerHTML;
+
+        //paisSede
+        //const anfitriaoTd = tds.find(td => td.textContent.trim() === 'Anfitrião');
+        //const paisSede = anfitriaoTd.nextElementSibling.textContent.trim();
+
+
+
+        return {
+            estadios
+
+        };
+    });
+
+    await browser.close();
+
+
+
+
+
+
+res.send(
+    {
+        Location: {
+            Localização_estadios:  pageContent.estadios
+
+            
+        }
+    }
+   );
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const port = 3000;
 app.listen(port, () => {
-    console.log(`Server rodando!
-    acesse em https://localhost:${port}`);
-});
+    console.log('acesse http://localhost:3000')
+})
