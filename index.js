@@ -1,60 +1,86 @@
 const express = require('express');
 const app = express();
 const puppeteer = require('puppeteer');
+let ano = 1930;
+
 
 app.get('/', async (req, res) => {
-
-        const browser = await puppeteer.launch({headless: true}); 
+    const dadosCopas = [];
+    
+    while(ano < 2023) {
+        const browser = await puppeteer.launch({ headless: true }); 
         const page = await browser.newPage();
         page.setExtraHTTPHeaders({'Accept-Language': 'pt-BR'});   
-        await page.goto(`https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2022`);
+        await page.goto(`https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_${ano}`);
         await page.setDefaultNavigationTimeout(90000);
     
+    
         const pageContent = await page.evaluate(() => {
-
             //buscando elementos da tabela
             const tds = Array.from(document.querySelectorAll('table.infobox tr td'));
             const Links = Array.from(document.querySelectorAll('table.infobox tr td a'));
+            
+
 
             //edição
             const edicao = document.querySelector('span.mw-page-title-main').innerHTML;
 
+            //participantes
+            const qtdpaisesTd = tds.find(td => td.textContent.trim() === 'Anfitrião');
+            const participantes = qtdpaisesTd ? qtdpaisesTd.nextElementSibling.textContent.trim() : '';
+
             //paisSede
             const anfitriaoTd = tds.find(td => td.textContent.trim() === 'Anfitrião');
-            const paisSede = anfitriaoTd.nextElementSibling.textContent.trim();
+            const paisSede = anfitriaoTd ? anfitriaoTd.nextElementSibling.textContent.trim() : '';
 
             //periodo
             const periodoTd = tds.find(td => td.textContent.trim() === 'Período');
-            const periodo = periodoTd.nextElementSibling.textContent.trim();
+            const periodo = periodoTd ? periodoTd.nextElementSibling.textContent.trim() : '';
 
             //campeão
             const campTd = tds.find(td => td.textContent.trim() === 'Campeão');
-            const campeao = campTd.nextElementSibling.textContent.trim();
+            const campeao = campTd ? campTd.nextElementSibling.textContent.trim() : '';
 
             //vice campeão
             const viceCampTd = tds.find(td => td.textContent.trim() === 'Vice-campeão');
-            const vicecampeao = viceCampTd.nextElementSibling.textContent.trim();
+            const vicecampeao = viceCampTd ? viceCampTd.nextElementSibling.textContent.trim() : '';
 
-            //terceiro colocado 
+            //terceiro colocadp 
             const terceiroColTd = tds.find(td => td.textContent.trim() === '3.º colocado');
-            const terceiroLugar = terceiroColTd.nextElementSibling.textContent.trim();
+            const terceiroLugar = terceiroColTd ? terceiroColTd.nextElementSibling.textContent.trim() : '';
 
             //total de gols 
             const totalDeGolsTd = tds.find(td => td.textContent.trim() === 'Gol(o)s');
-            const totalDeGols = totalDeGolsTd.nextElementSibling.textContent.trim();
+            const totalDeGols = totalDeGolsTd ? totalDeGolsTd.nextElementSibling.textContent.trim() : '';
 
             //média de gols
             const mdDeGolsTd = tds.find(td => td.textContent.trim() === 'Média');
-            const mediaDeGols = mdDeGolsTd.nextElementSibling.textContent.trim();
+            const mediaDeGols = mdDeGolsTd ? mdDeGolsTd.nextElementSibling.textContent.trim() : '';
+
+
+            //artilheiro 
+            const artilheiroTd = tds.find(td => td.textContent.trim() === 'Melhor marcador');
+            const artilheiro = artilheiroTd ? artilheiroTd.nextElementSibling.textContent.trim() : '';
             
-            //melhor marcador
-            const mlhMarcadorTd = tds.find(td => td.textContent.trim() === 'Melhor marcador');
-            const melhorMarcador = mlhMarcadorTd.nextElementSibling.textContent.trim();
+            //melhor ataque 
+            const melhorAtaqueTd = tds.find(td => td.textContent.trim() === 'Melhor ataque (fase inicial)');
+            const melhorAtaque = melhorAtaqueTd ? melhorAtaqueTd.nextElementSibling.textContent.trim() : '';
 
-            //melhor jogador
-            const mlhjogadorTd = tds.find(td => td.textContent.trim() === 'Melhor jogador');
-            const melhorJogador = mlhjogadorTd.nextElementSibling.textContent.trim();
+            //melhor defesa
+            const melhorDefesaTd = tds.find(td => td.textContent.trim() === 'Melhor defesa (fase inicial)');
+            const melhorDefesa = melhorDefesaTd ? melhorDefesaTd.nextElementSibling.textContent.trim() : '';
 
+            //maior goleada
+            const maiorGoleadatd = tds.find(td => td.textContent.trim() === 'Maiores goleadas (diferença)');
+            const maiorGoleada = maiorGoleadatd ? maiorGoleadatd.nextElementSibling.textContent.trim() : '';
+
+            //publico total
+            const publicoTotalTd = tds.find(td => td.textContent.trim() === 'Público');
+            const publicoTotal = publicoTotalTd ? publicoTotalTd.nextElementSibling.textContent.trim() : '';
+
+            
+
+            
             return {
                 edicao,
                 paisSede,
@@ -64,95 +90,28 @@ app.get('/', async (req, res) => {
                 terceiroLugar,
                 totalDeGols,
                 mediaDeGols,
-                melhorMarcador,
-                melhorJogador
-            };
-        });
-        
-        await browser.close();
-    
-        res.send(
-            {
-                Informações_gerais: {
-                    Edição:  pageContent.edicao,
-                    Pais_sede:  pageContent.paisSede,
-                    Período: pageContent.periodo,  
-                    Campeão: pageContent.campeao,
-                    Vice_campeão: pageContent.vicecampeao,
-                    Terceiro_lugar: pageContent.terceiroLugar,
-                    Total_de_gols: pageContent.totalDeGols,
-                    Média_de_gols: pageContent.mediaDeGols,
-                    Melhor_marcador: pageContent.melhorMarcador,
-                    melhor_Jogador: pageContent.melhorJogador
-                    
-                }
-            }
-           
-        );
-
-})
-
-
-
-
-app.get('/', async (req, res) => {
-
-    const browser = await puppeteer.launch({ headless: true }); 
-    const page = await browser.newPage();
-    page.setExtraHTTPHeaders({'Accept-Language': 'pt-BR'});   
-    await page.goto(`https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_2022`);
-    await page.setDefaultNavigationTimeout(90000);
-
-    const pageContent = await page.evaluate(() => {
-
-        //estadios
-        const estadios = document.querySelector('.hgKElc').innerHTML;
-
-        //paisSede
-        //const anfitriaoTd = tds.find(td => td.textContent.trim() === 'Anfitrião');
-        //const paisSede = anfitriaoTd.nextElementSibling.textContent.trim();
-
-
-
-        return {
-            estadios
-
-        };
-    });
-
-    await browser.close();
-
-
-
-
-
-
-res.send(
-    {
-        Location: {
-            Localização_estadios:  pageContent.estadios
-
+                artilheiro,
+                melhorAtaque,
+                melhorDefesa,
+                maiorGoleada,
+                publicoTotal,
+                participantes
             
-        }
+            };
+
+    
+        });
+
+        ano = ano + 4
+        console.log(ano);
+
+        dadosCopas.push(pageContent);
+        await browser.close();
     }
-   );
+
+    res.send(dadosCopas);
+  
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 const port = 3000;
 app.listen(port, () => {
