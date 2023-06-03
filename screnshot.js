@@ -15,7 +15,7 @@ async function screenshotAndConvertToJson(url) {
 
     //css atalhos
     //'table.wikitable'; - chama todas as tabelas do site
-    //'div.navbox; - chama as tabelas de times
+    //'div.navbox'; - chama as tabelas de times
     //'table[style="width:100%; background: transparent; border-spacing: 0; border-collapse: collapse;"]' - chama todas as patidas
 
     const selector = 'table[style="width:100%; background: transparent; border-spacing: 0; border-collapse: collapse;"]';
@@ -40,7 +40,7 @@ async function screenshotAndConvertToJson(url) {
 // Chama a função com a URL desejada
 let ano = 1958;
 
-const url = `https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_1970`;
+const url = `https://pt.wikipedia.org/wiki/Copa_do_Mundo_FIFA_de_1978`;
 screenshotAndConvertToJson(url)
   .then(() => console.log("Screenshot tirado e JSON gerado com sucesso."))
   .catch((error) => console.error("Ocorreu um erro:", error));

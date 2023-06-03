@@ -17,7 +17,7 @@
       "participantes": "13"
     },
     "times-jogadores-tecnicos": {
-      "Grupo A": {
+      "Grupo 1": {
         "Seleção Argentina – Copa do Mundo de 1930": {
           "Jogadores": [
             "Andrade",
@@ -141,7 +141,7 @@
           "Treinador": "Tejada"
         }
       },
-      "Grupo C": {
+      "Grupo 3": {
         "Seleção Uruguaia – Copa do Mundo de 1930": {
           "Jogadores": [
             "Andrade",
@@ -2488,7 +2488,7 @@
           "Treinador": "López Herranz"
         }
       },
-      "Grupo B": {
+      "Grupo 2": {
         "Seleção Húngara (vice-campeã)": {
           "Jogadores": [
             "Grosics",
@@ -2690,7 +2690,7 @@
           "Treinador": "Herberger"
         }
       },
-      "Grupo D": {
+      "Grupo 4": {
         "Seleção Inglesa": {
           "Jogadores": [
             "Merrick",
@@ -3358,9 +3358,8 @@
         ]
       }
     }
-  }
+  },
 
-{
   "Copa-do-Mundo-1970": {
     "info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1970",
@@ -3374,14 +3373,1607 @@
       "artilheiro": "Gerd Müller – 10 gols",
       "melhorAtaque": "Alemanha Ocidental – 10 gols",
       "melhorDefesa": "Nenhum gol:\nItália\nMéxico",
-      "maiorGoleada": "México 4–0 El Salvador
-      Estádio Azteca, Cidade do México
-      7 de junho, Grupo 1",
+      "maiorGoleada": "México 4–0 El Salvador Estádio Azteca, Cidade do México 7 de junho, Grupo 1",
       "publicoTotal": "1 603 975",
       "participantes": "16",
       "melhorJogador": "Pelé",
-      "melhorGoleiro": ""
+      "melhorJogadorJovem": "Teofilo Cubillas"
+    }
+    {
+      "Estadios": [
+        {
+          "nome": "Estádio Azteca",
+          "cidade": "Cidade do México",
+          "capacidade": "114.465 espectadores",
+          "latitude": "19.3020° N",
+          "longitude": "99.1508° W"
+        },
+        {
+          "nome": "Estádio Jalisco",
+          "cidade": "Guadalajara",
+          "capacidade": "56.713 espectadores",
+          "latitude": "20.6641° N",
+          "longitude": "103.3523° W"
+        },
+        {
+          "nome": "Estádio Azteca",
+          "cidade": "Toluca",
+          "capacidade": "27.000 espectadores",
+          "latitude": "19.2878° N",
+          "longitude": "99.6288° W"
+        },
+        {
+          "nome": "Estádio Azteca",
+          "cidade": "Puebla",
+          "capacidade": "41.886 espectadores",
+          "latitude": "19.0644° N",
+          "longitude": "98.3030° W"
+        },
+        {
+          "nome": "Estádio Cuauhtémoc",
+          "cidade": "Puebla",
+          "capacidade": "41.886 espectadores",
+          "latitude": "19.0664° N",
+          "longitude": "98.2101° W"
+        },
+        {
+          "nome": "Estádio Nou Camp",
+          "cidade": "León",
+          "capacidade": "23.000 espectadores",
+          "latitude": "21.1438° N",
+          "longitude": "101.6696° W"
+        },
+        {
+          "nome": "Estádio Azteca",
+          "cidade": "Toluca",
+          "capacidade": "27.000 espectadores",
+          "latitude": "19.2878° N",
+          "longitude": "99.6288° W"
+        },
+        {
+          "nome": "Estádio Azteca",
+          "cidade": "Cidade do México",
+          "capacidade": "114.465 espectadores",
+          "latitude": "19.3020° N",
+          "longitude": "99.1508° W"
+        },
+        {
+          "nome": "Estádio Jalisco",
+          "cidade": "Guadalajara",
+          "capacidade": "56.713 espectadores",
+          "latitude": "20.6641° N",
+          "longitude": "103.3523° W"
+        }
+      ]
     },
-
-  }
+    "Jogos":{
+      {
+        "Fase de Grupos - Grupo 1": [
+          {
+            "Posição": 1,
+            "Time": "México",
+            "Pontos": 4,
+            "Jogos": 3,
+            "Vitórias": 2,
+            "Empates": 0,
+            "Derrotas": 1,
+            "Gols Marcados": 4,
+            "Gols Sofridos": 2,
+            "Saldo de Gols": 2,
+            "Jogos e Gols": [
+              {
+                "Adversário": "União Soviética",
+                "Gols": [
+                  {
+                    "Jogador": "Javier Valdivia",
+                    "Tempo": "3'"
+                  },
+                  {
+                    "Jogador": "Joaquín Ríos",
+                    "Tempo": "89'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Bélgica",
+                "Gols": [
+                  {
+                    "Jogador": "Ignacio Calderón",
+                    "Tempo": "40'"
+                  },
+                  {
+                    "Jogador": "Francisco Flores",
+                    "Tempo": "43'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "União Soviética",
+            "Pontos": 4,
+            "Jogos": 3,
+            "Vitórias": 1,
+            "Empates": 2,
+            "Derrotas": 0,
+            "Gols Marcados": 2,
+            "Gols Sofridos": 1,
+            "Saldo de Gols": 1,
+            "Jogos e Gols": [
+              {
+                "Adversário": "México",
+                "Gols": [
+                  {
+                    "Jogador": "Viktor Serebryanikov",
+                    "Tempo": "43'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Bélgica",
+                "Gols": []
+              }
+            ]
+          },
+          {
+            "Posição": 3,
+            "Time": "Bélgica",
+            "Pontos": 2,
+            "Jogos": 3,
+            "Vitórias": 0,
+            "Empates": 2,
+            "Derrotas": 1,
+            "Gols Marcados": 1,
+            "Gols Sofridos": 2,
+            "Saldo de Gols": -1,
+            "Jogos e Gols": [
+              {
+                "Adversário": "México",
+                "Gols": []
+              },
+              {
+                "Adversário": "União Soviética",
+                "Gols": []
+              }
+            ]
+          }
+        ],
+        "Fase de Grupos - Grupo 2": [
+          {
+            "Posição": 1,
+            "Time": "Brasil",
+            "Pontos": 6,
+            "Jogos": 3,
+            "Vitórias": 3,
+            "Empates": 0,
+            "Derrotas": 0,
+            "Gols Marcados": 8,
+            "Gols Sofridos": 3,
+            "Saldo de Gols": 5,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Tchecoslováquia",
+                "Gols": [
+                  {
+                    "Jogador": "Rivelino",
+                    "Tempo": "11'"
+                  },
+                  {
+                    "Jogador": "Pele",
+                    "Tempo": "19'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "71'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Inglaterra",
+                "Gols": [
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "59'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Romênia",
+                "Gols": [
+                  {
+                    "Jogador": "Pele",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "Tchecoslováquia",
+            "Pontos": 4,
+            "Jogos": 3,
+            "Vitórias": 1,
+            "Empates": 2,
+            "Derrotas": 0,
+            "Gols Marcados": 7,
+            "Gols Sofridos": 4,
+            "Saldo de Gols": 3,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Brasil",
+                "Gols": [
+                  {
+                    "Jogador": "Jozef Adamec",
+                    "Tempo": "26'"
+                  },
+                  {
+                    "Jogador": "Jaroslav Pollák",
+                    "Tempo": "61'"
+                  },
+                  {
+                    "Jogador": "Jiří Röder",
+                    "Tempo": "73'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Romênia",
+                "Gols": [
+                  {
+                    "Jogador": "Jozef Adamec",
+                    "Tempo": "50'"
+                  },
+                  {
+                    "Jogador": "Antonín Panenka",
+                    "Tempo": "72'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 3,
+            "Time": "Romênia",
+            "Pontos": 2,
+            "Jogos": 3,
+            "Vitórias": 0,
+            "Empates": 2,
+            "Derrotas": 1,
+            "Gols Marcados": 4,
+            "Gols Sofridos": 5,
+            "Saldo de Gols": -1,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Tchecoslováquia",
+                "Gols": []
+              },
+              {
+                "Adversário": "Brasil",
+                "Gols": [
+                  {
+                    "Jogador": "Florea Dumitrache",
+                    "Tempo": "3'"
+                  },
+                  {
+                    "Jogador": "Adrian Alston",
+                    "Tempo": "87'"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Fase de Grupos - Grupo 3": [
+          {
+            "Posição": 1,
+            "Time": "Itália",
+            "Pontos": 6,
+            "Jogos": 3,
+            "Vitórias": 3,
+            "Empates": 0,
+            "Derrotas": 0,
+            "Gols Marcados": 10,
+            "Gols Sofridos": 3,
+            "Saldo de Gols": 7,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Suécia",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "33'"
+                  },
+                  {
+                    "Jogador": "Franco Causio",
+                    "Tempo": "58'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "7'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "55'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Israel",
+                "Gols": [
+                  {
+                    "Jogador": "Angelo Domenghini",
+                    "Tempo": "34'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "52'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "84'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "Uruguai",
+            "Pontos": 2,
+            "Jogos": 3,
+            "Vitórias": 0,
+            "Empates": 2,
+            "Derrotas": 1,
+            "Gols Marcados": 2,
+            "Gols Sofridos": 4,
+            "Saldo de Gols": -2,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Israel",
+                "Gols": []
+              },
+              {
+                "Adversário": "Suécia",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Porta",
+                    "Tempo": "1'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Itália",
+                "Gols": []
+              }
+            ]
+          },
+          {
+            "Posição": 3,
+            "Time": "Suécia",
+            "Pontos": 2,
+            "Jogos": 3,
+            "Vitórias": 0,
+            "Empates": 2,
+            "Derrotas": 1,
+            "Gols Marcados": 2,
+            "Gols Sofridos": 5,
+            "Saldo de Gols": -3,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Itália",
+                "Gols": []
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Tommy Svensson",
+                    "Tempo": "49'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Israel",
+                "Gols": [
+                  {
+                    "Jogador": "Göran Sjöberg",
+                    "Tempo": "19'"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Fase de Grupos - Grupo 4": [
+          {
+            "Posição": 1,
+            "Time": "Alemanha Ocidental",
+            "Pontos": 5,
+            "Jogos": 3,
+            "Vitórias": 2,
+            "Empates": 1,
+            "Derrotas": 0,
+            "Gols Marcados": 4,
+            "Gols Sofridos": 1,
+            "Saldo de Gols": 3,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Marrocos",
+                "Gols": [
+                  {
+                    "Jogador": "Gerd Müller",
+                    "Tempo": "59'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Peru",
+                "Gols": [
+                  {
+                    "Jogador": "Gerd Müller",
+                    "Tempo": "10'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Bulgária",
+                "Gols": []
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "Peru",
+            "Pontos": 4,
+            "Jogos": 3,
+            "Vitórias": 1,
+            "Empates": 2,
+            "Derrotas": 0,
+            "Gols Marcados": 6,
+            "Gols Sofridos": 4,
+            "Saldo de Gols": 2,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Bulgária",
+                "Gols": [
+                  {
+                    "Jogador": "Teófilo Cubillas",
+                    "Tempo": "48'"
+                  },
+                  {
+                    "Jogador": "Teófilo Cubillas",
+                    "Tempo": "55'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": [
+                  {
+                    "Jogador": "Teófilo Cubillas",
+                    "Tempo": "76'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Marrocos",
+                "Gols": [
+                  {
+                    "Jogador": "Teófilo Cubillas",
+                    "Tempo": "36'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 3,
+            "Time": "Bulgária",
+            "Pontos": 2,
+            "Jogos": 3,
+            "Vitórias": 0,
+            "Empates": 2,
+            "Derrotas": 1,
+            "Gols Marcados": 1,
+            "Gols Sofridos": 5,
+            "Saldo de Gols": -4,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": []
+              },
+              {
+                "Adversário": "Peru",
+                "Gols": []
+              },
+              {
+                "Adversário": "Marrocos",
+                "Gols": [
+                  {
+                    "Jogador": "Dinko Dermendzhiev",
+                    "Tempo": "69'"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Quartas de Final": [
+          {
+            "Posição": 1,
+            "Time": "Brasil",
+            "Pontos": 6,
+            "Jogos": 4,
+            "Vitórias": 3,
+            "Empates": 0,
+            "Derrotas": 1,
+            "Gols Marcados": 9,
+            "Gols Sofridos": 6,
+            "Saldo de Gols": 3,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Peru",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Rivellino",
+                    "Tempo": "11'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  },
+                  {
+                    "Jogador": "Tostão",
+                    "Tempo": "89'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Inglaterra",
+                "Gols": [
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "59'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Romênia",
+                "Gols": [
+                  {
+                    "Jogador": "Pele",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pele",
+                    "Tempo": "66'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  },
+                  {
+                    "Jogador": "Rivelino",
+                    "Tempo": "88'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "Itália",
+            "Pontos": 9,
+            "Jogos": 4,
+            "Vitórias": 4,
+            "Empates": 0,
+            "Derrotas": 0,
+            "Gols Marcados": 12,
+            "Gols Sofridos": 3,
+            "Saldo de Gols": 9,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Suécia",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "33'"
+                  },
+                  {
+                    "Jogador": "Franco Causio",
+                    "Tempo": "58'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "7'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "55'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Israel",
+                "Gols": [
+                  {
+                    "Jogador": "Angelo Domenghini",
+                    "Tempo": "34'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "52'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "84'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "8'"
+                  },
+                  {
+                    "Jogador": "Gianni Rivera",
+                    "Tempo": "49'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "82'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 3,
+            "Time": "Alemanha Ocidental",
+            "Pontos": 7,
+            "Jogos": 4,
+            "Vitórias": 3,
+            "Empates": 1,
+            "Derrotas": 0,
+            "Gols Marcados": 6,
+            "Gols Sofridos": 1,
+            "Saldo de Gols": 5,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Marrocos",
+                "Gols": [
+                  {
+                    "Jogador": "Gerd Müller",
+                    "Tempo": "59'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Peru",
+                "Gols": [
+                  {
+                    "Jogador": "Gerd Müller",
+                    "Tempo": "10'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Bulgária",
+                "Gols": [
+                  {
+                    "Jogador": "Gerd Müller",
+                    "Tempo": "28'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Itália",
+                "Gols": []
+              }
+            ]
+          },
+          {
+            "Posição": 4,
+            "Time": "Uruguai",
+            "Pontos": 2,
+            "Jogos": 4,
+            "Vitórias": 0,
+            "Empates": 2,
+            "Derrotas": 2,
+            "Gols Marcados": 2,
+            "Gols Sofridos": 8,
+            "Saldo de Gols": -6,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Israel",
+                "Gols": []
+              },
+              {
+                "Adversário": "Suécia",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Porta",
+                    "Tempo": "1'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Itália",
+                "Gols": []
+              },
+              {
+                "Adversário": "Brasil",
+                "Gols": [
+                  {
+                    "Jogador": "Eduardo de la Peña",
+                    "Tempo": "19'"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Semifinais": [
+          {
+            "Posição": 1,
+            "Time": "Itália",
+            "Pontos": 12,
+            "Jogos": 5,
+            "Vitórias": 5,
+            "Empates": 0,
+            "Derrotas": 0,
+            "Gols Marcados": 13,
+            "Gols Sofridos": 3,
+            "Saldo de Gols": 10,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Suécia",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "33'"
+                  },
+                  {
+                    "Jogador": "Franco Causio",
+                    "Tempo": "58'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "7'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "55'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Israel",
+                "Gols": [
+                  {
+                    "Jogador": "Angelo Domenghini",
+                    "Tempo": "34'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "52'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "84'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "8'"
+                  },
+                  {
+                    "Jogador": "Gianni Rivera",
+                    "Tempo": "49'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "82'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Brasil",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "84'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "Brasil",
+            "Pontos": 9,
+            "Jogos": 5,
+            "Vitórias": 4,
+            "Empates": 1,
+            "Derrotas": 0,
+            "Gols Marcados": 10,
+            "Gols Sofridos": 4,
+            "Saldo de Gols": 6,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Tchecoslováquia",
+                "Gols": [
+                  {
+                    "Jogador": "Rivelino",
+                    "Tempo": "11'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Inglaterra",
+                "Gols": [
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "59'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Romênia",
+                "Gols": [
+                  {
+                    "Jogador": "Pelé",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pelé",
+                    "Tempo": "66'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  },
+                  {
+                    "Jogador": "Rivelino",
+                    "Tempo": "88'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Itália",
+                "Gols": [
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "84'"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "Final": [
+          {
+            "Posição": 1,
+            "Time": "Brasil",
+            "Pontos": 12,
+            "Jogos": 6,
+            "Vitórias": 5,
+            "Empates": 1,
+            "Derrotas": 0,
+            "Gols Marcados": 12,
+            "Gols Sofridos": 5,
+            "Saldo de Gols": 7,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Tchecoslováquia",
+                "Gols": [
+                  {
+                    "Jogador": "Rivelino",
+                    "Tempo": "11'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Inglaterra",
+                "Gols": [
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "59'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Romênia",
+                "Gols": [
+                  {
+                    "Jogador": "Pelé",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pelé",
+                    "Tempo": "66'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "75'"
+                  },
+                  {
+                    "Jogador": "Rivelino",
+                    "Tempo": "88'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Itália",
+                "Gols": [
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "84'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": [
+                  {
+                    "Jogador": "Pelé",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Gerson",
+                    "Tempo": "66'"
+                  },
+                  {
+                    "Jogador": "Jairzinho",
+                    "Tempo": "71'"
+                  },
+                  {
+                    "Jogador": "Carlos Alberto",
+                    "Tempo": "86'"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Posição": 2,
+            "Time": "Itália",
+            "Pontos": 12,
+            "Jogos": 6,
+            "Vitórias": 5,
+            "Empates": 0,
+            "Derrotas": 1,
+            "Gols Marcados": 13,
+            "Gols Sofridos": 4,
+            "Saldo de Gols": 9,
+            "Jogos e Gols": [
+              {
+                "Adversário": "Suécia",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "18'"
+                  },
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "33'"
+                  },
+                  {
+                    "Jogador": "Franco Causio",
+                    "Tempo": "58'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Uruguai",
+                "Gols": [
+                  {
+                    "Jogador": "Pietro Anastasi",
+                    "Tempo": "7'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "55'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Israel",
+                "Gols": [
+                  {
+                    "Jogador": "Angelo Domenghini",
+                    "Tempo": "34'"
+                  },
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "52'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "84'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "8'"
+                  },
+                  {
+                    "Jogador": "Gianni Rivera",
+                    "Tempo": "49'"
+                  },
+                  {
+                    "Jogador": "Gigi Riva",
+                    "Tempo": "82'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Brasil",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "84'"
+                  }
+                ]
+              },
+              {
+                "Adversário": "Alemanha Ocidental",
+                "Gols": [
+                  {
+                    "Jogador": "Roberto Boninsegna",
+                    "Tempo": "37'"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+      
+    }
+    
+    {
+      "selecoes": [
+        {
+          "selecao": "Seleção Soviética",
+          "treinador": "Kachalin",
+          "jogadores": [
+            "Shmuts",
+            "Kavazashvili",
+            "Afonin",
+            "Dzodzuashvili",
+            "Kaplichnyi",
+            "Lovchev",
+            "Logofet",
+            "Khurtsilava",
+            "Shesternyov",
+            "Zykov",
+            "Asatiani",
+            "Kiselev",
+            "Yashin",
+            "Munteanu",
+            "Serebryanikov",
+            "Byshovets",
+            "Yevryuzhikhin",
+            "Met'reveli",
+            "Nodia",
+            "Puzach",
+            "Khmelnyts'kyi",
+            "Porkujan"
+          ]
+        },
+        {
+          "selecao": "Seleção Mexicana",
+          "treinador": "Cárdenas",
+          "jogadores": [
+            "Calderón",
+            "Alejandrez",
+            "Peña",
+            "Montes",
+            "Pérez",
+            "Hernández",
+            "Rivas",
+            "Munguía",
+            "Borja",
+            "Salgado",
+            "Padilla",
+            "Mota",
+            "Vantolrá",
+            "Guzmán",
+            "Pulido",
+            "Díaz",
+            "González",
+            "Velarde",
+            "Valdivia",
+            "Basaguren",
+            "Fragoso",
+            "Castrejón"
+          ]
+        },
+        {
+          "selecao": "Seleção Belga",
+          "treinador": "Goethals",
+          "jogadores": [
+            "Piot",
+            "Heylens",
+            "Thissen",
+            "Dewalque",
+            "Jeck",
+            "Dockx",
+            "Semmeling",
+            "Van Moer",
+            "Devrindt",
+            "Van Himst",
+            "Puis",
+            "Trappeniers",
+            "Beurlet",
+            "Martens",
+            "Vandendaele",
+            "Polleunis",
+            "Verheyen",
+            "Lambert",
+            "Carteus",
+            "Peeters",
+            "Janssens",
+            "Duquesne"
+          ]
+        },
+        {
+          "selecao": "Seleção Salvadorenha",
+          "treinador": "Carrasco",
+          "jogadores": [
+            "Magaña",
+            "Rivas",
+            "Mariona",
+            "Cortés",
+            "Osorio",
+            "Quintanilla",
+            "Rodríguez",
+            "Vásquez",
+            "Martínez",
+            "Cabezas",
+            "Aparicio",
+            "Monge",
+            "Pineda",
+            "Manzano",
+            "Cabrera",
+            "Sarmeno",
+            "Portillo",
+            "Castro",
+            "Méndez",
+            "Fernández",
+            "Acevedo",
+            "Villalta"
+          ]
+        },
+        {
+          "selecao": "Seleção Italiana (2º lugar)",
+          "treinador": "Valcareggi",
+          "jogadores": [
+            "Albertosi",
+            "Burgnich",
+            "Facchetti",
+            "Poletti",
+            "Cera",
+            "Ferrante",
+            "Niccolai",
+            "Rosato",
+            "Puia",
+            "Bertini",
+            "Riva",
+            "Zoff",
+            "Domenghini",
+            "Rivera",
+            "Mazzola",
+            "De Sisti",
+            "Vieri",
+            "Juliano",
+            "Gori",
+            "Boninsegna",
+            "Furino",
+            "Prati"
+          ]
+        },
+        {
+          "selecao": "Seleção Uruguaia (4º lugar)",
+          "treinador": "Hohberg",
+          "jogadores": [
+            "Mazurkiewicz",
+            "Ancheta",
+            "Matosas",
+            "Ubiñas",
+            "Montero Castillo",
+            "Mujica",
+            "Cubilla",
+            "Rocha",
+            "Espárrago",
+            "Maneiro",
+            "Morales",
+            "Santos",
+            "Sandoval",
+            "Cámera",
+            "Fontes",
+            "Caetano",
+            "Bareño",
+            "Gómez",
+            "Zubía",
+            "Cortés",
+            "Losada",
+            "Corbo"
+          ]
+        },
+        {
+          "selecao": "Seleção Sueca",
+          "treinador": "Bergmark",
+          "jogadores": [
+            "Hellström",
+            "Selander",
+            "Axelsson",
+            "Nordqvist",
+            "Grip",
+            "Svensson",
+            "B. Larsson",
+            "Eriksson",
+            "Kindvall",
+            "Grahn",
+            "Persson",
+            "S. Larsson",
+            "Cronqvist",
+            "Kristensson",
+            "Målberg",
+            "Nordahl",
+            "Pettersson",
+            "Turesson",
+            "Nicklasson",
+            "Olsson",
+            "Ejderstedt",
+            "Pålsson"
+          ]
+        },
+        {
+          "selecao": "Seleção Israelense",
+          "treinador": "Scheffer",
+          "jogadores": [
+            "Borovich",
+            "Benvenisti",
+            "Spiegel",
+            "Fadida",
+            "Rosenthal",
+            "Strelzik",
+            "Asulin",
+            "Hershkowitz",
+            "Spiegler",
+            "Barukh",
+            "Primo",
+            "Feigenbaum",
+            "Lax",
+            "Ginzburg",
+            "Tishbi",
+            "Blatman",
+            "Shum",
+            "Basok",
+            "Shimon",
+            "Gavra",
+            "Friedman",
+            "Talbi"
+          ]
+        },
+        {
+          "selecao": "Seleção Marroquina",
+          "treinador": "Hazzaz",
+          "jogadores": [
+            "Chadli",
+            "Trabelsi",
+            "Feddal",
+            "Mrabet",
+            "Hakim",
+            "Krimau",
+            "Aziz",
+            "Ghazouani",
+            "Faras",
+            "Filali",
+            "El Ammari",
+            "Idrissi",
+            "Naybet",
+            "Lamriss",
+            "Timoumi",
+            "Alaoui",
+            "Bahja",
+            "Nejmi",
+            "Ouchen",
+            "Bamous",
+            "Bernoussi",
+            "Farabi"
+          ]
+        },
+        {
+          "selecao": "Seleção Peruana",
+          "treinador": "Didi",
+          "jogadores": [
+            "Rubiños",
+            "Chumpitaz",
+            "Mifflin",
+            "Challe",
+            "Fuentes",
+            "Del Castillo",
+            "Baylón",
+            "León",
+            "Cubillas",
+            "Gallardo",
+            "Sotil",
+            "Campos",
+            "Gonzáles",
+            "De La Torre",
+            "Terry",
+            "Ramírez",
+            "Chirinos",
+            "Joya",
+            "Cruzado",
+            "Chávez",
+            "Fernández",
+            "Velásquez"
+          ]
+        },
+        {
+          "selecao": "Seleção Romena",
+          "treinador": "Câmpeanu",
+          "jogadores": [
+            "Stere",
+            "Deleanu",
+            "Dinu",
+            "Gergely",
+            "Mărdărescu",
+            "Dumitrache",
+            "Nunweiller",
+            "Neagu",
+            "Dembrovschi",
+            "Dembrowski",
+            "Cucu",
+            "Pădureanu",
+            "Sătmăreanu",
+            "Dumitrache II",
+            "Călinoiu",
+            "Dinu II",
+            "Băcuț",
+            "Dridea",
+            "Lucescu",
+            "Panait",
+            "Băcuț II",
+            "Geolgău"
+          ]
+        },
+        {
+          "selecao": "Seleção Inglesa",
+          "treinador": "Ramsey",
+          "jogadores": [
+            "Banks",
+            "Newton",
+            "Moore",
+            "Labone",
+            "Wilson",
+            "Ball",
+            "Charlton",
+            "Peters",
+            "Greaves",
+            "Hurst",
+            "Hunter",
+            "Bonetti",
+            "Mullery",
+            "Stiles",
+            "B. Charlton",
+            "Mulligan",
+            "Clarke",
+            "Summerbee",
+            "Cooper",
+            "J. Charlton",
+            "Astle",
+            "Oakes"
+          ]
+        },
+        {
+          "selecao": "Seleção Búlgara",
+          "treinador": "Panayotov",
+          "jogadores": [
+            "Sarmov",
+            "Radoev",
+            "Jekov",
+            "Dimitrov",
+            "Ivanov",
+            "Dimitrov II",
+            "Zhechev",
+            "Asparuhov",
+            "Kolev",
+            "Bonev",
+            "Yankov",
+            "Zhechev II",
+            "Manolov",
+            "Penev",
+            "Borimirov",
+            "Nikodimov",
+            "Katsarov",
+            "Simeonov",
+            "Kazakov",
+            "Savov",
+            "Iankov",
+            "Vutsov"
+          ]
+        },
+        {
+          "selecao": "Seleção Alemã Ocidental",
+          "treinador": "Helmut Schön",
+          "jogadores": [
+          "Maier",
+          "Vogts",
+          "Schnellinger",
+          "Weber",
+          "Beckenbauer",
+          "Overath",
+          "Haller",
+          "Seeler",
+          "Held",
+          "Löhr",
+          "Höttges",
+          "Grabowski",
+          "Libuda",
+          "Krämer",
+          "Neisner",
+          "Wimmer",
+          "Müller",
+          "Brülls",
+          "Sieloff",
+          "Nigbur",
+          "Manglitz",
+          "Piontek"
+          ]
+          },
+        {
+          "selecao": "Seleção Tchecoslovaca",
+          "treinador": "Herberger",
+          "jogadores": [
+            "Viktor",
+            "Čapkovič",
+            "Hagara",
+            "Horváth",
+            "Sosnovec",
+            "Hruška",
+            "Tichý",
+            "Nedvěd",
+            "Kvašňák",
+            "Petráš",
+            "Švehlík",
+            "Barmoš",
+            "Scherer",
+            "Adamec",
+            "Kraus",
+            "Dobiaš",
+            "Čapkovič II",
+            "Bielik",
+            "Šťastný",
+            "Švec",
+            "Veselý",
+            "Kozel"
+          ]
+        },
+        {
+          "selecao": "Seleção Brasileira (Campeã)",
+          "treinador": "Zagallo",
+          "jogadores": [
+            "Félix",
+            "Carlos Alberto",
+            "Britto",
+            "Djalma Dias",
+            "Brito",
+            "Everaldo",
+            "Piazza",
+            "Clodoaldo",
+            "Jairzinho",
+            "Pelé",
+            "Tostão",
+            "Leão",
+            "Marco Antônio",
+            "Roberto Miranda",
+            "Joel",
+            "Edu",
+            "Paulo César",
+            "Gérson",
+            "Rivelino",
+            "Dario",
+            "Baldocchi",
+            "Fontana"
+          ]
+        }
+      ]
+    }
+  },
+}
+{
+  "Copa-do-Mundo-1978": {
+      "edicao": "Copa do Mundo FIFA de 1978",
+      "paisSede": "Argentina",
+      "periodo": "1º – 25 de junho",
+      "campeao": "Argentina (1º título)",
+      "vicecampeao": "Países Baixos",
+      "terceiroLugar": "Brasil",
+      "totalDeGols": "102",
+      "mediaDeGols": "2,68 gol(o)s por partida",
+      "artilheiro": "Mario Kempes – 6 gols",
+      "melhorAtaque": "Peru – 7 gols",
+      "melhorDefesa": "Alemanha Ocidental – Nenhum gol",
+      "maiorGoleada": "Alemanha Ocidental 6–0 MéxicoEstádio Olímpico Chateau Carreras, Córdova6 de junho, Grupo 2",
+      "publicoTotal": "1 546 151",
+      "participantes": "16",
+      "melhorJogador": "Mario Kempes",
+      "melhorJogadorJovem": "Antonio Cabrini"
+  },
+  
 }
