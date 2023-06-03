@@ -458,6 +458,7 @@
         ]
       }
     ],
+
     "Jogos": [
       {
         "Semi-finail": [
@@ -589,19 +590,11 @@
         }
       }
     ],
+
     "seleção-da-copa": {
-      "Goleiro": [
-        "Alex Thépot"
-      ],
-      "Zagueiros": [
-        "Milutin Ivkovic",
-        "José Nassazzi"
-      ],
-      "Meias": [
-        "Fausto",
-        "José Leandro Andrade",
-        "Luís Monti"
-      ],
+      "Goleiro": ["Alex Thépot"],
+      "Zagueiros": ["Milutin Ivkovic", "José Nassazzi"],
+      "Meias": ["Fausto", "José Leandro Andrade", "Luís Monti"],
       "Atacantes": [
         "Héctor Castro",
         "Héctor Scarone",
@@ -668,6 +661,7 @@
       }
     ]
   },
+
   "Copa-do-Mundo-1934": {
     "info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1934",
@@ -740,9 +734,7 @@
               "Ferrari (63')",
               "Meazza (90')"
             ],
-            "Goleadores": [
-              "Donelli (57')"
-            ],
+            "Goleadores": ["Donelli (57')"],
             "Público": "25,000",
             "Árbitro": "René Mercet (SUI)"
           },
@@ -754,13 +746,8 @@
             "Gols 2": 1,
             "Estádio": "Stadio Luigi Ferraris, Gênova",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Iraragorri (18' (pen.), 25')",
-              "Lángara (28')"
-            ],
-            "Goleadores": [
-              "Leônidas (54')"
-            ],
+            "Artilheiros": ["Iraragorri (18' (pen.), 25')", "Lángara (28')"],
+            "Goleadores": ["Leônidas (54')"],
             "Público": "21,000",
             "Árbitro": "Alfred Birlem (ALE)"
           },
@@ -772,15 +759,8 @@
             "Gols 2": 2,
             "Estádio": "Stadio Benito Mussolini, Turim",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Sindelar (44')",
-              "Schall (93')",
-              "Bican (109')"
-            ],
-            "Goleadores": [
-              "Nicolas (18')",
-              "Verriest (116' (pen.))"
-            ],
+            "Artilheiros": ["Sindelar (44')", "Schall (93')", "Bican (109')"],
+            "Goleadores": ["Nicolas (18')", "Verriest (116' (pen.))"],
             "Público": "16,000",
             "Árbitro": "John van Morsell (HOL)"
           },
@@ -792,14 +772,8 @@
             "Gols 2": 2,
             "Estádio": "Estádio Giorgio Ascarelli, Nápoles",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Teleki (11')",
-              "Todi (27', 61')",
-              "Vincze (53')"
-            ],
-            "Goleadores": [
-              "Fawzi (31', 39')"
-            ],
+            "Artilheiros": ["Teleki (11')", "Todi (27', 61')", "Vincze (53')"],
+            "Goleadores": ["Fawzi (31', 39')"],
             "Público": "9,000",
             "Árbitro": "Rinaldo Barlassina (ITA)"
           },
@@ -811,13 +785,8 @@
             "Gols 2": 1,
             "Estádio": "Stadio Littorio, Trieste",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Puč (50')",
-              "Nejedlý (67')"
-            ],
-            "Goleadores": [
-              "Dobay (11')"
-            ],
+            "Artilheiros": ["Puč (50')", "Nejedlý (67')"],
+            "Goleadores": ["Dobay (11')"],
             "Público": "9,000",
             "Árbitro": "John Langenus (BEL)"
           },
@@ -829,14 +798,8 @@
             "Gols 2": 2,
             "Estádio": "Stadio San Siro, Milão",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Kielholz (7', 43')",
-              "Abegglen (69')"
-            ],
-            "Goleadores": [
-              "Smit (19')",
-              "Vente (84')"
-            ],
+            "Artilheiros": ["Kielholz (7', 43')", "Abegglen (69')"],
+            "Goleadores": ["Smit (19')", "Vente (84')"],
             "Público": "33,000",
             "Árbitro": "Ivan Eklind (SUE)"
           },
@@ -853,9 +816,7 @@
               "Siffling (49')",
               "Conen (66', 70', 87')"
             ],
-            "Goleadores": [
-              "Voorhoof (29', 43')"
-            ],
+            "Goleadores": ["Voorhoof (29', 43')"],
             "Público": "8,000",
             "Árbitro": "Francesco Mattea (ITA)"
           },
@@ -867,14 +828,8 @@
             "Gols 2": 2,
             "Estádio": "Stadio Littorale, Bolonha",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Jonasson (9', 67')",
-              "Kroon (79')"
-            ],
-            "Goleadores": [
-              "Belis (4')",
-              "Galateo (48')"
-            ],
+            "Artilheiros": ["Jonasson (9', 67')", "Kroon (79')"],
+            "Goleadores": ["Belis (4')", "Galateo (48')"],
             "Público": "14,000",
             "Árbitro": "Eugen Braun (AUT)"
           }
@@ -888,12 +843,8 @@
             "Gols 2": 1,
             "Estádio": "Stadio Giovanni Berta, Florença",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Ferrari (44')"
-            ],
-            "Goleadores": [
-              "Regueiro (30')"
-            ],
+            "Artilheiros": ["Ferrari (44')"],
+            "Goleadores": ["Regueiro (30')"],
             "Público": "35,000",
             "Árbitro": "Louis Baert (BEL)"
           },
@@ -905,13 +856,8 @@
             "Gols 2": 1,
             "Estádio": "Stadio Littorale, Bolonha",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Horvath (8')",
-              "Zischek (51')"
-            ],
-            "Goleadores": [
-              "Sárósi (60' (pen.))"
-            ],
+            "Artilheiros": ["Horvath (8')", "Zischek (51')"],
+            "Goleadores": ["Sárósi (60' (pen.))"],
             "Público": "23,000",
             "Árbitro": "Francesco Mattea (ITA)"
           },
@@ -923,15 +869,8 @@
             "Gols 2": 2,
             "Estádio": "Stadio Benito Mussolini, Turim",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Svoboda (24')",
-              "Sobotka (49')",
-              "Nejedlý (82')"
-            ],
-            "Goleadores": [
-              "Kielholz (18')",
-              "Jäggi (78')"
-            ],
+            "Artilheiros": ["Svoboda (24')", "Sobotka (49')", "Nejedlý (82')"],
+            "Goleadores": ["Kielholz (18')", "Jäggi (78')"],
             "Público": "12,000",
             "Árbitro": "Alois Beranek (AUT)"
           },
@@ -943,12 +882,8 @@
             "Gols 2": 1,
             "Estádio": "Stadio San Siro, Milão",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Hohmann (60', 63')"
-            ],
-            "Goleadores": [
-              "Dunker (82')"
-            ],
+            "Artilheiros": ["Hohmann (60', 63')"],
+            "Goleadores": ["Dunker (82')"],
             "Público": "3,000",
             "Árbitro": "Rinaldo Barlassina (ITA)"
           }
@@ -961,9 +896,7 @@
           "Gols 2": 0,
           "Estádio": "Stadio Giovanni Berta, Florença",
           "Horário": "16:30 (CEST)",
-          "Artilheiros": [
-            "Meazza (11')"
-          ],
+          "Artilheiros": ["Meazza (11')"],
           "Goleadores": [],
           "Público": "43,000",
           "Árbitro": "René Mercet (SUI)"
@@ -977,9 +910,7 @@
             "Gols 2": 0,
             "Estádio": "Estádio San Siro, Milão",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Guaita (19')"
-            ],
+            "Artilheiros": ["Guaita (19')"],
             "Goleadores": [],
             "Público": "35,000",
             "Árbitro": "Alfred Birlem (ALE)"
@@ -992,14 +923,8 @@
             "Gols 2": 1,
             "Estádio": "Stadio Littorale, Bolonha",
             "Horário": "16:30 (CEST)",
-            "Artilheiros": [
-              "Puč (25')",
-              "Svoboda (70')",
-              "Nejedlý (89')"
-            ],
-            "Goleadores": [
-              "Conen (82')"
-            ],
+            "Artilheiros": ["Puč (25')", "Svoboda (70')", "Nejedlý (89')"],
+            "Goleadores": ["Conen (82')"],
             "Público": "15,000",
             "Árbitro": "Ivan Eklind (SUE)"
           }
@@ -1012,15 +937,8 @@
           "Gols 2": 2,
           "Estádio": "Estádio Giorgio Ascarelli, Nápoles",
           "Horário": "18:00 (CEST)",
-          "Artilheiros": [
-            "Lehner (1')",
-            "Lehner (42')",
-            "Conen (27')"
-          ],
-          "Goleadores": [
-            "Horvath (28')",
-            "Sesta (54')"
-          ],
+          "Artilheiros": ["Lehner (1')", "Lehner (42')", "Conen (27')"],
+          "Goleadores": ["Horvath (28')", "Sesta (54')"],
           "Público": "7,000",
           "Árbitro": "Albino Carraro (ITA)"
         },
@@ -1032,13 +950,8 @@
           "Gols 2": 1,
           "Estádio": "Stadio Nazionale PNF, Roma",
           "Horário": "16:30 (CEST)",
-          "Artilheiros": [
-            "Orsi (81')",
-            "Meazza (95')"
-          ],
-          "Goleadores": [
-            "Puč (71')"
-          ],
+          "Artilheiros": ["Orsi (81')", "Meazza (95')"],
+          "Goleadores": ["Puč (71')"],
           "Público": "52,000",
           "Árbitro": "Pietro Rovesti (ITA)"
         }
@@ -1046,15 +959,8 @@
     ],
     "Seleção-da-copa": {
       "Goleiro": "Ricardo Zamora",
-      "Zagueiros": [
-        "Eraldo Monzeglio",
-        "Jacinto Quincoces"
-      ],
-      "Meias": [
-        "Johann Urbanek",
-        "Luís Monti",
-        "Josef Koštálek"
-      ],
+      "Zagueiros": ["Eraldo Monzeglio", "Jacinto Quincoces"],
+      "Meias": ["Johann Urbanek", "Luís Monti", "Josef Koštálek"],
       "Atacantes": [
         "Giuseppe Meazza",
         "Raimundo Orsi",
@@ -1064,6 +970,7 @@
       ]
     }
   },
+
   "Copa-do-Mundo-1938": {
     "Infos-gerais": {
       "edicao": "Copa do Mundo FIFA de 1938",
@@ -1747,15 +1654,8 @@
     ],
     "Seleção-da-copa": {
       "goleiro": "František Plánička",
-      "zagueiros": [
-        "Domingos da Guia",
-        "Étienne Mattler"
-      ],
-      "meias": [
-        "Antal Szalay",
-        "Michele Andreolo",
-        "Ugo Locatelli"
-      ],
+      "zagueiros": ["Domingos da Guia", "Étienne Mattler"],
+      "meias": ["Antal Szalay", "Michele Andreolo", "Ugo Locatelli"],
       "atacantes": [
         "Silvio Piola",
         "Gino Colaussi",
@@ -1765,6 +1665,7 @@
       ]
     }
   },
+
   "Copa-do-Mundo-1950": {
     "info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1950",
@@ -2361,9 +2262,7 @@
               "Chico 39', 88'",
               "Maneca 85'"
             ],
-            "Suécia": [
-              "Andersson 67' (pen)"
-            ]
+            "Suécia": ["Andersson 67' (pen)"]
           },
           "relatorio": "Ademir 17', 36', 52', 58'; Chico 39', 88'; Maneca 85'; Andersson 67' (pen)",
           "publico": "138,886",
@@ -2378,13 +2277,8 @@
           "estadio": "Estádio do Pacaembu, São Paulo",
           "horario": "15:00",
           "gols": {
-            "Espanha": [
-              "Basora 32', 39'"
-            ],
-            "Uruguai": [
-              "Ghiggia 29'",
-              "Obdulio Varela 73'"
-            ]
+            "Espanha": ["Basora 32', 39'"],
+            "Uruguai": ["Ghiggia 29'", "Obdulio Varela 73'"]
           },
           "relatorio": "Basora 32', 39'; Ghiggia 29'; Obdulio Varela 73'",
           "publico": "44,802",
@@ -2406,9 +2300,7 @@
               "Ademir 57'",
               "Zizinho 67'"
             ],
-            "Espanha": [
-              "Silvestre 71'"
-            ]
+            "Espanha": ["Silvestre 71'"]
           },
           "relatorio": "Ademir ou Parra (contra) 15', Jair 21', Chico 31', 55', Ademir 57', Zizinho 67'; Silvestre 71'",
           "publico": "152,772",
@@ -2423,14 +2315,8 @@
           "estadio": "Estádio do Pacaembu, São Paulo",
           "horario": "15:00",
           "gols": {
-            "Uruguai": [
-              "Ghiggia 39'",
-              "Míguez 77', 85'"
-            ],
-            "Suécia": [
-              "Palmer 5'",
-              "Sundqvist 40'"
-            ]
+            "Uruguai": ["Ghiggia 39'", "Míguez 77', 85'"],
+            "Suécia": ["Palmer 5'", "Sundqvist 40'"]
           },
           "relatorio": "Ghiggia 39', Míguez 77', 85'; Palmer 5', Sundqvist 40'",
           "publico": "7,987",
@@ -2445,14 +2331,8 @@
           "estadio": "Estádio do Pacaembu, São Paulo",
           "horario": "15:00",
           "gols": {
-            "Suécia": [
-              "Sundqvist 15'",
-              "Mellberg 33'",
-              "Palmer 80'"
-            ],
-            "Espanha": [
-              "Zarra 82'"
-            ]
+            "Suécia": ["Sundqvist 15'", "Mellberg 33'", "Palmer 80'"],
+            "Espanha": ["Zarra 82'"]
           },
           "relatorio": "Sundqvist 15', Mellberg 33', Palmer 80'; Zarra 82'",
           "publico": "11,227",
@@ -2467,13 +2347,8 @@
           "estadio": "Estádio do Maracanã, Rio de Janeiro",
           "horario": "15:00",
           "gols": {
-            "Uruguai": [
-              "Schiaffino 66'",
-              "Ghiggia 79'"
-            ],
-            "Brasil": [
-              "Friaça 47'"
-            ]
+            "Uruguai": ["Schiaffino 66'", "Ghiggia 79'"],
+            "Brasil": ["Friaça 47'"]
           },
           "relatorio": "Schiaffino 66', Ghiggia 79'; Friaça 47'",
           "publico": "199,854",
@@ -2482,6 +2357,7 @@
       ]
     }
   },
+
   "Copa-do-Mundo-1954": {
     "info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1954",
@@ -4006,6 +3882,7 @@
       ]
     }
   },
+
   "Copa-do-Mundo-1958": {
     "info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1958",
@@ -4785,9 +4662,7 @@
                 "Rahn Gol marcado aos 32 minutos de jogo 32'",
                 "Gol marcado aos 79 minutos de jogo 79'"
               ],
-              "time2": [
-                "Corbatta Gol marcado aos 10 minutos de jogo 10'"
-              ]
+              "time2": ["Corbatta Gol marcado aos 10 minutos de jogo 10'"]
             },
             "público": "32 000",
             "árbitro": "Leafe (Inglaterra)"
@@ -4800,9 +4675,7 @@
             "local": "Halmstad, Örjans Vall",
             "placar": "1–0",
             "gols": {
-              "time1": [
-                "Cush Gol marcado aos 16 minutos de jogo 16'"
-              ],
+              "time1": ["Cush Gol marcado aos 16 minutos de jogo 16'"],
               "time2": []
             },
             "público": "26 000",
@@ -4821,9 +4694,7 @@
                 "Menendez Gol marcado aos 55 minutos de jogo 55'",
                 "Avio Gol marcado aos 59 minutos de jogo 59'"
               ],
-              "time2": [
-                "McParland Gol marcado aos 3 minutos de jogo 3'"
-              ]
+              "time2": ["McParland Gol marcado aos 3 minutos de jogo 3'"]
             },
             "público": "14 000",
             "árbitro": "Ahlner (Suécia)"
@@ -4854,6 +4725,7 @@
             "time1": "Alemanha Ocidental",
             "time2": "Irlanda do Norte",
             "local": "Malmö, Malmö Stadion",
+
             "placar": "2–2",
             "gols": {
               "time1": [
@@ -4884,9 +4756,7 @@
                 "Hovorka Gol marcado aos 82 minutos de jogo 82'",
                 "Gol marcado aos 89 minutos de jogo 89'"
               ],
-              "time2": [
-                "Corbatta Gol marcado aos 65 minutos de jogo 65' (pen)"
-              ]
+              "time2": ["Corbatta Gol marcado aos 65 minutos de jogo 65' (pen)"]
             },
             "público": "20 000",
             "árbitro": "Ellis (Inglaterra)"
@@ -4903,9 +4773,7 @@
                 "McParland Gol marcado aos 44 minutos de jogo 44'",
                 "Gol marcado aos 91 minutos de jogo 91'"
               ],
-              "time2": [
-                "Zikán Gol marcado aos 19 minutos de jogo 19'"
-              ]
+              "time2": ["Zikán Gol marcado aos 19 minutos de jogo 19'"]
             },
             "público": "26 000",
             "árbitro": "Guigue (França)"
@@ -4946,12 +4814,8 @@
             "local": "Västerås, Arosvallen",
             "placar": "1–1",
             "gols": {
-              "time1": [
-                "Petaković Gol marcado aos 13 minutos de jogo 13'"
-              ],
-              "time2": [
-                "Murray Gol marcado aos 48 minutos de jogo 48'"
-              ]
+              "time1": ["Petaković Gol marcado aos 13 minutos de jogo 13'"],
+              "time2": ["Murray Gol marcado aos 48 minutos de jogo 48'"]
             },
             "público": "9 500",
             "árbitro": "Wyssling (Suíça)"
@@ -5010,9 +4874,7 @@
                 "Kopa Gol marcado aos 22 minutos de jogo 22'",
                 "Fontaine Gol marcado aos 45 minutos de jogo 45'"
               ],
-              "time2": [
-                "Baird Gol marcado aos 66 minutos de jogo 66'"
-              ]
+              "time2": ["Baird Gol marcado aos 66 minutos de jogo 66'"]
             },
             "público": "13 500",
             "árbitro": "Brozzi (Argentina)"
@@ -5067,12 +4929,8 @@
             "local": "Sandviken, Järnvallen",
             "placar": "1–1",
             "gols": {
-              "time1": [
-                "Bozsik Gol marcado aos 4 minutos de jogo 4'"
-              ],
-              "time2": [
-                "J. Charles Gol marcado aos 26 minutos de jogo 26'"
-              ]
+              "time1": ["Bozsik Gol marcado aos 4 minutos de jogo 4'"],
+              "time2": ["J. Charles Gol marcado aos 26 minutos de jogo 26'"]
             },
             "público": "20 000",
             "árbitro": "Codesal (Uruguai)"
@@ -5085,12 +4943,8 @@
             "local": "Estocolmo, Estádio Råsunda",
             "placar": "1–1",
             "gols": {
-              "time1": [
-                "Belmonte Gol marcado aos 69 minutos de jogo 69'"
-              ],
-              "time2": [
-                "I. Allchurch Gol marcado aos 32 minutos de jogo 32'"
-              ]
+              "time1": ["Belmonte Gol marcado aos 69 minutos de jogo 69'"],
+              "time2": ["I. Allchurch Gol marcado aos 32 minutos de jogo 32'"]
             },
             "público": "25 000",
             "árbitro": "Lemesic (Iugoslávia)"
@@ -5107,9 +4961,7 @@
                 "Hamrin Gol marcado aos 34 minutos de jogo 34'",
                 "Gol marcado aos 55 minutos de jogo 55'"
               ],
-              "time2": [
-                "Tichy Gol marcado aos 78 minutos de jogo 78'"
-              ]
+              "time2": ["Tichy Gol marcado aos 78 minutos de jogo 78'"]
             },
             "público": "40 000",
             "árbitro": "Mowat (Escócia)"
@@ -5125,6 +4977,7 @@
               "time1": [],
               "time2": []
             },
+
             "público": "35 000",
             "árbitro": "Van Nuffel (Bélgica)"
           },
@@ -5159,9 +5012,7 @@
                 "I. Allchurch Gol marcado aos 55 minutos de jogo 55'",
                 "Medwin Gol marcado aos 76 minutos de jogo 76'"
               ],
-              "time2": [
-                "Tichy Gol marcado aos 33 minutos de jogo 33'"
-              ]
+              "time2": ["Tichy Gol marcado aos 33 minutos de jogo 33'"]
             },
             "público": "20 000",
             "árbitro": "Latychev (União Soviética)"
@@ -5282,9 +5133,7 @@
             "local": "Gotemburgo, Estádio Ullevi",
             "placar": "1–0",
             "gols": {
-              "time1": [
-                "Ilyin Gol marcado aos 68 minutos de jogo 68'"
-              ],
+              "time1": ["Ilyin Gol marcado aos 68 minutos de jogo 68'"],
               "time2": []
             },
             "público": "23 180",
@@ -5337,9 +5186,7 @@
           "local": "Gotemburgo, Estádio Ullevi",
           "placar": "1–0",
           "gols": {
-            "time1": [
-              "Pelé Gol marcado aos 66 minutos de jogo 66'"
-            ],
+            "time1": ["Pelé Gol marcado aos 66 minutos de jogo 66'"],
             "time2": []
           },
           "público": "25 000",
@@ -5353,9 +5200,7 @@
           "local": "Malmö, Malmö Stadion",
           "placar": "1–0",
           "gols": {
-            "time1": [
-              "Rahn Gol marcado aos 12 minutos de jogo 12'"
-            ],
+            "time1": ["Rahn Gol marcado aos 12 minutos de jogo 12'"],
             "time2": []
           },
           "público": "20 000",
@@ -5399,9 +5244,7 @@
               "Gren Gol marcado aos 81 minutos de jogo 81'",
               "Hamrin Gol marcado aos 88 minutos de jogo 88'"
             ],
-            "time2": [
-              "Schäfer Gol marcado aos 24 minutos de jogo 24'"
-            ]
+            "time2": ["Schäfer Gol marcado aos 24 minutos de jogo 24'"]
           },
           "público": "50 000",
           "árbitro": "Zsolt (Hungria)"
@@ -5511,6 +5354,7 @@
       ]
     }
   },
+
   "Copa-do-Mundo-1962": {
     "info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1962",
@@ -7725,6 +7569,7 @@
           "SG": "–3"
         }
       ],
+
       "grupoB": [
         {
           "Pos.": "1",
@@ -7940,6 +7785,7 @@
             "Árbitro": "PeruPER Arturo Yamasaki"
           }
         ],
+
         "Grupo-B": [
           {
             "Data": "12 de julho",
@@ -8071,6 +7917,7 @@
             "Árbitro": "BrasilBRA Armando Marques"
           }
         ],
+
         "Grupo-C": [
           {
             "Data": "12 de julho",
@@ -8219,6 +8066,7 @@
             "Árbitro": "ArgentinaARG Roberto Goicoechea"
           }
         ],
+
         "Grupo-D": [
           {
             "Data": "12 de julho",
@@ -11136,6 +10984,7 @@
             "arbitro": "Ramón Barreto (Uruguai)"
           }
         ],
+
         "Grupo-B": [
           {
             "data": "13 de junho",
@@ -11276,6 +11125,7 @@
             "arbitro": "Nicolae Raine (Romênia)"
           }
         ],
+
         "Grupo-C": [
           {
             "data": "15 de junho",
@@ -11423,6 +11273,7 @@
             "arbitro": "Erich Linemayr (Áustria)"
           }
         ],
+
         "Grupo-D": [
           {
             "data": "15 de junho",
@@ -11964,6 +11815,7 @@
         "publico": "77 100",
         "arbitro": "ItáliaITA Aurelio Angonese"
       },
+
       "Final": {
         "data": "7 de julho",
         "time_casa": "Países Baixos",
@@ -13758,6 +13610,7 @@
       }
     ]
   },
+
   "Copa-do-Mundo-1982": {
     " info-gerais": {
       "edicao": "Copa do Mundo FIFA de 1982",
@@ -15892,6 +15745,7 @@
                 "minuto": 87,
                 "selecao": "Brasil"
               },
+
               {
                 "jogador": "Narey",
                 "minuto": 18,
@@ -17750,6 +17604,7 @@
                 {
                   "jogador": "Elkjær Larsen",
                   "minuto": 67,
+
                   "equipe": "Dinamarca"
                 },
                 {
@@ -18381,6 +18236,7 @@
           }
         ]
       },
+
       "Final": {
         "29 de junho de 1986": [
           {
@@ -18441,1132 +18297,1081 @@
       "participantes": "24",
       "melhorJogador": "Salvatore Schillaci",
       "melhorJogadorJoovem": "Robert Prosinečki"
-    }
+    },
+    "Estadios": [
       {
-      "Estadios": {
-        {
-          "nome": "Estádio Giuseppe Meazza",
-          "cidade": "Milão",
-          "capacidade": "85.700 espectadores",
-          "latitude": "45.4789° N",
-          "longitude": "9.1238° E"
-        },
-        {
-          "nome": "Estádio Olímpico",
-          "cidade": "Roma",
-          "capacidade": "72.698 espectadores",
-          "latitude": "41.9341° N",
-          "longitude": "12.4549° E"
-        },
-        {
-          "nome": "Estádio San Paolo",
-          "cidade": "Nápoles",
-          "capacidade": "60.240 espectadores",
-          "latitude": "40.827° N",
-          "longitude": "14.1937° E"
-        },
-        {
-          "nome": "Estádio delle Alpi",
-          "cidade": "Turim",
-          "capacidade": "67.229 espectadores",
-          "latitude": "45.1095° N",
-          "longitude": "7.6417° E"
-        },
-        {
-          "nome": "Estádio Comunale",
-          "cidade": "Florencia",
-          "capacidade": "47.290 espectadores",
-          "latitude": "43.7995° N",
-          "longitude": "11.2476° E"
-        },
-        {
-          "nome": "Estádio Renato Dall'Ara",
-          "cidade": "Bolonha",
-          "capacidade": "39.444 espectadores",
-          "latitude": "44.5024° N",
-          "longitude": "11.3517° E"
-        },
-        {
-          "nome": "Estádio Bentegodi",
-          "cidade": "Verona",
-          "capacidade": "39.211 espectadores",
-          "latitude": "45.4375° N",
-          "longitude": "10.9853° E"
-        },
-        {
-          "nome": "Estádio La Favorita",
-          "cidade": "Palermo",
-          "capacidade": "37.995 espectadores",
-          "latitude": "38.1217° N",
-          "longitude": "13.336° E"
-        }
+        "nome": "Estádio Giuseppe Meazza",
+        "cidade": "Milão",
+        "capacidade": "85.700 espectadores",
+        "latitude": "45.4789° N",
+        "longitude": "9.1238° E"
       },
-    }
-        {
+      {
+        "nome": "Estádio Olímpico",
+        "cidade": "Roma",
+        "capacidade": "72.698 espectadores",
+        "latitude": "41.9341° N",
+        "longitude": "12.4549° E"
+      },
+      {
+        "nome": "Estádio San Paolo",
+        "cidade": "Nápoles",
+        "capacidade": "60.240 espectadores",
+        "latitude": "40.827° N",
+        "longitude": "14.1937° E"
+      },
+      {
+        "nome": "Estádio delle Alpi",
+        "cidade": "Turim",
+        "capacidade": "67.229 espectadores",
+        "latitude": "45.1095° N",
+        "longitude": "7.6417° E"
+      },
+      {
+        "nome": "Estádio Comunale",
+        "cidade": "Florencia",
+        "capacidade": "47.290 espectadores",
+        "latitude": "43.7995° N",
+        "longitude": "11.2476° E"
+      },
+      {
+        "nome": "Estádio Renato Dall'Ara",
+        "cidade": "Bolonha",
+        "capacidade": "39.444 espectadores",
+        "latitude": "44.5024° N",
+        "longitude": "11.3517° E"
+      },
+      {
+        "nome": "Estádio Bentegodi",
+        "cidade": "Verona",
+        "capacidade": "39.211 espectadores",
+        "latitude": "45.4375° N",
+        "longitude": "10.9853° E"
+      },
+      {
+        "nome": "Estádio La Favorita",
+        "cidade": "Palermo",
+        "capacidade": "37.995 espectadores",
+        "latitude": "38.1217° N",
+        "longitude": "13.336° E"
+      }
+    ],
+    "Jogo": {
       "Fases-de-Grupo": {
         "Grupo-A": {
-          {
-            "jogo1": {
-              "data": "9 de junho",
-              "país": "Itália",
-              "resultado": "Itália 1 - 0 Áustria",
-              "local": "Stadio Olimpico, Roma",
-              "horário": "21:00",
-              "gol": {
-                "jogador": "Schillaci",
-                "minuto": "78'"
-              },
-              "relatório": "Não fornecido",
-              "público": "73.303",
-              "árbitro": "José Roberto Wright (Brasil)"
-            },
-            "jogo2": {
-              "data": "10 de junho",
-              "país": "Estados Unidos",
-              "resultado": "Estados Unidos 1 - 5 Tchecoslováquia",
-              "local": "Stadio Comunale, Florença",
-              "horário": "17:00",
-              "gol": {
-                "jogador": "Caligiuri",
-                "minuto": "61'"
-              },
-              "relatório": "Skuhravý marcou aos 25 minutos de jogo (25'), Skuhravý marcou aos 78 minutos de jogo (78'), Bílek marcou aos 39 minutos de jogo (39') (pen.), Hašek marcou aos 50 minutos de jogo (50'), Luhový marcou aos 90 minutos de jogo (90')",
-              "público": "33.266",
-              "árbitro": "Kurt Röthlisberger (Suíça)"
-            }
-          },
-          {
-            "jogo3": {
-              "data": "14 de junho",
-              "país": "Itália",
-              "resultado": "Itália 1 - 0 Estados Unidos",
-              "local": "Stadio Olimpico, Roma",
-              "horário": "21:00",
-              "gol": {
-                "jogador": "Giannini",
-                "minuto": "11'"
-              },
-              "relatório": "Não fornecido",
-              "público": "73.423",
-              "árbitro": "Edgardo Codesal (México)"
-            },
-            "jogo4": {
-              "data": "15 de junho",
-              "país": "Áustria",
-              "resultado": "Áustria 0 - 1 Tchecoslováquia",
-              "local": "Stadio Comunale, Florença",
-              "horário": "17:00",
-              "gol": {
-                "jogador": "Bílek",
-                "minuto": "30' (pen.)"
-              },
-              "relatório": "Não fornecido",
-              "público": "38.962",
-              "árbitro": "George Smith (Escócia)"
-            }
-          },
-          {
-            "jogo5": {
-              "data": "19 de junho",
-              "país": "Áustria",
-              "resultado": "Áustria 2 - 1 Estados Unidos",
-              "local": "Stadio Comunale, Florença",
-              "horário": "21:00",
-              "gol": {
-                "jogador1": "Ogris",
-                "minuto1": "49'",
-                "jogador2": "Rodax",
-                "minuto2": "63'"
-              },
-              "relatório": "Murray marcou aos 83 minutos de jogo (83')",
-              "público": "34.857",
-              "árbitro": "Jamal Al-Sharif (Síria)"
-            },
-            "jogo6": {
-              "data": "19 de junho",
-              "país": "Itália",
-              "resultado": "Itália 2 - 0 Tchecoslováquia",
-              "local": "Stadio Olimpico, Roma",
-              "horário": "21:00",
-              "gol": {
-                "jogador1": "Schillaci",
-                "minuto1": "9'",
-                "jogador2": "Baggio",
-                "minuto2": "78'"
-              },
-              "relatório": "Não fornecido",
-              "público": "73.303",
-              "árbitro": "Joel Quiniol (França)"
-            }
-          },
-        },
-        {
-          "Grupo-B": {
-            {
-              "jogo1": {
-                "data": "8 de junho",
-                "país": "Argentina",
-                "resultado": "Argentina 0 - 1 Camarões",
-                "local": "Stadio Giuseppe Meazza, Milão",
-                "horário": "18:00",
-                "gol": {
-                  "jogador": "Omam-Biyik",
-                  "minuto": "67'"
-                },
-                "relatório": "Não fornecido",
-                "público": "73.780",
-                "árbitro": "Michel Vautrot (França)"
-              },
-              "jogo2": {
-                "data": "9 de junho",
-                "país": "União Soviética",
-                "resultado": "União Soviética 0 - 2 Roménia",
-                "local": "Stadio San Nicola, Bari",
-                "horário": "17:00",
-                "gol": {
-                  "jogador1": "Lăcătuş",
-                  "minuto1": "42'",
-                  "jogador2": "Lăcătuş",
-                  "minuto2": "57' (pen.)"
-                },
-                "relatório": "Não fornecido",
-                "público": "42.907",
-                "árbitro": "Juan Cardellino Vicente (Uruguai)"
-              }
-            },
-            {
-              "jogo3": {
-                "data": "13 de junho",
-                "país": "Argentina",
-                "resultado": "Argentina 2 - 0 União Soviética",
-                "local": "Stadio San Paolo, Nápoles",
-                "horário": "21:00",
-                "gol": {
-                  "jogador1": "Troglio",
-                  "minuto1": "27'",
-                  "jogador2": "Burruchaga",
-                  "minuto2": "79'"
-                },
-                "relatório": "Não fornecido",
-                "público": "55.759",
-                "árbitro": "Eric Fredriksson (Suécia)"
-              },
-              "jogo4": {
-                "data": "14 de junho",
-                "país": "Camarões",
-                "resultado": "Camarões 2 - 1 Roménia",
-                "local": "Stadio San Nicola, Bari",
-                "horário": "17:00",
-                "gol": {
-                  "jogador1": "Milla",
-                  "minuto1": "76'",
-                  "jogador2": "Milla",
-                  "minuto2": "86'"
-                },
-                "relatório": "Balint marcou aos 88 minutos de jogo (88')",
-                "público": "38.687",
-                "árbitro": "Hernan Silva Arce (Chile)"
-              }
-            },
-            {
-              "jogo5": {
-                "data": "18 de junho",
-                "país": "Camarões",
-                "resultado": "Camarões 0 - 4 União Soviética",
-                "local": "Stadio San Nicola, Bari",
-                "horário": "21:00",
-                "gol": {
-                  "jogador1": "Protasov",
-                  "minuto1": "20'",
-                  "jogador2": "Zygmantovich",
-                  "minuto2": "29'",
-                  "jogador3": "Zavarov",
-                  "minuto3": "55'",
-                  "jogador4": "Dobrovolsky",
-                  "minuto4": "63'"
-                },
-                "relatório": "Não fornecido",
-                "público": "37.307",
-                "árbitro": "José Roberto Wright (Brasil)"
-              },
-              "jogo6": {
-                "data": "18 de junho",
-                "país": "Argentina",
-                "resultado": "Argentina 1 - 1 Roménia",
-                "local": "Stadio San Paolo, Nápoles",
-                "horário": "21:00",
-                "gol": {
-                  "jogador1": "Monzón",
-                  "minuto1": "62'"
-                },
-                "relatório": "Balint marcou aos 68 minutos de jogo (68')",
-                "público": "52.733",
-                "árbitro": "Carlos Alberto Valente (Portugal)"
-              }
-            },
-            {
-              "Grupo-C": {
-                {
-                  "jogo1": {
-                    "data": "10 de junho",
-                    "país": "Brasil",
-                    "resultado": "Brasil 2 - 1 Suécia",
-                    "local": "Stadio Delle Alpi, Turim",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Careca",
-                      "minuto1": "40'",
-                      "jogador2": "Careca",
-                      "minuto2": "63'"
-                    },
-                    "relatório": "Brolin marcou aos 79 minutos de jogo (79')",
-                    "público": "62.628",
-                    "árbitro": "Tullio Lanese (Itália)"
-                  },
-                  "jogo2": {
-                    "data": "11 de junho",
-                    "país": "Costa Rica",
-                    "resultado": "Costa Rica 1 - 0 Escócia",
-                    "local": "Stadio Luigi Ferraris, Gênova",
-                    "horário": "17:00",
-                    "gol": {
-                      "jogador1": "Cayasso",
-                      "minuto1": "49'"
-                    },
-                    "relatório": "Não fornecido",
-                    "público": "30.867",
-                    "árbitro": "Juan Loustau (Argentina)"
-                  }
-                },
-                {
-                  "jogo3": {
-                    "data": "16 de junho",
-                    "país": "Brasil",
-                    "resultado": "Brasil 1 - 0 Costa Rica",
-                    "local": "Stadio Delle Alpi, Turim",
-                    "horário": "17:00",
-                    "gol": {
-                      "jogador1": "Müller",
-                      "minuto1": "33'"
-                    },
-                    "relatório": "Não fornecido",
-                    "público": "58.007",
-                    "árbitro": "Neji Jouini (Turquia)"
-                  },
-                  "jogo4": {
-                    "data": "16 de junho",
-                    "país": "Suécia",
-                    "resultado": "Suécia 1 - 2 Escócia",
-                    "local": "Stadio Luigi Ferraris, Gênova",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Strömberg",
-                      "minuto1": "86'"
-                    },
-                    "relatório": "McCall marcou aos 11 minutos de jogo (11'), Johnston marcou aos 81 minutos de jogo (81') (pen.)",
-                    "público": "31.823",
-                    "árbitro": "Carlos Maciel (Paraguai)"
-                  }
-                },
-                {
-                  "jogo5": {
-                    "data": "20 de junho",
-                    "país": "Brasil",
-                    "resultado": "Brasil 1 - 0 Escócia",
-                    "local": "Stadio Delle Alpi, Turim",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Müller",
-                      "minuto1": "82'"
-                    },
-                    "relatório": "Não fornecido",
-                    "público": "62.502",
-                    "árbitro": "Helmut Kohl (Áustria)"
-                  },
-                  "jogo6": {
-                    "data": "20 de junho",
-                    "país": "Suécia",
-                    "resultado": "Suécia 1 - 2 Costa Rica",
-                    "local": "Stadio Luigi Ferraris, Gênova",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Ekström",
-                      "minuto1": "32'"
-                    },
-                    "relatório": "Flores marcou aos 75 minutos de jogo (75'), Medford marcou aos 87 minutos de jogo (87')",
-                    "público": "30.223",
-                    "árbitro": "Zoran Petrović (Jugoslávia)"
-                  }
-                },
-                {
-                  "Grupo-D": {
-                    {
-                      "jogo1": {
-                        "data": "9 de junho",
-                        "país": "Emirados Árabes Unidos",
-                        "resultado": "Emirados Árabes Unidos 0 - 2 Colômbia",
-                        "local": "Stadio Renato Dall'Ara, Bolonha",
-                        "horário": "17:00",
-                        "gol": {
-                          "jogador1": "Redín",
-                          "minuto1": "50'"
-                        },
-                        "relatório": "Valderrama marcou aos 86 minutos de jogo (86')",
-                        "público": "30.791",
-                        "árbitro": "George Courtney (Inglaterra)"
-                      },
-                      "jogo2": {
-                        "data": "10 de junho",
-                        "país": "Alemanha Ocidental",
-                        "resultado": "Alemanha Ocidental 4 - 1 Iugoslávia",
-                        "local": "Stadio Giuseppe Meazza, Milão",
-                        "horário": "21:00",
-                        "gol": {
-                          "jogador1": "Matthäus",
-                          "minuto1": "28'",
-                          "jogador2": "Matthäus",
-                          "minuto2": "64'",
-                          "jogador3": "Klinsmann",
-                          "minuto3": "39'",
-                          "jogador4": "Völler",
-                          "minuto4": "70'"
-                        },
-                        "relatório": "Jozić marcou aos 55 minutos de jogo (55')",
-                        "público": "74.765",
-                        "árbitro": "Peter Mikkelsen (Dinamarca)"
-                      },
-                      "jogo3": {
-                        "data": "14 de junho",
-                        "país": "Iugoslávia",
-                        "resultado": "Iugoslávia 1 - 0 Colômbia",
-                        "local": "Stadio Renato Dall'Ara, Bolonha",
-                        "horário": "17:00",
-                        "gol": {
-                          "jogador1": "Jozić",
-                          "minuto1": "75'"
-                        },
-                        "relatório": "Não fornecido",
-                        "público": "32.257",
-                        "árbitro": "Luigi Agnolin (Itália)"
-                      },
-                      "jogo4": {
-                        "data": "15 de junho",
-                        "país": "Alemanha Ocidental",
-                        "resultado": "Alemanha Ocidental 5 - 1 Emirados Árabes Unidos",
-                        "local": "Stadio Giuseppe Meazza, Milão",
-                        "horário": "21:00",
-                        "gol": {
-                          "jogador1": "Völler",
-                          "minuto1": "35'",
-                          "jogador2": "Klinsmann",
-                          "minuto2": "37'",
-                          "jogador3": "Matthäus",
-                          "minuto3": "47'",
-                          "jogador4": "Bein",
-                          "minuto4": "58'"
-                        },
-                        "relatório": "Ismaïl marcou aos 46 minutos de jogo (46')",
-                        "público": "71.169",
-                        "árbitro": "Alexey Spirin (URSS)"
-                      },
-                      "jogo5": {
-                        "data": "19 de junho",
-                        "país": "Iugoslávia",
-                        "resultado": "Iugoslávia 4 - 1 Emirados Árabes Unidos",
-                        "local": "Stadio Renato Dall'Ara, Bolonha",
-                        "horário": "17:00",
-                        "gol": {
-                          "jogador1": "Sušić",
-                          "minuto1": "5'",
-                          "jogador2": "Pančev",
-                          "minuto2": "9'",
-                          "jogador3": "Pančev",
-                          "minuto3": "46'",
-                          "jogador4": "Prosinečki",
-                          "minuto4": "90'"
-                        },
-                        "relatório": "Jumaa marcou aos 22 minutos de jogo (22')",
-                        "público": "27.833",
-                        "árbitro": "Shizuo Takada (Japão)"
-                      },
-                      "jogo6": {
-                        "data": "19 de junho",
-                        "país": "Alemanha Ocidental",
-                        "resultado": "Alemanha Ocidental 1 - 1 Colômbia",
-                        "local": "Stadio Giuseppe Meazza, Milão",
-                        "horário": "17:00",
-                        "gol": {
-                          "jogador1": "Littbarski",
-                          "minuto1": "88'"
-                        },
-                        "relatório": "Rincón marcou aos 90 minutos de jogo (90')",
-                        "público": "72.510",
-                        "árbitro": "Alan Snoddy (Irlanda do Norte)"
-                      }
-                    }
-                  }
-                }
-              }
-            },
-            {
-              "Grupo-E": {
-                {
-                  "jogo1": {
-                    "data": "12 de junho",
-                    "país": "Bélgica",
-                    "resultado": "Bélgica 2 - 0 Coreia do Sul",
-                    "local": "Stadio Marcantonio Bentegodi, Verona",
-                    "horário": "17:00",
-                    "gol": {
-                      "jogador1": "Degryse",
-                      "minuto1": "53'",
-                      "jogador2": "De Wolf",
-                      "minuto2": "64'"
-                    },
-                    "relatório": "Não fornecido",
-                    "público": "32.790",
-                    "árbitro": "Vincent Mauro (Estados Unidos)"
-                  },
-                  "jogo2": {
-                    "data": "13 de junho",
-                    "país": "Uruguai",
-                    "resultado": "Uruguai 0 - 0 Espanha",
-                    "local": "Stadio Friuli, Udine",
-                    "horário": "17:00",
-                    "gol": {},
-                    "relatório": "Não fornecido",
-                    "público": "35.713",
-                    "árbitro": "Helmut Kohl (Áustria)"
-                  },
-                  "jogo3": {
-                    "data": "17 de junho",
-                    "país": "Coreia do Sul",
-                    "resultado": "Coreia do Sul 1 - 3 Espanha",
-                    "local": "Stadio Friuli, Udine",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Hwangbo Kwan",
-                      "minuto1": "42'"
-                    },
-                    "relatório": "Míchel marcou aos 23', 61' e 81' minutos de jogo",
-                    "público": "32.733",
-                    "árbitro": "Elías Jácome (Equador)"
-                  },
-                  "jogo4": {
-                    "data": "17 de junho",
-                    "país": "Bélgica",
-                    "resultado": "Bélgica 3 - 1 Uruguai",
-                    "local": "Stadio Marcantonio Bentegodi, Verona",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Clijsters",
-                      "minuto1": "15'",
-                      "jogador2": "Scifo",
-                      "minuto2": "24'",
-                      "jogador3": "Ceulemans",
-                      "minuto3": "47'"
-                    },
-                    "relatório": "Bengoechea marcou aos 73 minutos de jogo",
-                    "público": "33.759",
-                    "árbitro": "Siegfried Kirschen (Alemanha Oriental)"
-                  },
-                  "jogo5": {
-                    "data": "21 de junho",
-                    "país": "Coreia do Sul",
-                    "resultado": "Coreia do Sul 0 - 1 Uruguai",
-                    "local": "Stadio Friuli, Udine",
-                    "horário": "17:00",
-                    "gol": {
-                      "jogador1": "Fonseca",
-                      "minuto1": "90'"
-                    },
-                    "relatório": "Não fornecido",
-                    "público": "29.039",
-                    "árbitro": "Tullio Lanese (Itália)"
-                  },
-                  "jogo6": {
-                    "data": "21 de junho",
-                    "país": "Bélgica",
-                    "resultado": "Bélgica 1 - 2 Espanha",
-                    "local": "Stadio Marcantonio Bentegodi, Verona",
-                    "horário": "17:00",
-                    "gol": {
-                      "jogador1": "Vervoort",
-                      "minuto1": "29'"
-                    },
-                    "relatório": "Míchel marcou aos 26' (pen.) e Górriz marcou aos 38' minutos de jogo",
-                    "público": "35.950",
-                    "árbitro": "Juan Loustau (Argentina)"
-                  }
-                }
-              }
-            },
-            {
-              "Grupo-F": {
-                {
-                  "jogo1": {
-                    "data": "11 de junho",
-                    "país": "Inglaterra",
-                    "resultado": "Inglaterra 1 - 1 República da Irlanda",
-                    "local": "Stadio Sant'Elia, Cagliari",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Lineker",
-                      "minuto1": "9'"
-                    },
-                    "relatório": "Sheedy marcou aos 73 minutos de jogo",
-                    "público": "35.238",
-                    "árbitro": "Aron Schmidhuber (Alemanha Ocidental)"
-                  },
-                  "jogo2": {
-                    "data": "12 de junho",
-                    "país": "Países Baixos",
-                    "resultado": "Países Baixos 1 - 1 Egito",
-                    "local": "Stadio La Favorita, Palermo",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Kieft",
-                      "minuto1": "58'"
-                    },
-                    "relatório": "Abdelghani marcou aos 83' (pen.) minutos de jogo",
-                    "público": "33.421",
-                    "árbitro": "Emilio Aladrén (Espanha)"
-                  },
-                  "jogo3": {
-                    "data": "16 de junho",
-                    "país": "Inglaterra",
-                    "resultado": "Inglaterra 0 - 0 Países Baixos",
-                    "local": "Stadio Sant'Elia, Cagliari",
-                    "horário": "21:00",
-                    "gol": {},
-                    "relatório": "Não fornecido",
-                    "público": "35.267",
-                    "árbitro": "Zorán Petrović (Jugoslávia)"
-                  },
-                  "jogo4": {
-                    "data": "17 de junho",
-                    "país": "Irlanda",
-                    "resultado": "Irlanda 0 - 0 Egito",
-                    "local": "Stadio La Favorita, Palermo",
-                    "horário": "17:00",
-                    "gol": {},
-                    "relatório": "Não fornecido",
-                    "público": "33.288",
-                    "árbitro": "Marcel van Langenhove (Bélgica)"
-                  },
-                  "jogo5": {
-                    "data": "21 de junho",
-                    "país": "Inglaterra",
-                    "resultado": "Inglaterra 1 - 0 Egito",
-                    "local": "Stadio Sant'Elia, Cagliari",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Wright",
-                      "minuto1": "58'"
-                    },
-                    "relatório": "Não fornecido",
-                    "público": "34.959",
-                    "árbitro": "Kurt Röthlisberger (Suíça)"
-                  },
-                  "jogo6": {
-                    "data": "21 de junho",
-                    "país": "Irlanda",
-                    "resultado": "Irlanda 1 - 1 Países Baixos",
-                    "local": "Stadio La Favorita, Palermo",
-                    "horário": "21:00",
-                    "gol": {
-                      "jogador1": "Quinn",
-                      "minuto1": "71'"
-                    },
-                    "relatório": "Gullit marcou aos 11 minutos de jogo",
-                    "público": "33.288",
-                    "árbitro": "Michael Vautrot (França)"
-                  }
-                }
-              }
-            }
-          }
-        }
-      },
-      {
-        "Oitavas-de-Final": {
-          {
-            "jogo1": {
-              "data": "23 de junho",
-              "país": "Camarões",
-              "resultado": "Camarões 2 - 1 (pro.) Colômbia",
-              "local": "Stadio San Paolo, Nápoles",
-              "horário": "17:00",
-              "gol": {
-                "jogador1": "Milla",
-                "minuto1": "106'",
-                "minuto2": "109'"
-              },
-              "relatório": "Redín marcou aos 115 minutos de jogo",
-              "público": "50.026",
-              "árbitro": "Tullio Lanese (Itália)"
-            },
-            "jogo2": {
-              "data": "23 de junho",
-              "país": "Tchecoslováquia",
-              "resultado": "Tchecoslováquia 4 - 1 Costa Rica",
-              "local": "Stadio San Nicola, Bari",
-              "horário": "21:00",
-              "gol": {
-                "jogador1": "Skuhravý",
-                "minuto1": "12'",
-                "minuto2": "63'",
-                "minuto3": "82'"
-              },
-              "relatório": "González marcou aos 54 minutos de jogo",
-              "público": "47.673",
-              "árbitro": "Siegfried Kirschen (Alemanha Oriental)"
-            },
-            "jogo3": {
-              "data": "24 de junho",
-              "país": "Brasil",
-              "resultado": "Brasil 0 - 1 Argentina",
-              "local": "Stadio Delle Alpi, Turim",
-              "horário": "17:00",
-              "gol": {
-                "jogador1": "Caniggia",
-                "minuto1": "80'"
-              },
-              "relatório": "Não fornecido",
-              "público": "61.381",
-              "árbitro": "Joël Quiniou (França)"
-            },
-            "jogo4": {
-              "data": "24 de junho",
-              "país": "Alemanha Ocidental",
-              "resultado": "Alemanha Ocidental 2 - 1 Países Baixos",
-              "local": "Stadio Giuseppe Meazza, Milão",
-              "horário": "21:00",
-              "gol": {
-                "jogador1": "Klinsmann",
-                "minuto1": "51'",
-                "jogador2": "Brehme",
-                "minuto2": "85'"
-              },
-              "relatório": "Koeman marcou aos 89 minutos de jogo (pen.)",
-              "público": "74.559",
-              "árbitro": "Juan Carlos Loustau (Argentina)"
-            },
-            "jogo5": {
-              "data": "25 de junho",
-              "país": "Irlanda",
-              "resultado": "Irlanda 0 - 0 (pro.) Romênia",
-              "local": "Stadio Luigi Ferraris, Gênova",
-              "horário": "17:00",
-              "gol": {},
-              "relatório": "Não fornecido",
-              "público": "31.818",
-              "árbitro": "José Roberto Wright (Brasil)",
-              "penalidades": {
-                "equipe1": {
-                  "jogador1": "Sheedy",
-                  "Pênalti": "marcou",
-                },
-                "equipe2": {
-                  "jogador1": "Hagi",
-                  "Pênalti": "marcou",
-                },
-                "equipe1": {
-                  "jogador2": "Houghton",
-                  "Pênalti": "marcou",
-                },
-                "equipe2": {
-                  "jogador2": "Lupu",
-                  "Pênalti": "marcou",
-                },
-                "equipe1": {
-                  "jogador3": "Townsend",
-                  "Pênalti": "marcou",
-                },
-                "equipe2": {
-                  "jogador3": "Rotariu",
-                  "Pênalti": "marcou",
-                },
-                "equipe1": {
-                  "jogador4": "Cascarino",
-                  "Pênalti": "marcou",
-                },
-                "equipe2": {
-                  "jogador4": "Lupescu",
-                  "Pênalti": "marcou",
-                },
-                "equipe2": {
-                  "jogador5": "Timofte",
-                  "Pênalti": "errou",
-                }
-              }
-            },
-            "jogo6": {
-              "data": "25 de junho",
-              "país": "Itália",
-              "resultado": "Itália 2 - 0 Uruguai",
-              "local": "Stadio Olimpico, Roma",
-              "horário": "21:00",
-              "gol": {
-                "jogador1": "Schillaci",
-                "minuto1": "65'",
-                "jogador2": "Serena",
-                "minuto2": "83'"
-              },
-              "relatório": "Não fornecido",
-              "público": "73.303",
-              "árbitro": "George Courtney (Inglaterra)"
-            },
-            "jogo7": {
-              "data": "26 de junho",
-              "país": "Espanha",
-              "resultado": "Espanha 1 - 2 (pro.) Iugoslávia",
-              "local": "Stadio Marcantonio Bentegodi, Verona",
-              "horário": "17:00",
-              "gol": {
-                "jogador1": "Julio Salinas",
-                "minuto1": "83'",
-                "jogador2": "Stojković",
-                "minuto2": "78'",
-                "minuto3": "92'"
-              },
-              "relatório": "Não fornecido",
-              "público": "35.500",
-              "árbitro": "Aron Schmidhuber (Alemanha Ocidental)"
-            },
-            "jogo8": {
-              "data": "26 de junho",
-              "país": "Inglaterra",
-              "resultado": "Inglaterra 1 - 0 (pro.) Bélgica",
-              "local": "Stadio Renato Dall'Ara, Bolonha",
-              "horário": "21:00",
-              "gol": {
-                "jogador1": "Platt",
-                "minuto1": "119'"
-              },
-              "relatório": "Não fornecido",
-              "público": "34.520",
-              "árbitro": "Peter Mikkelsen (Dinamarca)"
-            }
-          }
-        }
-      },
-      {
-        "Quartas-de-Final": {
-          {
-            "jogo1": {
-              "data": "30 de junho",
-              "país1": "Argentina",
-              "país2": "Iugoslávia",
-              "resultado": "Argentina 0 - 0 (pro.) Iugoslávia",
-              "local": "Stadio Comunale, Florença",
-              "horário": "17:00",
-              "público": "38.971",
-              "árbitro": "Kurt Röthlisberger (Suíça)",
-              "penalidades": {
-                "Argentina": {
-                  "jogador1": "Serrizuela",
-                  "resultado1": "Convertido"
-                },
-                "Argentina": {
-                  "jogador2": "Burruchaga",
-                  "resultado2": "Convertido"
-                },
-                "Argentina": {
-                  "jogador3": "Maradona",
-                  "resultado3": "Erro"
-                },
-                "Argentina": {
-                  "jogador4": "Troglio",
-                  "resultado4": "Erro"
-                },
-                "Argentina": {
-                  "jogador5": "Dezotti",
-                  "resultado5": "Convertido"
-                },
-                "Iugoslávia": {
-                  "jogador1": "Stojković",
-                  "resultado1": "Erro"
-                },
-                "Iugoslávia": {
-                  "jogador2": "Prosinečki",
-                  "resultado2": "Convertido"
-                },
-                "Iugoslávia": {
-                  "jogador3": "Savićević",
-                  "resultado3": "Convertido"
-                },
-                "Iugoslávia": {
-                  "jogador4": "Brnović",
-                  "resultado4": "Erro"
-                },
-                "Iugoslávia": {
-                  "jogador5": "Hadžibegić",
-                  "resultado5": "Erro"
-                }
-              }
-            },
-            "jogo2": {
-              "data": "30 de junho",
-              "país1": "Irlanda",
-              "país2": "Itália",
-              "resultado": "Irlanda 0 - 1 Itália",
-              "local": "Stadio Olimpico, Roma",
-              "horário": "21:00",
-              "gols": [
-                {
-                  "jogador": "Schillaci",
-                  "minuto": "38",
-                  "resultado": "Gol"
-                }
-              ],
-              "público": "73.303",
-              "árbitro": "Carlos Silva Valente (Portugal)"
-            },
-            "jogo3": {
-              "data": "1 de julho",
-              "país1": "Tchecoslováquia",
-              "país2": "Alemanha Ocidental",
-              "resultado": "Tchecoslováquia 0 - 1 Alemanha Ocidental",
-              "local": "Stadio Giuseppe Meazza, Milão",
-              "horário": "17:00",
-              "gols": [
-                {
-                  "jogador": "Matthäus",
-                  "minuto": "25",
-                  "resultado": "Gol (pen.)"
-                }
-              ],
-              "público": "73.347",
-              "árbitro": "Helmut Kohl (Áustria)"
-            },
-            "jogo4": {
-              "data": "1 de julho",
-              "país1": "Camarões",
-              "país2": "Inglaterra",
-              "resultado": "Camarões 2 - 3 (pro.) Inglaterra",
-              "local": "Stadio San Paolo, Nápoles",
-              "horário": "21:00",
-              "gols": [
-                {
-                  "jogador": "Kundé",
-                  "minuto": "61",
-                  "resultado": "Gol (pen.)"
-                },
-                {
-                  "jogador": "Ekéké",
-                  "minuto": "65",
-                  "resultado": "Gol"
-                },
-                {
-                  "jogador": "Platt",
-                  "minuto": "25",
-                  "resultado": "Gol"
-                },
-                {
-                  "jogador": "Lineker",
-                  "minuto": "83",
-                  "resultado": "Gol (pen.)"
-                },
-                {
-                  "jogador": "Lineker",
-                  "minuto": "105",
-                  "resultado": "Gol (pen.)"
-                }
-              ],
-              "público": "55.205",
-              "árbitro": "Edgardo Codesal (México)"
-            }
-          }
-        }
-      },
-      {
-        "Semifinal": {
           "jogo1": {
-            "data": "3 de julho",
-            "país1": "Argentina",
-            "país2": "Itália",
-            "resultado": "Argentina 1 - 1 (pro.) Itália",
-            "local": "Stadio San Paolo, Nápoles",
-            "horário": "20:00",
-            "gols": [
-              {
-                "jogador": "Claudio Caniggia",
-                "minuto": "67",
-                "resultado": "Gol"
-              },
-              {
-                "jogador": "Schillaci",
-                "minuto": "17",
-                "resultado": "Gol"
-              }
-            ],
-            "público": "59.978",
-            "árbitro": "Michel Vautrot (França)",
-            "penalidades": {
-              "Argentina": [
-                "Convertido José Serrizuela",
-                "Convertido Jorge Burruchaga",
-                "Convertido Julio Olarticoechea",
-                "Convertido Diego Maradona"
-              ],
-              "Itália": [
-                "Convertido Franco Baresi",
-                "Convertido Roberto Baggio",
-                "Convertido Luigi de Agostini",
-                "Erro Roberto Donadoni",
-                "Erro Serena"
-              ]
-            }
+            "data": "9 de junho",
+            "país": "Itália",
+            "resultado": "Itália 1 - 0 Áustria",
+            "local": "Stadio Olimpico, Roma",
+            "horário": "21:00",
+            "gol": {
+              "jogador": "Schillaci",
+              "minuto": "78'"
+            },
+            "relatório": "Não fornecido",
+            "público": "73.303",
+            "árbitro": "José Roberto Wright (Brasil)"
           },
           "jogo2": {
-            "data": "4 de julho",
-            "país1": "Alemanha Ocidental",
-            "país2": "Inglaterra",
-            "resultado": "Alemanha Ocidental 1 - 1 (pro.) Inglaterra",
+            "data": "10 de junho",
+            "país": "Estados Unidos",
+            "resultado": "Estados Unidos 1 - 5 Tchecoslováquia",
+            "local": "Stadio Comunale, Florença",
+            "horário": "17:00",
+            "gol": {
+              "jogador": "Caligiuri",
+              "minuto": "61'"
+            },
+            "relatório": "Skuhravý marcou aos 25 minutos de jogo (25'), Skuhravý marcou aos 78 minutos de jogo (78'), Bílek marcou aos 39 minutos de jogo (39') (pen.), Hašek marcou aos 50 minutos de jogo (50'), Luhový marcou aos 90 minutos de jogo (90')",
+            "público": "33.266",
+            "árbitro": "Kurt Röthlisberger (Suíça)"
+          },
+          "jogo3": {
+            "data": "14 de junho",
+            "país": "Itália",
+            "resultado": "Itália 1 - 0 Estados Unidos",
+            "local": "Stadio Olimpico, Roma",
+            "horário": "21:00",
+            "gol": {
+              "jogador": "Giannini",
+              "minuto": "11'"
+            },
+            "relatório": "Não fornecido",
+            "público": "73.423",
+            "árbitro": "Edgardo Codesal (México)"
+          },
+          "jogo4": {
+            "data": "15 de junho",
+            "país": "Áustria",
+            "resultado": "Áustria 0 - 1 Tchecoslováquia",
+            "local": "Stadio Comunale, Florença",
+            "horário": "17:00",
+            "gol": {
+              "jogador": "Bílek",
+              "minuto": "30' (pen.)"
+            },
+            "relatório": "Não fornecido",
+            "público": "38.962",
+            "árbitro": "George Smith (Escócia)"
+          },
+          "jogo5": {
+            "data": "19 de junho",
+            "país": "Áustria",
+            "resultado": "Áustria 2 - 1 Estados Unidos",
+            "local": "Stadio Comunale, Florença",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Ogris",
+              "minuto1": "49'",
+              "jogador2": "Rodax",
+              "minuto2": "63'"
+            },
+            "relatório": "Murray marcou aos 83 minutos de jogo (83')",
+            "público": "34.857",
+            "árbitro": "Jamal Al-Sharif (Síria)"
+          },
+          "jogo6": {
+            "data": "19 de junho",
+            "país": "Itália",
+            "resultado": "Itália 2 - 0 Tchecoslováquia",
+            "local": "Stadio Olimpico, Roma",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Schillaci",
+              "minuto1": "9'",
+              "jogador2": "Baggio",
+              "minuto2": "78'"
+            },
+            "relatório": "Não fornecido",
+            "público": "73.303",
+            "árbitro": "Joel Quiniol (França)"
+          }
+        },
+        "Grupo-B": {
+          "jogo1": {
+            "data": "8 de junho",
+            "país": "Argentina",
+            "resultado": "Argentina 0 - 1 Camarões",
+            "local": "Stadio Giuseppe Meazza, Milão",
+            "horário": "18:00",
+            "gol": {
+              "jogador": "Omam-Biyik",
+              "minuto": "67'"
+            },
+            "relatório": "Não fornecido",
+            "público": "73.780",
+            "árbitro": "Michel Vautrot (França)"
+          },
+          "jogo2": {
+            "data": "9 de junho",
+            "país": "União Soviética",
+            "resultado": "União Soviética 0 - 2 Roménia",
+            "local": "Stadio San Nicola, Bari",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Lăcătuş",
+              "minuto1": "42'",
+              "jogador2": "Lăcătuş",
+              "minuto2": "57' (pen.)"
+            },
+            "relatório": "Não fornecido",
+            "público": "42.907",
+            "árbitro": "Juan Cardellino Vicente (Uruguai)"
+          },
+          "jogo3": {
+            "data": "13 de junho",
+            "país": "Argentina",
+            "resultado": "Argentina 2 - 0 União Soviética",
+            "local": "Stadio San Paolo, Nápoles",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Troglio",
+              "minuto1": "27'",
+              "jogador2": "Burruchaga",
+              "minuto2": "79'"
+            },
+            "relatório": "Não fornecido",
+            "público": "55.759",
+            "árbitro": "Eric Fredriksson (Suécia)"
+          },
+          "jogo4": {
+            "data": "14 de junho",
+            "país": "Camarões",
+            "resultado": "Camarões 2 - 1 Roménia",
+            "local": "Stadio San Nicola, Bari",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Milla",
+              "minuto1": "76'",
+              "jogador2": "Milla",
+              "minuto2": "86'"
+            },
+            "relatório": "Balint marcou aos 88 minutos de jogo (88')",
+            "público": "38.687",
+            "árbitro": "Hernan Silva Arce (Chile)"
+          },
+          "jogo5": {
+            "data": "18 de junho",
+            "país": "Camarões",
+            "resultado": "Camarões 0 - 4 União Soviética",
+            "local": "Stadio San Nicola, Bari",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Protasov",
+              "minuto1": "20'",
+              "jogador2": "Zygmantovich",
+              "minuto2": "29'",
+              "jogador3": "Zavarov",
+              "minuto3": "55'",
+              "jogador4": "Dobrovolsky",
+              "minuto4": "63'"
+            },
+            "relatório": "Não fornecido",
+            "público": "37.307",
+            "árbitro": "José Roberto Wright (Brasil)"
+          },
+          "jogo6": {
+            "data": "18 de junho",
+            "país": "Argentina",
+            "resultado": "Argentina 1 - 1 Roménia",
+            "local": "Stadio San Paolo, Nápoles",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Monzón",
+              "minuto1": "62'"
+            },
+            "relatório": "Balint marcou aos 68 minutos de jogo (68')",
+            "público": "52.733",
+            "árbitro": "Carlos Alberto Valente (Portugal)"
+          }
+        },
+        "Grupo-C": {
+          "jogo1": {
+            "data": "10 de junho",
+            "país": "Brasil",
+            "resultado": "Brasil 2 - 1 Suécia",
             "local": "Stadio Delle Alpi, Turim",
-            "horário": "20:00",
-            "gols": [
-              {
-                "jogador": "Andreas Brehme",
-                "minuto": "60",
-                "resultado": "Gol"
-              },
-              {
-                "jogador": "Gary Lineker",
-                "minuto": "80",
-                "resultado": "Gol"
-              }
-            ],
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Careca",
+              "minuto1": "40'",
+              "jogador2": "Careca",
+              "minuto2": "63'"
+            },
+            "relatório": "Brolin marcou aos 79 minutos de jogo (79')",
             "público": "62.628",
-            "árbitro": "José Roberto Wright (Brasil)",
-            "penalidades": {
-              "Alemanha Ocidental": [
-                "Convertido Andreas Brehme",
-                "Convertido Lothar Matthäus",
-                "Convertido Karl-Heinz Riedle",
-                "Convertido Olaf Thon"
-              ],
-              "Inglaterra": [
-                "Convertido Gary Lineker",
-                "Convertido Peter Beardsley",
-                "Convertido David Platt",
-                "Erro Stuart Pearce",
-                "Erro Chris Waddle"
-              ]
+            "árbitro": "Tullio Lanese (Itália)"
+          },
+          "jogo2": {
+            "data": "11 de junho",
+            "país": "Costa Rica",
+            "resultado": "Costa Rica 1 - 0 Escócia",
+            "local": "Stadio Luigi Ferraris, Gênova",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Cayasso",
+              "minuto1": "49'"
+            },
+            "relatório": "Não fornecido",
+            "público": "30.867",
+            "árbitro": "Juan Loustau (Argentina)"
+          },
+          "jogo3": {
+            "data": "16 de junho",
+            "país": "Brasil",
+            "resultado": "Brasil 1 - 0 Costa Rica",
+            "local": "Stadio Delle Alpi, Turim",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Müller",
+              "minuto1": "33'"
+            },
+            "relatório": "Não fornecido",
+            "público": "58.007",
+            "árbitro": "Neji Jouini (Turquia)"
+          },
+          "jogo4": {
+            "data": "16 de junho",
+            "país": "Suécia",
+            "resultado": "Suécia 1 - 2 Escócia",
+            "local": "Stadio Luigi Ferraris, Gênova",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Strömberg",
+              "minuto1": "86'"
+            },
+            "relatório": "McCall marcou aos 11 minutos de jogo (11'), Johnston marcou aos 81 minutos de jogo (81') (pen.)",
+            "público": "31.823",
+            "árbitro": "Carlos Maciel (Paraguai)"
+          },
+          "jogo5": {
+            "data": "20 de junho",
+            "país": "Brasil",
+            "resultado": "Brasil 1 - 0 Escócia",
+            "local": "Stadio Delle Alpi, Turim",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Müller",
+              "minuto1": "82'"
+            },
+            "relatório": "Não fornecido",
+            "público": "62.502",
+            "árbitro": "Helmut Kohl (Áustria)"
+          },
+          "jogo6": {
+            "data": "20 de junho",
+            "país": "Suécia",
+            "resultado": "Suécia 1 - 2 Costa Rica",
+            "local": "Stadio Luigi Ferraris, Gênova",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Ekström",
+              "minuto1": "32'"
+            },
+            "relatório": "Flores marcou aos 75 minutos de jogo (75'), Medford marcou aos 87 minutos de jogo (87')",
+            "público": "30.223",
+            "árbitro": "Zoran Petrović (Jugoslávia)"
+          }
+        },
+        "Grupo-D": {
+          "jogo1": {
+            "data": "9 de junho",
+            "país": "Emirados Árabes Unidos",
+            "resultado": "Emirados Árabes Unidos 0 - 2 Colômbia",
+            "local": "Stadio Renato Dall'Ara, Bolonha",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Redín",
+              "minuto1": "50'"
+            },
+            "relatório": "Valderrama marcou aos 86 minutos de jogo (86')",
+            "público": "30.791",
+            "árbitro": "George Courtney (Inglaterra)"
+          },
+          "jogo2": {
+            "data": "10 de junho",
+            "país": "Alemanha Ocidental",
+            "resultado": "Alemanha Ocidental 4 - 1 Iugoslávia",
+            "local": "Stadio Giuseppe Meazza, Milão",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Matthäus",
+              "minuto1": "28'",
+              "jogador2": "Matthäus",
+              "minuto2": "64'",
+              "jogador3": "Klinsmann",
+              "minuto3": "39'",
+              "jogador4": "Völler",
+              "minuto4": "70'"
+            },
+            "relatório": "Jozić marcou aos 55 minutos de jogo (55')",
+            "público": "74.765",
+            "árbitro": "Peter Mikkelsen (Dinamarca)"
+          },
+          "jogo3": {
+            "data": "14 de junho",
+            "país": "Iugoslávia",
+            "resultado": "Iugoslávia 1 - 0 Colômbia",
+            "local": "Stadio Renato Dall'Ara, Bolonha",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Jozić",
+              "minuto1": "75'"
+            },
+            "relatório": "Não fornecido",
+            "público": "32.257",
+            "árbitro": "Luigi Agnolin (Itália)"
+          },
+          "jogo4": {
+            "data": "15 de junho",
+            "país": "Alemanha Ocidental",
+            "resultado": "Alemanha Ocidental 5 - 1 Emirados Árabes Unidos",
+            "local": "Stadio Giuseppe Meazza, Milão",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Völler",
+              "minuto1": "35'",
+              "jogador2": "Klinsmann",
+              "minuto2": "37'",
+              "jogador3": "Matthäus",
+              "minuto3": "47'",
+              "jogador4": "Bein",
+              "minuto4": "58'"
+            },
+            "relatório": "Ismaïl marcou aos 46 minutos de jogo (46')",
+            "público": "71.169",
+            "árbitro": "Alexey Spirin (URSS)"
+          },
+          "jogo5": {
+            "data": "19 de junho",
+            "país": "Iugoslávia",
+            "resultado": "Iugoslávia 4 - 1 Emirados Árabes Unidos",
+            "local": "Stadio Renato Dall'Ara, Bolonha",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Sušić",
+              "minuto1": "5'",
+              "jogador2": "Pančev",
+              "minuto2": "9'",
+              "jogador3": "Pančev",
+              "minuto3": "46'",
+              "jogador4": "Prosinečki",
+              "minuto4": "90'"
+            },
+            "relatório": "Jumaa marcou aos 22 minutos de jogo (22')",
+            "público": "27.833",
+            "árbitro": "Shizuo Takada (Japão)"
+          },
+          "jogo6": {
+            "data": "19 de junho",
+            "país": "Alemanha Ocidental",
+            "resultado": "Alemanha Ocidental 1 - 1 Colômbia",
+            "local": "Stadio Giuseppe Meazza, Milão",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Littbarski",
+              "minuto1": "88'"
+            },
+            "relatório": "Rincón marcou aos 90 minutos de jogo (90')",
+            "público": "72.510",
+            "árbitro": "Alan Snoddy (Irlanda do Norte)"
+          }
+        },
+
+        "Grupo-E": {
+          "jogo1": {
+            "data": "12 de junho",
+            "país": "Bélgica",
+            "resultado": "Bélgica 2 - 0 Coreia do Sul",
+            "local": "Stadio Marcantonio Bentegodi, Verona",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Degryse",
+              "minuto1": "53'",
+              "jogador2": "De Wolf",
+              "minuto2": "64'"
+            },
+            "relatório": "Não fornecido",
+            "público": "32.790",
+            "árbitro": "Vincent Mauro (Estados Unidos)"
+          },
+          "jogo2": {
+            "data": "13 de junho",
+            "país": "Uruguai",
+            "resultado": "Uruguai 0 - 0 Espanha",
+            "local": "Stadio Friuli, Udine",
+            "horário": "17:00",
+            "gol": {},
+            "relatório": "Não fornecido",
+            "público": "35.713",
+            "árbitro": "Helmut Kohl (Áustria)"
+          },
+          "jogo3": {
+            "data": "17 de junho",
+            "país": "Coreia do Sul",
+            "resultado": "Coreia do Sul 1 - 3 Espanha",
+            "local": "Stadio Friuli, Udine",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Hwangbo Kwan",
+              "minuto1": "42'"
+            },
+            "relatório": "Míchel marcou aos 23', 61' e 81' minutos de jogo",
+            "público": "32.733",
+            "árbitro": "Elías Jácome (Equador)"
+          },
+          "jogo4": {
+            "data": "17 de junho",
+            "país": "Bélgica",
+            "resultado": "Bélgica 3 - 1 Uruguai",
+            "local": "Stadio Marcantonio Bentegodi, Verona",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Clijsters",
+              "minuto1": "15'",
+              "jogador2": "Scifo",
+              "minuto2": "24'",
+              "jogador3": "Ceulemans",
+              "minuto3": "47'"
+            },
+            "relatório": "Bengoechea marcou aos 73 minutos de jogo",
+            "público": "33.759",
+            "árbitro": "Siegfried Kirschen (Alemanha Oriental)"
+          },
+          "jogo5": {
+            "data": "21 de junho",
+            "país": "Coreia do Sul",
+            "resultado": "Coreia do Sul 0 - 1 Uruguai",
+            "local": "Stadio Friuli, Udine",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Fonseca",
+              "minuto1": "90'"
+            },
+            "relatório": "Não fornecido",
+            "público": "29.039",
+            "árbitro": "Tullio Lanese (Itália)"
+          },
+          "jogo6": {
+            "data": "21 de junho",
+            "país": "Bélgica",
+            "resultado": "Bélgica 1 - 2 Espanha",
+            "local": "Stadio Marcantonio Bentegodi, Verona",
+            "horário": "17:00",
+            "gol": {
+              "jogador1": "Vervoort",
+              "minuto1": "29'"
+            },
+            "relatório": "Míchel marcou aos 26' (pen.) e Górriz marcou aos 38' minutos de jogo",
+            "público": "35.950",
+            "árbitro": "Juan Loustau (Argentina)"
+          }
+        },
+
+        "Grupo-F": {
+          "jogo1": {
+            "data": "11 de junho",
+            "país": "Inglaterra",
+            "resultado": "Inglaterra 1 - 1 República da Irlanda",
+            "local": "Stadio Sant'Elia, Cagliari",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Lineker",
+              "minuto1": "9'"
+            },
+            "relatório": "Sheedy marcou aos 73 minutos de jogo",
+            "público": "35.238",
+            "árbitro": "Aron Schmidhuber (Alemanha Ocidental)"
+          },
+          "jogo2": {
+            "data": "12 de junho",
+            "país": "Países Baixos",
+            "resultado": "Países Baixos 1 - 1 Egito",
+            "local": "Stadio La Favorita, Palermo",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Kieft",
+              "minuto1": "58'"
+            },
+            "relatório": "Abdelghani marcou aos 83' (pen.) minutos de jogo",
+            "público": "33.421",
+            "árbitro": "Emilio Aladrén (Espanha)"
+          },
+          "jogo3": {
+            "data": "16 de junho",
+            "país": "Inglaterra",
+            "resultado": "Inglaterra 0 - 0 Países Baixos",
+            "local": "Stadio Sant'Elia, Cagliari",
+            "horário": "21:00",
+            "gol": {},
+            "relatório": "Não fornecido",
+            "público": "35.267",
+            "árbitro": "Zorán Petrović (Jugoslávia)"
+          },
+          "jogo4": {
+            "data": "17 de junho",
+            "país": "Irlanda",
+            "resultado": "Irlanda 0 - 0 Egito",
+            "local": "Stadio La Favorita, Palermo",
+            "horário": "17:00",
+            "gol": {},
+            "relatório": "Não fornecido",
+            "público": "33.288",
+            "árbitro": "Marcel van Langenhove (Bélgica)"
+          },
+          "jogo5": {
+            "data": "21 de junho",
+            "país": "Inglaterra",
+            "resultado": "Inglaterra 1 - 0 Egito",
+            "local": "Stadio Sant'Elia, Cagliari",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Wright",
+              "minuto1": "58'"
+            },
+            "relatório": "Não fornecido",
+            "público": "34.959",
+            "árbitro": "Kurt Röthlisberger (Suíça)"
+          },
+          "jogo6": {
+            "data": "21 de junho",
+            "país": "Irlanda",
+            "resultado": "Irlanda 1 - 1 Países Baixos",
+            "local": "Stadio La Favorita, Palermo",
+            "horário": "21:00",
+            "gol": {
+              "jogador1": "Quinn",
+              "minuto1": "71'"
+            },
+            "relatório": "Gullit marcou aos 11 minutos de jogo",
+            "público": "33.288",
+            "árbitro": "Michael Vautrot (França)"
+          }
+        }
+      },
+      "Oitavas-de-Final": {
+        "jogo1": {
+          "data": "23 de junho",
+          "país": "Camarões",
+          "resultado": "Camarões 2 - 1 (pro.) Colômbia",
+          "local": "Stadio San Paolo, Nápoles",
+          "horário": "17:00",
+          "gol": {
+            "jogador1": "Milla",
+            "minuto1": "106'",
+            "minuto2": "109'"
+          },
+          "relatório": "Redín marcou aos 115 minutos de jogo",
+          "público": "50.026",
+          "árbitro": "Tullio Lanese (Itália)"
+        },
+        "jogo2": {
+          "data": "23 de junho",
+          "país": "Tchecoslováquia",
+          "resultado": "Tchecoslováquia 4 - 1 Costa Rica",
+          "local": "Stadio San Nicola, Bari",
+          "horário": "21:00",
+          "gol": {
+            "jogador1": "Skuhravý",
+            "minuto1": "12'",
+            "minuto2": "63'",
+            "minuto3": "82'"
+          },
+          "relatório": "González marcou aos 54 minutos de jogo",
+          "público": "47.673",
+          "árbitro": "Siegfried Kirschen (Alemanha Oriental)"
+        },
+        "jogo3": {
+          "data": "24 de junho",
+          "país": "Brasil",
+          "resultado": "Brasil 0 - 1 Argentina",
+          "local": "Stadio Delle Alpi, Turim",
+          "horário": "17:00",
+          "gol": {
+            "jogador1": "Caniggia",
+            "minuto1": "80'"
+          },
+          "relatório": "Não fornecido",
+          "público": "61.381",
+          "árbitro": "Joël Quiniou (França)"
+        },
+        "jogo4": {
+          "data": "24 de junho",
+          "país": "Alemanha Ocidental",
+          "resultado": "Alemanha Ocidental 2 - 1 Países Baixos",
+          "local": "Stadio Giuseppe Meazza, Milão",
+          "horário": "21:00",
+          "gol": {
+            "jogador1": "Klinsmann",
+            "minuto1": "51'",
+            "jogador2": "Brehme",
+            "minuto2": "85'"
+          },
+          "relatório": "Koeman marcou aos 89 minutos de jogo (pen.)",
+          "público": "74.559",
+          "árbitro": "Juan Carlos Loustau (Argentina)"
+        },
+        "jogo5": {
+          "data": "25 de junho",
+          "país": "Irlanda",
+          "resultado": "Irlanda 0 - 0 (pro.) Romênia",
+          "local": "Stadio Luigi Ferraris, Gênova",
+          "horário": "17:00",
+          "gol": {},
+          "relatório": "Não fornecido",
+          "público": "31.818",
+          "árbitro": "José Roberto Wright (Brasil)",
+          "penalidades": {
+            "equipe1": {
+              "jogador1": "Sheedy",
+              "Pênalti": "marcou"
+            },
+            "equipe2": {
+              "jogador1": "Hagi",
+              "Pênalti": "marcou"
+            },
+            "equipe1": {
+              "jogador2": "Houghton",
+              "Pênalti": "marcou"
+            },
+            "equipe2": {
+              "jogador2": "Lupu",
+              "Pênalti": "marcou"
+            },
+            "equipe1": {
+              "jogador3": "Townsend",
+              "Pênalti": "marcou"
+            },
+            "equipe2": {
+              "jogador3": "Rotariu",
+              "Pênalti": "marcou"
+            },
+            "equipe1": {
+              "jogador4": "Cascarino",
+              "Pênalti": "marcou"
+            },
+            "equipe2": {
+              "jogador4": "Lupescu",
+              "Pênalti": "marcou"
+            },
+            "equipe2": {
+              "jogador5": "Timofte",
+              "Pênalti": "errou"
             }
           }
+        },
+        "jogo6": {
+          "data": "25 de junho",
+          "país": "Itália",
+          "resultado": "Itália 2 - 0 Uruguai",
+          "local": "Stadio Olimpico, Roma",
+          "horário": "21:00",
+          "gol": {
+            "jogador1": "Schillaci",
+            "minuto1": "65'",
+            "jogador2": "Serena",
+            "minuto2": "83'"
+          },
+          "relatório": "Não fornecido",
+          "público": "73.303",
+          "árbitro": "George Courtney (Inglaterra)"
+        },
+        "jogo7": {
+          "data": "26 de junho",
+          "país": "Espanha",
+          "resultado": "Espanha 1 - 2 (pro.) Iugoslávia",
+          "local": "Stadio Marcantonio Bentegodi, Verona",
+          "horário": "17:00",
+          "gol": {
+            "jogador1": "Julio Salinas",
+            "minuto1": "83'",
+            "jogador2": "Stojković",
+            "minuto2": "78'",
+            "minuto3": "92'"
+          },
+          "relatório": "Não fornecido",
+          "público": "35.500",
+          "árbitro": "Aron Schmidhuber (Alemanha Ocidental)"
+        },
+        "jogo8": {
+          "data": "26 de junho",
+          "país": "Inglaterra",
+          "resultado": "Inglaterra 1 - 0 (pro.) Bélgica",
+          "local": "Stadio Renato Dall'Ara, Bolonha",
+          "horário": "21:00",
+          "gol": {
+            "jogador1": "Platt",
+            "minuto1": "119'"
+          },
+          "relatório": "Não fornecido",
+          "público": "34.520",
+          "árbitro": "Peter Mikkelsen (Dinamarca)"
         }
       },
-      {
-        "DecisaoTerceiroLugar": {
-          "jogo1": {
-            "data": "7 de julho",
-            "país1": "Itália",
-            "país2": "Inglaterra",
-            "resultado": "Itália 2 - 1 Inglaterra",
-            "local": "Stadio San Nicola, Bari",
-            "horário": "20:00",
-            "gols": [
-              {
-                "jogador": "Roberto Baggio",
-                "minuto": "71",
-                "resultado": "Gol"
-              },
-              {
-                "jogador": "Schillaci",
-                "minuto": "86",
-                "resultado": "Gol (pen.)"
-              }
-            ],
-            "público": "51.426",
-            "árbitro": "Joël Quiniou (França)"
+      "Quartas-de-Final": {
+        "jogo1": {
+          "data": "30 de junho",
+          "país1": "Argentina",
+          "país2": "Iugoslávia",
+          "resultado": "Argentina 0 - 0 (pro.) Iugoslávia",
+          "local": "Stadio Comunale, Florença",
+          "horário": "17:00",
+          "público": "38.971",
+          "árbitro": "Kurt Röthlisberger (Suíça)",
+          "penalidades": {
+            "Argentina": {
+              "jogador1": "Serrizuela",
+              "resultado1": "Convertido"
+            },
+            "Argentina": {
+              "jogador2": "Burruchaga",
+              "resultado2": "Convertido"
+            },
+            "Argentina": {
+              "jogador3": "Maradona",
+              "resultado3": "Erro"
+            },
+            "Argentina": {
+              "jogador4": "Troglio",
+              "resultado4": "Erro"
+            },
+            "Argentina": {
+              "jogador5": "Dezotti",
+              "resultado5": "Convertido"
+            },
+            "Iugoslávia": {
+              "jogador1": "Stojković",
+              "resultado1": "Erro"
+            },
+            "Iugoslávia": {
+              "jogador2": "Prosinečki",
+              "resultado2": "Convertido"
+            },
+            "Iugoslávia": {
+              "jogador3": "Savićević",
+              "resultado3": "Convertido"
+            },
+            "Iugoslávia": {
+              "jogador4": "Brnović",
+              "resultado4": "Erro"
+            },
+            "Iugoslávia": {
+              "jogador5": "Hadžibegić",
+              "resultado5": "Erro"
+            }
           }
+        },
+        "jogo2": {
+          "data": "30 de junho",
+          "país1": "Irlanda",
+          "país2": "Itália",
+          "resultado": "Irlanda 0 - 1 Itália",
+          "local": "Stadio Olimpico, Roma",
+          "horário": "21:00",
+          "gols": [
+            {
+              "jogador": "Schillaci",
+              "minuto": "38",
+              "resultado": "Gol"
+            }
+          ],
+          "público": "73.303",
+          "árbitro": "Carlos Silva Valente (Portugal)"
+        },
+        "jogo3": {
+          "data": "1 de julho",
+          "país1": "Tchecoslováquia",
+          "país2": "Alemanha Ocidental",
+          "resultado": "Tchecoslováquia 0 - 1 Alemanha Ocidental",
+          "local": "Stadio Giuseppe Meazza, Milão",
+          "horário": "17:00",
+          "gols": [
+            {
+              "jogador": "Matthäus",
+              "minuto": "25",
+              "resultado": "Gol (pen.)"
+            }
+          ],
+          "público": "73.347",
+          "árbitro": "Helmut Kohl (Áustria)"
+        },
+        "jogo4": {
+          "data": "1 de julho",
+          "país1": "Camarões",
+          "país2": "Inglaterra",
+          "resultado": "Camarões 2 - 3 (pro.) Inglaterra",
+          "local": "Stadio San Paolo, Nápoles",
+          "horário": "21:00",
+          "gols": [
+            {
+              "jogador": "Kundé",
+              "minuto": "61",
+              "resultado": "Gol (pen.)"
+            },
+            {
+              "jogador": "Ekéké",
+              "minuto": "65",
+              "resultado": "Gol"
+            },
+            {
+              "jogador": "Platt",
+              "minuto": "25",
+              "resultado": "Gol"
+            },
+            {
+              "jogador": "Lineker",
+              "minuto": "83",
+              "resultado": "Gol (pen.)"
+            },
+            {
+              "jogador": "Lineker",
+              "minuto": "105",
+              "resultado": "Gol (pen.)"
+            }
+          ],
+          "público": "55.205",
+          "árbitro": "Edgardo Codesal (México)"
         }
       },
-      {
-        "Final": {
-          "jogo1": {
-            "data": "8 de julho",
-            "país1": "Alemanha Ocidental",
-            "país2": "Argentina",
-            "resultado": "Alemanha Ocidental 1 - 0 Argentina",
-            "local": "Estádio Olímpico, Roma",
-            "horário": "20:00",
-            "gols": [
-              {
-                "jogador": "Brehme",
-                "minuto": "85",
-                "resultado": "Gol (pen.)"
-              }
+      "Semifinal": {
+        "jogo1": {
+          "data": "3 de julho",
+          "país1": "Argentina",
+          "país2": "Itália",
+          "resultado": "Argentina 1 - 1 (pro.) Itália",
+          "local": "Stadio San Paolo, Nápoles",
+          "horário": "20:00",
+          "gols": [
+            {
+              "jogador": "Claudio Caniggia",
+              "minuto": "67",
+              "resultado": "Gol"
+            },
+            {
+              "jogador": "Schillaci",
+              "minuto": "17",
+              "resultado": "Gol"
+            }
+          ],
+          "público": "59.978",
+          "árbitro": "Michel Vautrot (França)",
+          "penalidades": {
+            "Argentina": [
+              "Convertido José Serrizuela",
+              "Convertido Jorge Burruchaga",
+              "Convertido Julio Olarticoechea",
+              "Convertido Diego Maradona"
             ],
-            "público": "73.603",
-            "árbitro": "Edgardo Codesal (México)"
+            "Itália": [
+              "Convertido Franco Baresi",
+              "Convertido Roberto Baggio",
+              "Convertido Luigi de Agostini",
+              "Erro Roberto Donadoni",
+              "Erro Serena"
+            ]
           }
-        }
-      },
-      {
-        "Seleção-da-Copa": {
-          {
-            "Goleiros/Guarda-Redes": [
-              {
-                "nome": "Sergio Goycochea",
-                "nacionalidade": "Argentina"
-              }
+        },
+        "jogo2": {
+          "data": "4 de julho",
+          "país1": "Alemanha Ocidental",
+          "país2": "Inglaterra",
+          "resultado": "Alemanha Ocidental 1 - 1 (pro.) Inglaterra",
+          "local": "Stadio Delle Alpi, Turim",
+          "horário": "20:00",
+          "gols": [
+            {
+              "jogador": "Andreas Brehme",
+              "minuto": "60",
+              "resultado": "Gol"
+            },
+            {
+              "jogador": "Gary Lineker",
+              "minuto": "80",
+              "resultado": "Gol"
+            }
+          ],
+          "público": "62.628",
+          "árbitro": "José Roberto Wright (Brasil)",
+          "penalidades": {
+            "Alemanha Ocidental": [
+              "Convertido Andreas Brehme",
+              "Convertido Lothar Matthäus",
+              "Convertido Karl-Heinz Riedle",
+              "Convertido Olaf Thon"
             ],
-            "Defensores/Defesas": [
-              {
-                "nome": "Andreas Brehme",
-                "nacionalidade": "Alemanha"
-              },
-              {
-                "nome": "Paolo Maldini",
-                "nacionalidade": "Itália"
-              },
-              {
-                "nome": "Franco Baresi",
-                "nacionalidade": "Itália"
-              }
-            ],
-            "Meias/Médios": [
-              {
-                "nome": "Diego Maradona",
-                "nacionalidade": "Argentina"
-              },
-              {
-                "nome": "Lothar Matthäus",
-                "nacionalidade": "Alemanha"
-              },
-              {
-                "nome": "Paul Gascoigne",
-                "nacionalidade": "Inglaterra"
-              },
-              {
-                "nome": "Roberto Donadoni",
-                "nacionalidade": "Itália"
-              }
-            ],
-            "Atacantes/Avançados": [
-              {
-                "nome": "Salvatore Schillaci",
-                "nacionalidade": "Itália"
-              },
-              {
-                "nome": "Roger Milla",
-                "nacionalidade": "Camarões"
-              },
-              {
-                "nome": "Jurgen Klinsmann",
-                "nacionalidade": "Alemanha"
-              },
-              {
-                "nome": "Claudio Caniggia",
-                "nacionalidade": "Argentina"
-              }
+            "Inglaterra": [
+              "Convertido Gary Lineker",
+              "Convertido Peter Beardsley",
+              "Convertido David Platt",
+              "Erro Stuart Pearce",
+              "Erro Chris Waddle"
             ]
           }
         }
+      },
+      "DecisaoTerceiroLugar": {
+        "jogo1": {
+          "data": "7 de julho",
+          "país1": "Itália",
+          "país2": "Inglaterra",
+          "resultado": "Itália 2 - 1 Inglaterra",
+          "local": "Stadio San Nicola, Bari",
+          "horário": "20:00",
+          "gols": [
+            {
+              "jogador": "Roberto Baggio",
+              "minuto": "71",
+              "resultado": "Gol"
+            },
+            {
+              "jogador": "Schillaci",
+              "minuto": "86",
+              "resultado": "Gol (pen.)"
+            }
+          ],
+          "público": "51.426",
+          "árbitro": "Joël Quiniou (França)"
+        }
+      },
+      "Final": {
+        "jogo1": {
+          "data": "8 de julho",
+          "país1": "Alemanha Ocidental",
+          "país2": "Argentina",
+          "resultado": "Alemanha Ocidental 1 - 0 Argentina",
+          "local": "Estádio Olímpico, Roma",
+          "horário": "20:00",
+          "gols": [
+            {
+              "jogador": "Brehme",
+              "minuto": "85",
+              "resultado": "Gol (pen.)"
+            }
+          ],
+          "público": "73.603",
+          "árbitro": "Edgardo Codesal (México)"
+        }
       }
+    },
+
+    "Seleção-da-Copa": {
+      "Goleiros/Guarda-Redes": [
+        {
+          "nome": "Sergio Goycochea",
+          "nacionalidade": "Argentina"
+        }
+      ],
+      "Defensores/Defesas": [
+        {
+          "nome": "Andreas Brehme",
+          "nacionalidade": "Alemanha"
+        },
+        {
+          "nome": "Paolo Maldini",
+          "nacionalidade": "Itália"
+        },
+        {
+          "nome": "Franco Baresi",
+          "nacionalidade": "Itália"
+        }
+      ],
+      "Meias/Médios": [
+        {
+          "nome": "Diego Maradona",
+          "nacionalidade": "Argentina"
+        },
+        {
+          "nome": "Lothar Matthäus",
+          "nacionalidade": "Alemanha"
+        },
+        {
+          "nome": "Paul Gascoigne",
+          "nacionalidade": "Inglaterra"
+        },
+        {
+          "nome": "Roberto Donadoni",
+          "nacionalidade": "Itália"
+        }
+      ],
+      "Atacantes/Avançados": [
+        {
+          "nome": "Salvatore Schillaci",
+          "nacionalidade": "Itália"
+        },
+        {
+          "nome": "Roger Milla",
+          "nacionalidade": "Camarões"
+        },
+        {
+          "nome": "Jurgen Klinsmann",
+          "nacionalidade": "Alemanha"
+        },
+        {
+          "nome": "Claudio Caniggia",
+          "nacionalidade": "Argentina"
+        }
+      ]
     }
   },
   "Copa-do-Mundo-1994": {
@@ -21259,6 +21064,7 @@
           }
         ]
       },
+
       "Semi-finais": {
         "resultados": [
           {
@@ -23452,14 +23258,8 @@
               "placar_visitante": 0,
               "prorrogacao": true,
               "penaltis": {
-                "franca": [
-                  4,
-                  3
-                ],
-                "italia": [
-                  3,
-                  4
-                ]
+                "franca": [4, 3],
+                "italia": [3, 4]
               },
               "penaltis_convertidos": {
                 "franca": [
@@ -26097,26 +25897,24 @@
       }
     ]
   },
-  {
-    "Copa-do-mundo-2006": {
-      "info-gerais": {
-        "edicao": "Copa do Mundo FIFA de 2006",
-        "paisSede": "Alemanha",
-        "periodo": "9 de junho – 9 de julho",
-        "campeao": "Itália (4º título)",
-        "vicecampeao": "França",
-        "terceiroLugar": "Alemanha",
-        "totalDeGols": "147",
-        "mediaDeGols": "2,3 gol(o)s por partida",
-        "artilheiro": "Miroslav Klose – 5 gols",
-        "melhorAtaque": "8 gols:\nAlemanha\nArgentina\nEspanha",
-        "melhorDefesa": "Suíça – nenhum gol",
-        "maiorGoleada": "",
-        "publicoTotal": "3 359 439",
-        "participantes": "32",
-        "melhorJogador": "Zinédine Zidane",
-        "melhorGoleiro": "Gianluigi Buffon"
-      }
+  "Copa-do-mundo-2006": {
+    "info-gerais": {
+      "edicao": "Copa do Mundo FIFA de 2006",
+      "paisSede": "Alemanha",
+      "periodo": "9 de junho – 9 de julho",
+      "campeao": "Itália (4º título)",
+      "vicecampeao": "França",
+      "terceiroLugar": "Alemanha",
+      "totalDeGols": "147",
+      "mediaDeGols": "2,3 gol(o)s por partida",
+      "artilheiro": "Miroslav Klose – 5 gols",
+      "melhorAtaque": "8 gols:\nAlemanha\nArgentina\nEspanha",
+      "melhorDefesa": "Suíça – nenhum gol",
+      "maiorGoleada": "",
+      "publicoTotal": "3 359 439",
+      "participantes": "32",
+      "melhorJogador": "Zinédine Zidane",
+      "melhorGoleiro": "Gianluigi Buffon"
     },
     "Estadios": {
       "nome": "Estádio Olímpico de Berlim",
@@ -26124,56 +25922,67 @@
       "capacidade": "74.475 espectadores",
       "latitude": "52.5147° N",
       "longitude": "13.2397° E",
+
       "nome": "Arena AufSchalke",
       "cidade": "Gelsenkirchen",
       "capacidade": "53.951 espectadores",
       "latitude": "51.5545° N",
       "longitude": "7.0677° E",
+
       "nome": "Estádio de Munique",
       "cidade": "Munique",
       "capacidade": "66.000 espectadores",
       "latitude": "48.2188° N",
       "longitude": "11.6244° E",
+
       "nome": "Estádio de Nuremberg",
       "cidade": "Nuremberg",
       "capacidade": "41.901 espectadores",
       "latitude": "49.4268° N",
       "longitude": "11.1255° E",
+
       "nome": "Estádio de Stuttgart",
       "cidade": "Stuttgart",
       "capacidade": "54.767 espectadores",
       "latitude": "48.7924° N",
       "longitude": "9.2323° E",
+
       "nome": "Estádio de Hamburgo",
       "cidade": "Hamburgo",
       "capacidade": "51.055 espectadores",
       "latitude": "53.5806° N",
       "longitude": "9.8883° E",
+
       "nome": "Estádio de Hanôver",
       "cidade": "Hanôver",
       "capacidade": "44.652 espectadores",
       "latitude": "52.3725° N",
       "longitude": "9.7392° E",
+
       "nome": "Estádio de Colônia",
       "cidade": "Colônia",
       "capacidade": "45.965 espectadores",
       "latitude": "50.9337° N",
       "longitude": "6.8756° E",
+
       "nome": "Estádio Fritz-Walter",
       "cidade": "Kaiserslautern",
       "capacidade": "48.500 espectadores",
       "latitude": "49.432° N",
       "longitude": "7.7505° E",
+
       "nome": "Estádio RheinEnergie",
       "cidade": "Colônia",
       "capacidade": "46.134 espectadores",
       "latitude": "50.9333° N",
       "longitude": "6.8755° E",
+
       "nome": "Estádio Westfalen",
       "cidade": "Dortmund",
       "capacidade": "65.829 espectadores",
       "latitude": "51.4926° N",
       "longitude": "7.4516° E",
+
       "nome": "Estádio Commerzbank-Arena",
       "cidade": "Frankfurt",
       "capacidade": "48.132 espectadores",
@@ -27083,391 +26892,389 @@
     },
     "jogos": {
       "Fase-de-Grupos": {
-        {
-          "grupoA": {
-            "selecoes": [
-              {
-                "selecao": "Alemanha",
-                "pts": 9,
-                "j": 3,
-                "v": 3,
-                "e": 0,
-                "d": 0,
-                "gp": 8,
-                "gc": 2,
-                "sg": 6
-              },
-              {
-                "selecao": "Equador",
-                "pts": 6,
-                "j": 3,
-                "v": 2,
-                "e": 0,
-                "d": 1,
-                "gp": 5,
-                "gc": 3,
-                "sg": 2
-              },
-              {
-                "selecao": "Polônia",
-                "pts": 3,
-                "j": 3,
-                "v": 1,
-                "e": 0,
-                "d": 2,
-                "gp": 2,
-                "gc": 4,
-                "sg": -2
-              },
-              {
-                "selecao": "Costa Rica",
-                "pts": 0,
-                "j": 3,
-                "v": 0,
-                "e": 0,
-                "d": 3,
-                "gp": 3,
-                "gc": 9,
-                "sg": -6
-              }
-            ]
-          },
-          "grupoB": {
-            "selecoes": [
-              {
-                "selecao": "Inglaterra",
-                "pts": 7,
-                "j": 3,
-                "v": 2,
-                "e": 1,
-                "d": 0,
-                "gp": 5,
-                "gc": 2,
-                "sg": 3
-              },
-              {
-                "selecao": "Suécia",
-                "pts": 5,
-                "j": 3,
-                "v": 1,
-                "e": 2,
-                "d": 0,
-                "gp": 3,
-                "gc": 2,
-                "sg": 1
-              },
-              {
-                "selecao": "Paraguai",
-                "pts": 3,
-                "j": 3,
-                "v": 1,
-                "e": 0,
-                "d": 2,
-                "gp": 2,
-                "gc": 2,
-                "sg": 0
-              },
-              {
-                "selecao": "Trindade e Tobago",
-                "pts": 1,
-                "j": 3,
-                "v": 0,
-                "e": 1,
-                "d": 2,
-                "gp": 0,
-                "gc": 4,
-                "sg": -4
-              }
-            ]
-          },
-          "grupoC": {
-            "selecoes": [
-              {
-                "selecao": "Argentina",
-                "pts": 7,
-                "j": 3,
-                "v": 2,
-                "e": 1,
-                "d": 0,
-                "gp": 8,
-                "gc": 1,
-                "sg": 7
-              },
-              {
-                "selecao": "Países Baixos",
-                "pts": 7,
-                "j": 3,
-                "v": 2,
-                "e": 1,
-                "d": 0,
-                "gp": 3,
-                "gc": 1,
-                "sg": 2
-              },
-              {
-                "selecao": "Costa do Marfim",
-                "pts": 3,
-                "j": 3,
-                "v": 1,
-                "e": 0,
-                "d": 2,
-                "gp": 5,
-                "gc": 6,
-                "sg": -1
-              },
-              {
-                "selecao": "Sérvia e Montenegro",
-                "pts": 0,
-                "j": 3,
-                "v": 0,
-                "e": 0,
-                "d": 3,
-                "gp": 2,
-                "gc": 10,
-                "sg": -8
-              }
-            ]
-          },
-          "grupoD": {
-            "selecoes": [
-              {
-                "selecao": "Portugal",
-                "pts": 9,
-                "j": 3,
-                "v": 3,
-                "e": 0,
-                "d": 0,
-                "gp": 5,
-                "gc": 1,
-                "sg": 4
-              },
-              {
-                "selecao": "México",
-                "pts": 4,
-                "j": 3,
-                "v": 1,
-                "e": 1,
-                "d": 1,
-                "gp": 4,
-                "gc": 3,
-                "sg": 1
-              },
-              {
-                "selecao": "Angola",
-                "pts": 2,
-                "j": 3,
-                "v": 0,
-                "e": 2,
-                "d": 1,
-                "gp": 1,
-                "gc": 2,
-                "sg": -1
-              },
-              {
-                "selecao": "Irã",
-                "pts": 1,
-                "j": 3,
-                "v": 0,
-                "e": 1,
-                "d": 2,
-                "gp": 2,
-                "gc": 6,
-                "sg": -4
-              }
-            ]
-          },
-          "grupoE": {
-            "selecoes": [
-              {
-                "selecao": "Itália",
-                "pts": 7,
-                "j": 3,
-                "v": 2,
-                "e": 1,
-                "d": 0,
-                "gp": 5,
-                "gc": 1,
-                "sg": 4
-              },
-              {
-                "selecao": "Gana",
-                "pts": 6,
-                "j": 3,
-                "v": 2,
-                "e": 0,
-                "d": 1,
-                "gp": 4,
-                "gc": 3,
-                "sg": 1
-              },
-              {
-                "selecao": "República Tcheca",
-                "pts": 3,
-                "j": 3,
-                "v": 1,
-                "e": 0,
-                "d": 2,
-                "gp": 3,
-                "gc": 4,
-                "sg": -1
-              },
-              {
-                "selecao": "Estados Unidos",
-                "pts": 1,
-                "j": 3,
-                "v": 0,
-                "e": 1,
-                "d": 2,
-                "gp": 2,
-                "gc": 6,
-                "sg": -4
-              }
-            ]
-          },
-          "grupoF": {
-            "selecoes": [
-              {
-                "selecao": "Brasil",
-                "pts": 9,
-                "j": 3,
-                "v": 3,
-                "e": 0,
-                "d": 0,
-                "gp": 7,
-                "gc": 1,
-                "sg": 6
-              },
-              {
-                "selecao": "Japão",
-                "pts": 4,
-                "j": 3,
-                "v": 1,
-                "e": 1,
-                "d": 1,
-                "gp": 4,
-                "gc": 4,
-                "sg": 0
-              },
-              {
-                "selecao": "Austrália",
-                "pts": 2,
-                "j": 3,
-                "v": 0,
-                "e": 2,
-                "d": 1,
-                "gp": 3,
-                "gc": 4,
-                "sg": -1
-              },
-              {
-                "selecao": "Croácia",
-                "pts": 1,
-                "j": 3,
-                "v": 0,
-                "e": 1,
-                "d": 2,
-                "gp": 2,
-                "gc": 6,
-                "sg": -4
-              }
-            ]
-          },
-          "grupoG": {
-            "selecoes": [
-              {
-                "selecao": "França",
-                "pts": 9,
-                "j": 3,
-                "v": 3,
-                "e": 0,
-                "d": 0,
-                "gp": 6,
-                "gc": 0,
-                "sg": 6
-              },
-              {
-                "selecao": "Coreia do Sul",
-                "pts": 4,
-                "j": 3,
-                "v": 1,
-                "e": 1,
-                "d": 1,
-                "gp": 3,
-                "gc": 2,
-                "sg": 1
-              },
-              {
-                "selecao": "Suíça",
-                "pts": 2,
-                "j": 3,
-                "v": 0,
-                "e": 2,
-                "d": 1,
-                "gp": 2,
-                "gc": 3,
-                "sg": -1
-              },
-              {
-                "selecao": "Togo",
-                "pts": 1,
-                "j": 3,
-                "v": 0,
-                "e": 1,
-                "d": 2,
-                "gp": 1,
-                "gc": 6,
-                "sg": -5
-              }
-            ]
-          },
-          "grupoH": {
-            "selecoes": [
-              {
-                "selecao": "Espanha",
-                "pts": 7,
-                "j": 3,
-                "v": 2,
-                "e": 1,
-                "d": 0,
-                "gp": 6,
-                "gc": 2,
-                "sg": 4
-              },
-              {
-                "selecao": "Ucrânia",
-                "pts": 7,
-                "j": 3,
-                "v": 2,
-                "e": 1,
-                "d": 0,
-                "gp": 5,
-                "gc": 0,
-                "sg": 5
-              },
-              {
-                "selecao": "Tunísia",
-                "pts": 1,
-                "j": 3,
-                "v": 0,
-                "e": 1,
-                "d": 2,
-                "gp": 3,
-                "gc": 6,
-                "sg": -3
-              },
-              {
-                "selecao": "Arábia Saudita",
-                "pts": 0,
-                "j": 3,
-                "v": 0,
-                "e": 0,
-                "d": 3,
-                "gp": 2,
-                "gc": 7,
-                "sg": -5
-              }
-            ]
-          }
+        "grupoA": {
+          "selecoes": [
+            {
+              "selecao": "Alemanha",
+              "pts": 9,
+              "j": 3,
+              "v": 3,
+              "e": 0,
+              "d": 0,
+              "gp": 8,
+              "gc": 2,
+              "sg": 6
+            },
+            {
+              "selecao": "Equador",
+              "pts": 6,
+              "j": 3,
+              "v": 2,
+              "e": 0,
+              "d": 1,
+              "gp": 5,
+              "gc": 3,
+              "sg": 2
+            },
+            {
+              "selecao": "Polônia",
+              "pts": 3,
+              "j": 3,
+              "v": 1,
+              "e": 0,
+              "d": 2,
+              "gp": 2,
+              "gc": 4,
+              "sg": -2
+            },
+            {
+              "selecao": "Costa Rica",
+              "pts": 0,
+              "j": 3,
+              "v": 0,
+              "e": 0,
+              "d": 3,
+              "gp": 3,
+              "gc": 9,
+              "sg": -6
+            }
+          ]
+        },
+        "grupoB": {
+          "selecoes": [
+            {
+              "selecao": "Inglaterra",
+              "pts": 7,
+              "j": 3,
+              "v": 2,
+              "e": 1,
+              "d": 0,
+              "gp": 5,
+              "gc": 2,
+              "sg": 3
+            },
+            {
+              "selecao": "Suécia",
+              "pts": 5,
+              "j": 3,
+              "v": 1,
+              "e": 2,
+              "d": 0,
+              "gp": 3,
+              "gc": 2,
+              "sg": 1
+            },
+            {
+              "selecao": "Paraguai",
+              "pts": 3,
+              "j": 3,
+              "v": 1,
+              "e": 0,
+              "d": 2,
+              "gp": 2,
+              "gc": 2,
+              "sg": 0
+            },
+            {
+              "selecao": "Trindade e Tobago",
+              "pts": 1,
+              "j": 3,
+              "v": 0,
+              "e": 1,
+              "d": 2,
+              "gp": 0,
+              "gc": 4,
+              "sg": -4
+            }
+          ]
+        },
+        "grupoC": {
+          "selecoes": [
+            {
+              "selecao": "Argentina",
+              "pts": 7,
+              "j": 3,
+              "v": 2,
+              "e": 1,
+              "d": 0,
+              "gp": 8,
+              "gc": 1,
+              "sg": 7
+            },
+            {
+              "selecao": "Países Baixos",
+              "pts": 7,
+              "j": 3,
+              "v": 2,
+              "e": 1,
+              "d": 0,
+              "gp": 3,
+              "gc": 1,
+              "sg": 2
+            },
+            {
+              "selecao": "Costa do Marfim",
+              "pts": 3,
+              "j": 3,
+              "v": 1,
+              "e": 0,
+              "d": 2,
+              "gp": 5,
+              "gc": 6,
+              "sg": -1
+            },
+            {
+              "selecao": "Sérvia e Montenegro",
+              "pts": 0,
+              "j": 3,
+              "v": 0,
+              "e": 0,
+              "d": 3,
+              "gp": 2,
+              "gc": 10,
+              "sg": -8
+            }
+          ]
+        },
+        "grupoD": {
+          "selecoes": [
+            {
+              "selecao": "Portugal",
+              "pts": 9,
+              "j": 3,
+              "v": 3,
+              "e": 0,
+              "d": 0,
+              "gp": 5,
+              "gc": 1,
+              "sg": 4
+            },
+            {
+              "selecao": "México",
+              "pts": 4,
+              "j": 3,
+              "v": 1,
+              "e": 1,
+              "d": 1,
+              "gp": 4,
+              "gc": 3,
+              "sg": 1
+            },
+            {
+              "selecao": "Angola",
+              "pts": 2,
+              "j": 3,
+              "v": 0,
+              "e": 2,
+              "d": 1,
+              "gp": 1,
+              "gc": 2,
+              "sg": -1
+            },
+            {
+              "selecao": "Irã",
+              "pts": 1,
+              "j": 3,
+              "v": 0,
+              "e": 1,
+              "d": 2,
+              "gp": 2,
+              "gc": 6,
+              "sg": -4
+            }
+          ]
+        },
+        "grupoE": {
+          "selecoes": [
+            {
+              "selecao": "Itália",
+              "pts": 7,
+              "j": 3,
+              "v": 2,
+              "e": 1,
+              "d": 0,
+              "gp": 5,
+              "gc": 1,
+              "sg": 4
+            },
+            {
+              "selecao": "Gana",
+              "pts": 6,
+              "j": 3,
+              "v": 2,
+              "e": 0,
+              "d": 1,
+              "gp": 4,
+              "gc": 3,
+              "sg": 1
+            },
+            {
+              "selecao": "República Tcheca",
+              "pts": 3,
+              "j": 3,
+              "v": 1,
+              "e": 0,
+              "d": 2,
+              "gp": 3,
+              "gc": 4,
+              "sg": -1
+            },
+            {
+              "selecao": "Estados Unidos",
+              "pts": 1,
+              "j": 3,
+              "v": 0,
+              "e": 1,
+              "d": 2,
+              "gp": 2,
+              "gc": 6,
+              "sg": -4
+            }
+          ]
+        },
+        "grupoF": {
+          "selecoes": [
+            {
+              "selecao": "Brasil",
+              "pts": 9,
+              "j": 3,
+              "v": 3,
+              "e": 0,
+              "d": 0,
+              "gp": 7,
+              "gc": 1,
+              "sg": 6
+            },
+            {
+              "selecao": "Japão",
+              "pts": 4,
+              "j": 3,
+              "v": 1,
+              "e": 1,
+              "d": 1,
+              "gp": 4,
+              "gc": 4,
+              "sg": 0
+            },
+            {
+              "selecao": "Austrália",
+              "pts": 2,
+              "j": 3,
+              "v": 0,
+              "e": 2,
+              "d": 1,
+              "gp": 3,
+              "gc": 4,
+              "sg": -1
+            },
+            {
+              "selecao": "Croácia",
+              "pts": 1,
+              "j": 3,
+              "v": 0,
+              "e": 1,
+              "d": 2,
+              "gp": 2,
+              "gc": 6,
+              "sg": -4
+            }
+          ]
+        },
+        "grupoG": {
+          "selecoes": [
+            {
+              "selecao": "França",
+              "pts": 9,
+              "j": 3,
+              "v": 3,
+              "e": 0,
+              "d": 0,
+              "gp": 6,
+              "gc": 0,
+              "sg": 6
+            },
+            {
+              "selecao": "Coreia do Sul",
+              "pts": 4,
+              "j": 3,
+              "v": 1,
+              "e": 1,
+              "d": 1,
+              "gp": 3,
+              "gc": 2,
+              "sg": 1
+            },
+            {
+              "selecao": "Suíça",
+              "pts": 2,
+              "j": 3,
+              "v": 0,
+              "e": 2,
+              "d": 1,
+              "gp": 2,
+              "gc": 3,
+              "sg": -1
+            },
+            {
+              "selecao": "Togo",
+              "pts": 1,
+              "j": 3,
+              "v": 0,
+              "e": 1,
+              "d": 2,
+              "gp": 1,
+              "gc": 6,
+              "sg": -5
+            }
+          ]
+        },
+        "grupoH": {
+          "selecoes": [
+            {
+              "selecao": "Espanha",
+              "pts": 7,
+              "j": 3,
+              "v": 2,
+              "e": 1,
+              "d": 0,
+              "gp": 6,
+              "gc": 2,
+              "sg": 4
+            },
+            {
+              "selecao": "Ucrânia",
+              "pts": 7,
+              "j": 3,
+              "v": 2,
+              "e": 1,
+              "d": 0,
+              "gp": 5,
+              "gc": 0,
+              "sg": 5
+            },
+            {
+              "selecao": "Tunísia",
+              "pts": 1,
+              "j": 3,
+              "v": 0,
+              "e": 1,
+              "d": 2,
+              "gp": 3,
+              "gc": 6,
+              "sg": -3
+            },
+            {
+              "selecao": "Arábia Saudita",
+              "pts": 0,
+              "j": 3,
+              "v": 0,
+              "e": 0,
+              "d": 3,
+              "gp": 2,
+              "gc": 7,
+              "sg": -5
+            }
+          ]
         }
       },
       "Oitavas-de-final": {
@@ -27941,1407 +27748,1402 @@
             }
           ]
         }
-      },
-    },
-    {
-      "Seleção-da-copa": {
-        [
-          {
-            "Posição": "Goleiros",
-            "Jogador": "Gianluigi Buffon",
-            "Nacionalidade": "Itália"
-          },
-          {
-            "Posição": "Goleiros",
-            "Jogador": "Jens Lehmann",
-            "Nacionalidade": "Alemanha"
-          },
-          {
-            "Posição": "Goleiros",
-            "Jogador": "Ricardo",
-            "Nacionalidade": "Portugal"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "Roberto Ayala",
-            "Nacionalidade": "Argentina"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "John Terry",
-            "Nacionalidade": "Inglaterra"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "Lilian Thuram",
-            "Nacionalidade": "França"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "Philipp Lahm",
-            "Nacionalidade": "Alemanha"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "Fabio Cannavaro",
-            "Nacionalidade": "Itália"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "Gianluca Zambrotta",
-            "Nacionalidade": "Itália"
-          },
-          {
-            "Posição": "Defensores",
-            "Jogador": "Ricardo Carvalho",
-            "Nacionalidade": "Portugal"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Zé Roberto",
-            "Nacionalidade": "Brasil"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Patrick Vieira",
-            "Nacionalidade": "França"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Zinédine Zidane",
-            "Nacionalidade": "França"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Michael Ballack",
-            "Nacionalidade": "Alemanha"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Andrea Pirlo",
-            "Nacionalidade": "Itália"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Gennaro Gattuso",
-            "Nacionalidade": "Itália"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Francesco Totti",
-            "Nacionalidade": "Itália"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Luís Figo",
-            "Nacionalidade": "Portugal"
-          },
-          {
-            "Posição": "Meias",
-            "Jogador": "Maniche",
-            "Nacionalidade": "Portugal"
-          },
-          {
-            "Posição": "Atacantes",
-            "Jogador": "Hernán Crespo",
-            "Nacionalidade": "Argentina"
-          },
-          {
-            "Posição": "Atacantes",
-            "Jogador": "Thierry Henry",
-            "Nacionalidade": "França"
-          },
-          {
-            "Posição": "Atacantes",
-            "Jogador": "Miroslav Klose",
-            "Nacionalidade": "Alemanha"
-          },
-          {
-            "Posição": "Atacantes",
-            "Jogador": "Luca Toni",
-            "Nacionalidade": "Itália"
-          }
-        ]
       }
-    }
+    },
+    "Seleção-da-copa": [
+      {
+        "Posição": "Goleiros",
+        "Jogador": "Gianluigi Buffon",
+        "Nacionalidade": "Itália"
+      },
+      {
+        "Posição": "Goleiros",
+        "Jogador": "Jens Lehmann",
+        "Nacionalidade": "Alemanha"
+      },
+      {
+        "Posição": "Goleiros",
+        "Jogador": "Ricardo",
+        "Nacionalidade": "Portugal"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "Roberto Ayala",
+        "Nacionalidade": "Argentina"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "John Terry",
+        "Nacionalidade": "Inglaterra"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "Lilian Thuram",
+        "Nacionalidade": "França"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "Philipp Lahm",
+        "Nacionalidade": "Alemanha"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "Fabio Cannavaro",
+        "Nacionalidade": "Itália"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "Gianluca Zambrotta",
+        "Nacionalidade": "Itália"
+      },
+      {
+        "Posição": "Defensores",
+        "Jogador": "Ricardo Carvalho",
+        "Nacionalidade": "Portugal"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Zé Roberto",
+        "Nacionalidade": "Brasil"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Patrick Vieira",
+        "Nacionalidade": "França"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Zinédine Zidane",
+        "Nacionalidade": "França"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Michael Ballack",
+        "Nacionalidade": "Alemanha"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Andrea Pirlo",
+        "Nacionalidade": "Itália"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Gennaro Gattuso",
+        "Nacionalidade": "Itália"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Francesco Totti",
+        "Nacionalidade": "Itália"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Luís Figo",
+        "Nacionalidade": "Portugal"
+      },
+      {
+        "Posição": "Meias",
+        "Jogador": "Maniche",
+        "Nacionalidade": "Portugal"
+      },
+      {
+        "Posição": "Atacantes",
+        "Jogador": "Hernán Crespo",
+        "Nacionalidade": "Argentina"
+      },
+      {
+        "Posição": "Atacantes",
+        "Jogador": "Thierry Henry",
+        "Nacionalidade": "França"
+      },
+      {
+        "Posição": "Atacantes",
+        "Jogador": "Miroslav Klose",
+        "Nacionalidade": "Alemanha"
+      },
+      {
+        "Posição": "Atacantes",
+        "Jogador": "Luca Toni",
+        "Nacionalidade": "Itália"
+      }
+    ]
   },
-  {
-    "Copa-do-Mundo-2010": {
-      "info-gerais": {
-        "edicao": "Copa do Mundo FIFA de 2010",
-        "paisSede": "África do Sul",
-        "periodo": "11 de junho – 11 de julho",
-        "campeao": "Espanha (1º título)",
-        "vicecampeao": "Países Baixos",
-        "terceiroLugar": "Alemanha",
-        "totalDeGols": "145",
-        "mediaDeGols": "2,27 gol(o)s por partida",
-        "artilheiro": "5 gols:\n Thomas Müller\n David Villa\n Wesley Sneijder\n Diego Forlán",
-        "melhorAtaque": "7 gols:\nArgentina\nPortugal",
-        "melhorDefesa": "Nenhum gol:\nPortugal\nUruguai",
-        "maiorGoleada": "",
-        "publicoTotal": "3 178 856",
-        "participantes": "32",
-        "melhorJogador": "Diego Forlán",
-        "melhorGoleiro": "Iker Casillas",
-        "melhorJogadorJovem": "Michael Owen"
-      },
-      "times-jogadores-tecnicos": {
-        "Grupo A": [
-          {
-            "selecao": "Seleção Uruguaia – Copa do Mundo de 2010 (4º Lugar)",
-            "jogadores": [
-              "Muslera",
-              "Lugano",
-              "Godín",
-              "Fucile",
-              "Gargano",
-              "Victorino",
-              "Cavani",
-              "Eguren",
-              "Suárez",
-              "Forlán",
-              "Á. Pereira",
-              "Castillo",
-              "Abreu",
-              "Lodeiro",
-              "Pérez",
-              "Maxi Pereira",
-              "Arévalo",
-              "González",
-              "Scotti",
-              "Á. Fernández",
-              "S. Fernández",
-              "Cáceres",
-              "Martín Silva"
-            ],
-            "treinador": "Tabárez"
-          },
-          {
-            "selecao": "Seleção Mexicana – Copa do Mundo de 2010",
-            "jogadores": [
-              "Pérez",
-              "Rodríguez",
-              "Salcido",
-              "Márquez",
-              "Osorio",
-              "Torrado",
-              "Barrera",
-              "Castro",
-              "Franco",
-              "Blanco",
-              "Vela",
-              "Aguilar",
-              "Ochoa",
-              "Hernández",
-              "Moreno",
-              "Juárez",
-              "Dos Santos",
-              "Guardado",
-              "Magallón",
-              "Torres",
-              "Bautista",
-              "Medina",
-              "Michel"
-            ],
-            "treinador": "Aguirre"
-          },
-          {
-            "selecao": "Seleção Sul-Africana – Copa do Mundo de 2010",
-            "jogadores": [
-              "Josephs",
-              "Gaxa",
-              "Masilela",
-              "Mokoena",
-              "Ngconga",
-              "Sibaya",
-              "Davids",
-              "Tshabalala",
-              "Mphela",
-              "Pienaar",
-              "Modise",
-              "Letsholonyane",
-              "Booth",
-              "Khune",
-              "Parker",
-              "Nomvethe",
-              "Moriri",
-              "Khumalo",
-              "Sangweni"
-            ],
-            "treinador": "Parreira"
-          },
-          {
-            "selecao": "Seleção Francesa – Copa do Mundo de 2010",
-            "jogadores": [
-              "Lloris",
-              "Sagna",
-              "Abidal",
-              "Réveillère",
-              "Gallas",
-              "Planus",
-              "Ribéry",
-              "Gourcuff",
-              "Cissé",
-              "Govou",
-              "Gignac",
-              "Henry",
-              "Evra",
-              "Toulalan",
-              "Malouda",
-              "Mandanda",
-              "Squillaci",
-              "Diaby",
-              "Valbuena",
-              "Anelka",
-              "Clichy",
-              "Carrasso"
-            ],
-            "treinador": "Domenech"
-          }
-        ],
-        "Grupo B": [],
-        "Grupo C": {
-          "Estados Unidos": {
-            "Jogadores": [
-              "Howard",
-              "Spector",
-              "Bocanegra",
-              "M. Bradley",
-              "Onyewu",
-              "Cherundolo",
-              "Beasley",
-              "Dempsey",
-              "Gomez",
-              "Donovan",
-              "Holden",
-              "Bornstein",
-              "Buddle",
-              "DeMerit",
-              "Torres",
-              "Altidore",
-              "Guzan",
-              "Edu",
-              "Goodson",
-              "Feilhaber",
-              "Hahnemann"
-            ],
-            "Treinador": "B. Bradley"
-          },
-          "Inglaterra": {
-            "Jogadores": [
-              "James",
-              "Johnson",
-              "A. Cole",
-              "Gerrard",
-              "Dawson",
-              "Terry",
-              "Lennon",
-              "Lampard",
-              "Crouch",
-              "Rooney",
-              "J. Cole",
-              "Green",
-              "Barry",
-              "Milner",
-              "Wright-Phillips",
-              "Carragher",
-              "Defoe",
-              "King",
-              "Heskey",
-              "Carrick",
-              "Hart"
-            ],
-            "Treinador": "Capello"
-          },
-          "Eslovênia": {
-            "Jogadores": [
-              "S. Handanovič",
-              "Brečko",
-              "Džinič",
-              "Šuler",
-              "Cesar",
-              "Ilič",
-              "Pečnik",
-              "Koren",
-              "Ljubijankič",
-              "Birsa",
-              "Novakovič",
-              "J. Handanovič",
-              "Jokić",
-              "Dedič",
-              "Krhin",
-              "Šeliga",
-              "Kirm",
-              "Radosavljevič",
-              "Filekovič",
-              "Komac",
-              "Stevanovič",
-              "Mavrič",
-              "Matavž"
-            ],
-            "Treinador": "Kek"
-          },
-          "Argélia": {
-            "Jogadores": [
-              "Gaouaoui",
-              "Bougherra",
-              "Belhadj",
-              "Yahia",
-              "Halliche",
-              "Mansouri",
-              "Boudebouz",
-              "Lacen",
-              "Ghezzal",
-              "Saïfi",
-              "Djebbour",
-              "Bellaïd",
-              "Matmour",
-              "Laïfaoui",
-              "Ziani",
-              "Chaouchi",
-              "Guedioura",
-              "Medjani",
-              "Yebda",
-              "Mesbah",
-              "Kadir",
-              "Abdoun",
-              "M'Bolhi"
-            ],
-            "Treinador": "Saâdane"
-          }
-        },
-        "Grupo D": {
-          "Alemanha": {
-            "Jogadores": [
-              "Neuer",
-              "Jansen",
-              "Friedrich",
-              "Aogo",
-              "Taşçı",
-              "Khedira",
-              "Schweinsteiger",
-              "Özil",
-              "Kießling",
-              "Podolski",
-              "Klose",
-              "Wiese",
-              "Müller",
-              "Badstuber",
-              "Trochowski",
-              "Lahm",
-              "Mertesacker",
-              "Kroos",
-              "Cacau",
-              "Boateng",
-              "Marin",
-              "Butt",
-              "Gómez"
-            ],
-            "Treinador": "Löw"
-          },
-          "Gana": {
-            "Jogadores": [
-              "Adjei",
-              "Sarpei",
-              "Gyan",
-              "Paintsil",
-              "John Mensah",
-              "Annan",
-              "Inkoom",
-              "Jonathan Mensah",
-              "D. Boateng",
-              "Appiah",
-              "Muntari",
-              "Tagoe",
-              "A. Ayew",
-              "Amoah",
-              "Vorsah",
-              "Ahorlu",
-              "A.R. Ayew",
-              "Adiyiah",
-              "Addy",
-              "Owusu-Abeyie",
-              "Asamoah",
-              "Kingson",
-              "K.P. Boateng"
-            ],
-            "Treinador": "Rajevac"
-          },
-          "Austrália": {
-            "Jogadores": [
-              "Schwarzer",
-              "Neill",
-              "Moore",
-              "Cahill",
-              "Čulina",
-              "Beauchamp",
-              "Emerton",
-              "Wilkshire",
-              "Kennedy",
-              "Kewell",
-              "Chipperfield",
-              "Federici",
-              "Grella",
-              "Holman",
-              "Jedinak",
-              "Valeri",
-              "Rukavytsya",
-              "Galeković",
-              "Garcia",
-              "Milligan",
-              "Vidošić",
-              "Bresciano"
-            ],
-            "Treinador": "Verbeek"
-          },
-          "Sérvia": {
-            "Jogadores": [
-              "Stojković",
-              "Rukavina",
-              "Kolarov",
-              "Kačar",
-              "Vidić",
-              "Ivanović",
-              "Tošić",
-              "Lazović",
-              "Pantelić",
-              "Stanković",
-              "Milijaš",
-              "Isailović",
-              "Luković",
-              "Jovanović",
-              "Žigić",
-              "Obradović",
-              "Krasić",
-              "Ninković",
-              "Petrović",
-              "Subotić",
-              "Mrđa",
-              "Kuzmanović",
-              "Đuričić"
-            ],
-            "Treinador": "Antić"
-          }
-        },
-        "Grupo E": [
-          {
-            "selecao": "Neerlandesa",
-            "copa": "2010",
-            "colocacao": "2º Lugar",
-            "jogadores": [
-              "Stekelenburg",
-              "Van der Wiel",
-              "Heitinga",
-              "Mathijsen",
-              "Van Bronckhorst",
-              "Van Bommel",
-              "Kuijt",
-              "De Jong",
-              "Van Persie",
-              "Sneijder",
-              "Robben",
-              "Boulahrouz",
-              "Ooijer",
-              "De Zeeuw",
-              "Braafheid",
-              "Vorm",
-              "Elia",
-              "Schaars",
-              "Babel",
-              "Afellay",
-              "Huntelaar",
-              "Boschker",
-              "Van der Vaart"
-            ],
-            "treinador": "Van Marwijk"
-          },
-          {
-            "selecao": "Japonesa",
-            "copa": "2010",
-            "colocacao": "",
-            "jogadores": [
-              "Narazaki",
-              "Abe",
-              "Komano",
-              "Túlio",
-              "Nagatomo",
-              "Uchida",
-              "Endō",
-              "Matsui",
-              "Okazaki",
-              "S. Nakamura",
-              "Tamada",
-              "Yano",
-              "K. Nakamura",
-              "Konno",
-              "Okubo",
-              "Hasebe",
-              "Honda",
-              "Morimoto",
-              "Inamoto",
-              "Kawashima",
-              "Nakazawa",
-              "Kawaguchi"
-            ],
-            "treinador": "Okada"
-          },
-          {
-            "selecao": "Dinamarquesa",
-            "copa": "2010",
-            "colocacao": "",
-            "jogadores": [
-              "Sørensen",
-              "C. Poulsen",
-              "Kjær",
-              "Agger",
-              "Kvist",
-              "Jacobsen",
-              "Jensen",
-              "Grønkjær",
-              "Tomasson",
-              "Jørgensen",
-              "Bendtner",
-              "Kahlenberg",
-              "Krøldrup",
-              "S. Poulsen",
-              "Rommedahl",
-              "Enevoldsen",
-              "Eriksen",
-              "Christiansen",
-              "Mtiliga"
-            ],
-            "treinador": "Olsen"
-          },
-          {
-            "selecao": "Camaronesa",
-            "copa": "2010",
-            "colocacao": "",
-            "jogadores": [
-              "Kameni",
-              "Assou-Ekotto",
-              "Nkoulou",
-              "R. Song",
-              "Bassong",
-              "A. Song",
-              "N'Guémo",
-              "Geremi",
-              "Eto'o",
-              "Emana",
-              "Makoun",
-              "Bong",
-              "Choupo-Moting",
-              "Chedjou",
-              "Webó",
-              "Souleymanou",
-              "Idrissou",
-              "Enoh",
-              "Mbia",
-              "Mandjeck",
-              "Matip",
-              "Assembé",
-              "Aboubakar"
-            ],
-            "treinador": "Le Guen"
-          }
-        ],
-        "Grupo F": [
-          {
-            "selecao": "Paraguai",
-            "jogadores": [
-              "Villar",
-              "Verón",
-              "Morel Rodríguez",
-              "Caniza",
-              "J.C. Cáceres",
-              "Bonet",
-              "Cardozo",
-              "É. Barreto",
-              "Santa Cruz",
-              "Benítez",
-              "Santana",
-              "D. Barreto",
-              "Vera",
-              "Da Silva",
-              "V. Cáceres",
-              "Riveros",
-              "Torres",
-              "Haedo Valdez",
-              "Barrios",
-              "Ortigoza",
-              "Alcaraz",
-              "Bobadilla",
-              "Gamarra"
-            ],
-            "treinador": "Martino"
-          },
-          {
-            "selecao": "Eslováquia",
-            "jogadores": [
-              "Mucha",
-              "Pekarík",
-              "Škrtel",
-              "Čech",
-              "Zabavník",
-              "Weiss III",
-              "Kozák",
-              "Šesták",
-              "Sapara",
-              "Vittek",
-              "Perniš",
-              "Hološko",
-              "Jakubko",
-              "Stoch",
-              "Ďurica",
-              "Hamšík",
-              "Jendrišek",
-              "Kucka",
-              "Kopúnek",
-              "Saláta",
-              "Petráš",
-              "Kuciak"
-            ],
-            "treinador": "Weiss II"
-          },
-          {
-            "selecao": "Nova Zelândia",
-            "jogadores": [
-              "Paston",
-              "Sigmund",
-              "Lochhead",
-              "Reid",
-              "Vicelich",
-              "Nelsen",
-              "Elliott",
-              "Brown",
-              "Smeltz",
-              "Killen",
-              "Bertos",
-              "Moss",
-              "Barron",
-              "Fallon",
-              "McGlinchey",
-              "Clapham",
-              "Mulligan",
-              "Smith",
-              "Wood",
-              "Brockie",
-              "Bannatyne"
-            ],
-            "treinador": "Herbert"
-          },
-          {
-            "selecao": "Itália",
-            "jogadores": [
-              "Buffon",
-              "Maggio",
-              "Criscito",
-              "Chiellini",
-              "Cannavaro",
-              "De Rossi",
-              "Pepe",
-              "Gattuso",
-              "Iaquinta",
-              "Di Natale",
-              "Gilardino",
-              "Marchetti",
-              "Bocchetti",
-              "De Sanctis",
-              "Marchisio",
-              "Camoranesi",
-              "Palombo",
-              "Quagliarella",
-              "Zambrotta",
-              "Pazzini",
-              "Pirlo",
-              "Montolivo",
-              "Bonucci"
-            ],
-            "treinador": "Lippi"
-          }
-        ],
-        "Grupo G": {
-          "Seleção Brasileira - Copa do Mundo de 2010": [
-            "Júlio César",
-            "Maicon",
-            "Lúcio",
-            "Juan",
-            "Felipe Melo",
-            "Michel Bastos",
-            "Elano",
-            "Gilberto Silva",
-            "Luís Fabiano",
-            "Kaká",
-            "Robinho",
-            "Gomes",
-            "Daniel Alves",
-            "Luisão",
-            "Thiago Silva",
-            "Gilberto",
-            "Josué",
-            "Ramires",
-            "Júlio Baptista",
-            "Kléberson",
-            "Nilmar",
-            "Doni",
-            "Grafite"
+  "Copa-do-Mundo-2010": {
+    "info-gerais": {
+      "edicao": "Copa do Mundo FIFA de 2010",
+      "paisSede": "África do Sul",
+      "periodo": "11 de junho – 11 de julho",
+      "campeao": "Espanha (1º título)",
+      "vicecampeao": "Países Baixos",
+      "terceiroLugar": "Alemanha",
+      "totalDeGols": "145",
+      "mediaDeGols": "2,27 gol(o)s por partida",
+      "artilheiro": "5 gols:\n Thomas Müller\n David Villa\n Wesley Sneijder\n Diego Forlán",
+      "melhorAtaque": "7 gols:\nArgentina\nPortugal",
+      "melhorDefesa": "Nenhum gol:\nPortugal\nUruguai",
+      "maiorGoleada": "",
+      "publicoTotal": "3 178 856",
+      "participantes": "32",
+      "melhorJogador": "Diego Forlán",
+      "melhorGoleiro": "Iker Casillas",
+      "melhorJogadorJovem": "Michael Owen"
+    },
+
+    "times-jogadores-tecnicos": {
+      "Grupo A": [
+        {
+          "selecao": "Seleção Uruguaia – Copa do Mundo de 2010 (4º Lugar)",
+          "jogadores": [
+            "Muslera",
+            "Lugano",
+            "Godín",
+            "Fucile",
+            "Gargano",
+            "Victorino",
+            "Cavani",
+            "Eguren",
+            "Suárez",
+            "Forlán",
+            "Á. Pereira",
+            "Castillo",
+            "Abreu",
+            "Lodeiro",
+            "Pérez",
+            "Maxi Pereira",
+            "Arévalo",
+            "González",
+            "Scotti",
+            "Á. Fernández",
+            "S. Fernández",
+            "Cáceres",
+            "Martín Silva"
           ],
-          "Seleção Portuguesa - Campeonato do Mundo de Futebol de 2010": [
-            "Eduardo",
-            "Bruno Alves",
-            "Paulo Ferreira",
-            "Rolando",
-            "Duda",
-            "Ricardo Carvalho",
-            "Cristiano Ronaldo",
-            "Pedro Mendes",
-            "Liedson",
-            "Danny",
-            "Simão",
-            "Beto",
-            "Miguel",
-            "Miguel Veloso",
-            "Pepe",
-            "Raul Meireles",
-            "Rúben Amorim",
-            "Hugo Almeida",
-            "Tiago",
-            "Deco",
-            "Ricardo Costa",
-            "Daniel Fernandes",
-            "Fábio Coentrão"
+          "treinador": "Tabárez"
+        },
+        {
+          "selecao": "Seleção Mexicana – Copa do Mundo de 2010",
+          "jogadores": [
+            "Pérez",
+            "Rodríguez",
+            "Salcido",
+            "Márquez",
+            "Osorio",
+            "Torrado",
+            "Barrera",
+            "Castro",
+            "Franco",
+            "Blanco",
+            "Vela",
+            "Aguilar",
+            "Ochoa",
+            "Hernández",
+            "Moreno",
+            "Juárez",
+            "Dos Santos",
+            "Guardado",
+            "Magallón",
+            "Torres",
+            "Bautista",
+            "Medina",
+            "Michel"
           ],
-          "Seleção Marfinense - Copa do Mundo de 2010": [
-            "Barry",
-            "Angoua",
-            "Boka",
-            "K. Touré",
-            "Zokora",
-            "Gohouri",
-            "Doumbia",
-            "Kalou",
-            "Tioté",
-            "Gervinho",
-            "Drogba",
-            "Gosso",
-            "Romaric",
-            "Koné",
-            "Dindane",
-            "Zogbo",
-            "Tiéné",
-            "Keïta",
-            "Y. Touré",
-            "Demel",
-            "Eboué",
-            "Bamba",
-            "Yeboah"
+          "treinador": "Aguirre"
+        },
+        {
+          "selecao": "Seleção Sul-Africana – Copa do Mundo de 2010",
+          "jogadores": [
+            "Josephs",
+            "Gaxa",
+            "Masilela",
+            "Mokoena",
+            "Ngconga",
+            "Sibaya",
+            "Davids",
+            "Tshabalala",
+            "Mphela",
+            "Pienaar",
+            "Modise",
+            "Letsholonyane",
+            "Booth",
+            "Khune",
+            "Parker",
+            "Nomvethe",
+            "Moriri",
+            "Khumalo",
+            "Sangweni"
           ],
-          "Seleção Norte-Coreana - Copa do Mundo de 2010": [
-            "Ri Myong-Guk",
-            "Cha Jong-Hyok",
-            "Ri Jun-il",
-            "Pak Nam-Chol",
-            "Ri Kwang-Chon",
-            "Kim Kum-Il",
-            "An Chol-Hyok",
-            "Ji Yun-Nam",
-            "Jong Tae-Se",
-            "Hong Yong-Jo",
-            "Mun In-Guk",
-            "Choe Kum-Chol",
-            "Pak Chol-Jin",
-            "Pak Nam-Chol",
-            "Kim Yong-Jun",
-            "Nam Song-Chol",
-            "Ahn Young-hak",
-            "Kim Myong-Gil",
-            "Ri Chol-Myong",
-            "Kim Myong-Won",
-            "Ri Kwang-Hyok",
-            "Kim Kyong-Il",
-            "Pak Sung-Hyok"
-          ]
-        },
-        "Grupo H": {
-          "selecao_espanhola": {
-            "titulo": "Copa do Mundo de 2010 (1.º Título)",
-            "jogadores": [
-              "Casillas",
-              "Albiol",
-              "Piqué",
-              "Marchena",
-              "Puyol",
-              "Iniesta",
-              "Villa",
-              "Xavi",
-              "Torres",
-              "Fàbregas",
-              "Capdevila",
-              "Valdés",
-              "Mata",
-              "Alonso",
-              "Ramos",
-              "Busquets",
-              "Arbeloa",
-              "Pedro",
-              "Llorente",
-              "Martínez",
-              "Silva",
-              "Navas",
-              "Reina"
-            ],
-            "treinador": "Del Bosque"
-          },
-          "selecao_chilena": {
-            "titulo": "Copa do Mundo de 2010",
-            "jogadores": [
-              "Bravo",
-              "Ponce",
-              "Isla",
-              "Contreras",
-              "Carmona",
-              "Sánchez",
-              "Vidal",
-              "Suazo",
-              "Valdivia",
-              "González",
-              "Pinto",
-              "Estrada",
-              "Fernández",
-              "Beausejour",
-              "Orellana",
-              "Medel",
-              "Jara",
-              "Fierro",
-              "Millar",
-              "Tello",
-              "Paredes",
-              "Marín"
-            ],
-            "treinador": "Bielsa"
-          },
-          "selecao_suica": {
-            "titulo": "Copa do Mundo de 2010",
-            "jogadores": [
-              "Benaglio",
-              "Lichtsteiner",
-              "Magnin",
-              "Senderos",
-              "Von Bergen",
-              "Huggel",
-              "Barnetta",
-              "İnler",
-              "Frei",
-              "Nkufo",
-              "Behrami",
-              "Wölfli",
-              "Grichting",
-              "Padalino",
-              "Yakın",
-              "Fernandes",
-              "Ziegler",
-              "Bunjaku",
-              "Derdiyok",
-              "Schwegler",
-              "Leoni",
-              "Eggimann",
-              "Shaqiri"
-            ],
-            "treinador": "Hitzfeld"
-          },
-          "selecao_hondurenha": {
-            "titulo": "Copa do Mundo de 2010",
-            "jogadores": [
-              "Canales",
-              "Chávez",
-              "Figueroa",
-              "Johnny Palacios",
-              "Bernárdez",
-              "Thomas",
-              "Núñez",
-              "W. Palacios",
-              "Pavón",
-              "Jerry Palacios",
-              "Suazo",
-              "Welcome",
-              "Espinoza",
-              "García",
-              "Martínez",
-              "Sabillón",
-              "Álvarez",
-              "Valladares",
-              "Turcios",
-              "Guevara",
-              "Izaguirre",
-              "Escober",
-              "Mendoza"
-            ],
-            "treinador": "Rueda"
-          }
-        }
-      },
-      "Estadios": [
-        {
-          "Cidade": "Joanesburgo",
-          "Estádio": "Estádio FNB1",
-          "Capacidade": "84,490",
-          "Localização": {
-            "Latitude": -26.2348,
-            "Longitude": 27.9823
-          }
+          "treinador": "Parreira"
         },
         {
-          "Cidade": "Cidade do Cabo",
-          "Estádio": "Estádio da Cidade do Cabo2",
-          "Capacidade": "64,100",
-          "Localização": {
-            "Latitude": -33.9035,
-            "Longitude": 18.4207
-          }
-        },
-        {
-          "Cidade": "Durban",
-          "Estádio": "Estádio Moses Mabhida3",
-          "Capacidade": "62,760",
-          "Localização": {
-            "Latitude": -29.8494,
-            "Longitude": 31.0297
-          }
-        },
-        {
-          "Cidade": "Joanesburgo",
-          "Estádio": "Estádio Ellis Park",
-          "Capacidade": "55,686",
-          "Localização": {
-            "Latitude": -26.1975,
-            "Longitude": 28.0608
-          }
-        },
-        {
-          "Cidade": "Pretória",
-          "Estádio": "Estádio Loftus Versfeld",
-          "Capacidade": "42,858",
-          "Localização": {
-            "Latitude": -25.7533,
-            "Longitude": 28.2244
-          }
-        },
-        {
-          "Cidade": "Porto Elizabeth",
-          "Estádio": "Estádio Nelson Mandela Bay",
-          "Capacidade": "42,486",
-          "Localização": {
-            "Latitude": -33.9469,
-            "Longitude": 25.5707
-          }
-        },
-        {
-          "Cidade": "Bloemfontein",
-          "Estádio": "Estádio Free State",
-          "Capacidade": "40,911",
-          "Localização": {
-            "Latitude": -29.0822,
-            "Longitude": 26.1596
-          }
-        },
-        {
-          "Cidade": "Polokwane",
-          "Estádio": "Estádio Peter Mokaba",
-          "Capacidade": "41,733",
-          "Localização": {
-            "Latitude": -23.9247,
-            "Longitude": 29.4694
-          }
-        },
-        {
-          "Cidade": "Nelspruit",
-          "Estádio": "Estádio Mbombela",
-          "Capacidade": "40,929",
-          "Localização": {
-            "Latitude": -25.4607,
-            "Longitude": 30.9496
-          }
-        },
-        {
-          "Cidade": "Rustemburgo",
-          "Estádio": "Estádio Royal Bafokeng",
-          "Capacidade": "38,646",
-          "Localização": {
-            "Latitude": -25.3477,
-            "Longitude": 27.0875
-          }
+          "selecao": "Seleção Francesa – Copa do Mundo de 2010",
+          "jogadores": [
+            "Lloris",
+            "Sagna",
+            "Abidal",
+            "Réveillère",
+            "Gallas",
+            "Planus",
+            "Ribéry",
+            "Gourcuff",
+            "Cissé",
+            "Govou",
+            "Gignac",
+            "Henry",
+            "Evra",
+            "Toulalan",
+            "Malouda",
+            "Mandanda",
+            "Squillaci",
+            "Diaby",
+            "Valbuena",
+            "Anelka",
+            "Clichy",
+            "Carrasso"
+          ],
+          "treinador": "Domenech"
         }
       ],
-      "Tabelas": {
-        "grupoA": [
-          {
-            "selecao": "Uruguai",
-            "pts": 7,
-            "j": 3,
-            "v": 2,
-            "e": 1,
-            "d": 0,
-            "gp": 4,
-            "gc": 0,
-            "sg": 4
-          },
-          {
-            "selecao": "México",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 3,
-            "gc": 2,
-            "sg": 1
-          },
-          {
-            "selecao": "África do Sul",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 3,
-            "gc": 5,
-            "sg": -2
-          },
-          {
-            "selecao": "França",
-            "pts": 1,
-            "j": 3,
-            "v": 0,
-            "e": 1,
-            "d": 2,
-            "gp": 1,
-            "gc": 4,
-            "sg": -3
-          }
+      "Grupo B": [],
+      "Grupo C": {
+        "Estados Unidos": {
+          "Jogadores": [
+            "Howard",
+            "Spector",
+            "Bocanegra",
+            "M. Bradley",
+            "Onyewu",
+            "Cherundolo",
+            "Beasley",
+            "Dempsey",
+            "Gomez",
+            "Donovan",
+            "Holden",
+            "Bornstein",
+            "Buddle",
+            "DeMerit",
+            "Torres",
+            "Altidore",
+            "Guzan",
+            "Edu",
+            "Goodson",
+            "Feilhaber",
+            "Hahnemann"
+          ],
+          "Treinador": "B. Bradley"
+        },
+        "Inglaterra": {
+          "Jogadores": [
+            "James",
+            "Johnson",
+            "A. Cole",
+            "Gerrard",
+            "Dawson",
+            "Terry",
+            "Lennon",
+            "Lampard",
+            "Crouch",
+            "Rooney",
+            "J. Cole",
+            "Green",
+            "Barry",
+            "Milner",
+            "Wright-Phillips",
+            "Carragher",
+            "Defoe",
+            "King",
+            "Heskey",
+            "Carrick",
+            "Hart"
+          ],
+          "Treinador": "Capello"
+        },
+        "Eslovênia": {
+          "Jogadores": [
+            "S. Handanovič",
+            "Brečko",
+            "Džinič",
+            "Šuler",
+            "Cesar",
+            "Ilič",
+            "Pečnik",
+            "Koren",
+            "Ljubijankič",
+            "Birsa",
+            "Novakovič",
+            "J. Handanovič",
+            "Jokić",
+            "Dedič",
+            "Krhin",
+            "Šeliga",
+            "Kirm",
+            "Radosavljevič",
+            "Filekovič",
+            "Komac",
+            "Stevanovič",
+            "Mavrič",
+            "Matavž"
+          ],
+          "Treinador": "Kek"
+        },
+        "Argélia": {
+          "Jogadores": [
+            "Gaouaoui",
+            "Bougherra",
+            "Belhadj",
+            "Yahia",
+            "Halliche",
+            "Mansouri",
+            "Boudebouz",
+            "Lacen",
+            "Ghezzal",
+            "Saïfi",
+            "Djebbour",
+            "Bellaïd",
+            "Matmour",
+            "Laïfaoui",
+            "Ziani",
+            "Chaouchi",
+            "Guedioura",
+            "Medjani",
+            "Yebda",
+            "Mesbah",
+            "Kadir",
+            "Abdoun",
+            "M'Bolhi"
+          ],
+          "Treinador": "Saâdane"
+        }
+      },
+      "Grupo D": {
+        "Alemanha": {
+          "Jogadores": [
+            "Neuer",
+            "Jansen",
+            "Friedrich",
+            "Aogo",
+            "Taşçı",
+            "Khedira",
+            "Schweinsteiger",
+            "Özil",
+            "Kießling",
+            "Podolski",
+            "Klose",
+            "Wiese",
+            "Müller",
+            "Badstuber",
+            "Trochowski",
+            "Lahm",
+            "Mertesacker",
+            "Kroos",
+            "Cacau",
+            "Boateng",
+            "Marin",
+            "Butt",
+            "Gómez"
+          ],
+          "Treinador": "Löw"
+        },
+        "Gana": {
+          "Jogadores": [
+            "Adjei",
+            "Sarpei",
+            "Gyan",
+            "Paintsil",
+            "John Mensah",
+            "Annan",
+            "Inkoom",
+            "Jonathan Mensah",
+            "D. Boateng",
+            "Appiah",
+            "Muntari",
+            "Tagoe",
+            "A. Ayew",
+            "Amoah",
+            "Vorsah",
+            "Ahorlu",
+            "A.R. Ayew",
+            "Adiyiah",
+            "Addy",
+            "Owusu-Abeyie",
+            "Asamoah",
+            "Kingson",
+            "K.P. Boateng"
+          ],
+          "Treinador": "Rajevac"
+        },
+        "Austrália": {
+          "Jogadores": [
+            "Schwarzer",
+            "Neill",
+            "Moore",
+            "Cahill",
+            "Čulina",
+            "Beauchamp",
+            "Emerton",
+            "Wilkshire",
+            "Kennedy",
+            "Kewell",
+            "Chipperfield",
+            "Federici",
+            "Grella",
+            "Holman",
+            "Jedinak",
+            "Valeri",
+            "Rukavytsya",
+            "Galeković",
+            "Garcia",
+            "Milligan",
+            "Vidošić",
+            "Bresciano"
+          ],
+          "Treinador": "Verbeek"
+        },
+        "Sérvia": {
+          "Jogadores": [
+            "Stojković",
+            "Rukavina",
+            "Kolarov",
+            "Kačar",
+            "Vidić",
+            "Ivanović",
+            "Tošić",
+            "Lazović",
+            "Pantelić",
+            "Stanković",
+            "Milijaš",
+            "Isailović",
+            "Luković",
+            "Jovanović",
+            "Žigić",
+            "Obradović",
+            "Krasić",
+            "Ninković",
+            "Petrović",
+            "Subotić",
+            "Mrđa",
+            "Kuzmanović",
+            "Đuričić"
+          ],
+          "Treinador": "Antić"
+        }
+      },
+      "Grupo E": [
+        {
+          "selecao": "Neerlandesa",
+          "copa": "2010",
+          "colocacao": "2º Lugar",
+          "jogadores": [
+            "Stekelenburg",
+            "Van der Wiel",
+            "Heitinga",
+            "Mathijsen",
+            "Van Bronckhorst",
+            "Van Bommel",
+            "Kuijt",
+            "De Jong",
+            "Van Persie",
+            "Sneijder",
+            "Robben",
+            "Boulahrouz",
+            "Ooijer",
+            "De Zeeuw",
+            "Braafheid",
+            "Vorm",
+            "Elia",
+            "Schaars",
+            "Babel",
+            "Afellay",
+            "Huntelaar",
+            "Boschker",
+            "Van der Vaart"
+          ],
+          "treinador": "Van Marwijk"
+        },
+        {
+          "selecao": "Japonesa",
+          "copa": "2010",
+          "colocacao": "",
+          "jogadores": [
+            "Narazaki",
+            "Abe",
+            "Komano",
+            "Túlio",
+            "Nagatomo",
+            "Uchida",
+            "Endō",
+            "Matsui",
+            "Okazaki",
+            "S. Nakamura",
+            "Tamada",
+            "Yano",
+            "K. Nakamura",
+            "Konno",
+            "Okubo",
+            "Hasebe",
+            "Honda",
+            "Morimoto",
+            "Inamoto",
+            "Kawashima",
+            "Nakazawa",
+            "Kawaguchi"
+          ],
+          "treinador": "Okada"
+        },
+        {
+          "selecao": "Dinamarquesa",
+          "copa": "2010",
+          "colocacao": "",
+          "jogadores": [
+            "Sørensen",
+            "C. Poulsen",
+            "Kjær",
+            "Agger",
+            "Kvist",
+            "Jacobsen",
+            "Jensen",
+            "Grønkjær",
+            "Tomasson",
+            "Jørgensen",
+            "Bendtner",
+            "Kahlenberg",
+            "Krøldrup",
+            "S. Poulsen",
+            "Rommedahl",
+            "Enevoldsen",
+            "Eriksen",
+            "Christiansen",
+            "Mtiliga"
+          ],
+          "treinador": "Olsen"
+        },
+        {
+          "selecao": "Camaronesa",
+          "copa": "2010",
+          "colocacao": "",
+          "jogadores": [
+            "Kameni",
+            "Assou-Ekotto",
+            "Nkoulou",
+            "R. Song",
+            "Bassong",
+            "A. Song",
+            "N'Guémo",
+            "Geremi",
+            "Eto'o",
+            "Emana",
+            "Makoun",
+            "Bong",
+            "Choupo-Moting",
+            "Chedjou",
+            "Webó",
+            "Souleymanou",
+            "Idrissou",
+            "Enoh",
+            "Mbia",
+            "Mandjeck",
+            "Matip",
+            "Assembé",
+            "Aboubakar"
+          ],
+          "treinador": "Le Guen"
+        }
+      ],
+      "Grupo F": [
+        {
+          "selecao": "Paraguai",
+          "jogadores": [
+            "Villar",
+            "Verón",
+            "Morel Rodríguez",
+            "Caniza",
+            "J.C. Cáceres",
+            "Bonet",
+            "Cardozo",
+            "É. Barreto",
+            "Santa Cruz",
+            "Benítez",
+            "Santana",
+            "D. Barreto",
+            "Vera",
+            "Da Silva",
+            "V. Cáceres",
+            "Riveros",
+            "Torres",
+            "Haedo Valdez",
+            "Barrios",
+            "Ortigoza",
+            "Alcaraz",
+            "Bobadilla",
+            "Gamarra"
+          ],
+          "treinador": "Martino"
+        },
+        {
+          "selecao": "Eslováquia",
+          "jogadores": [
+            "Mucha",
+            "Pekarík",
+            "Škrtel",
+            "Čech",
+            "Zabavník",
+            "Weiss III",
+            "Kozák",
+            "Šesták",
+            "Sapara",
+            "Vittek",
+            "Perniš",
+            "Hološko",
+            "Jakubko",
+            "Stoch",
+            "Ďurica",
+            "Hamšík",
+            "Jendrišek",
+            "Kucka",
+            "Kopúnek",
+            "Saláta",
+            "Petráš",
+            "Kuciak"
+          ],
+          "treinador": "Weiss II"
+        },
+        {
+          "selecao": "Nova Zelândia",
+          "jogadores": [
+            "Paston",
+            "Sigmund",
+            "Lochhead",
+            "Reid",
+            "Vicelich",
+            "Nelsen",
+            "Elliott",
+            "Brown",
+            "Smeltz",
+            "Killen",
+            "Bertos",
+            "Moss",
+            "Barron",
+            "Fallon",
+            "McGlinchey",
+            "Clapham",
+            "Mulligan",
+            "Smith",
+            "Wood",
+            "Brockie",
+            "Bannatyne"
+          ],
+          "treinador": "Herbert"
+        },
+        {
+          "selecao": "Itália",
+          "jogadores": [
+            "Buffon",
+            "Maggio",
+            "Criscito",
+            "Chiellini",
+            "Cannavaro",
+            "De Rossi",
+            "Pepe",
+            "Gattuso",
+            "Iaquinta",
+            "Di Natale",
+            "Gilardino",
+            "Marchetti",
+            "Bocchetti",
+            "De Sanctis",
+            "Marchisio",
+            "Camoranesi",
+            "Palombo",
+            "Quagliarella",
+            "Zambrotta",
+            "Pazzini",
+            "Pirlo",
+            "Montolivo",
+            "Bonucci"
+          ],
+          "treinador": "Lippi"
+        }
+      ],
+      "Grupo G": {
+        "Seleção Brasileira - Copa do Mundo de 2010": [
+          "Júlio César",
+          "Maicon",
+          "Lúcio",
+          "Juan",
+          "Felipe Melo",
+          "Michel Bastos",
+          "Elano",
+          "Gilberto Silva",
+          "Luís Fabiano",
+          "Kaká",
+          "Robinho",
+          "Gomes",
+          "Daniel Alves",
+          "Luisão",
+          "Thiago Silva",
+          "Gilberto",
+          "Josué",
+          "Ramires",
+          "Júlio Baptista",
+          "Kléberson",
+          "Nilmar",
+          "Doni",
+          "Grafite"
         ],
-        "grupoB": [
-          {
-            "selecao": "Argentina",
-            "pts": 9,
-            "j": 3,
-            "v": 3,
-            "e": 0,
-            "d": 0,
-            "gp": 7,
-            "gc": 1,
-            "sg": 6
-          },
-          {
-            "selecao": "Coreia do Sul",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 5,
-            "gc": 6,
-            "sg": -1
-          },
-          {
-            "selecao": "Grécia",
-            "pts": 3,
-            "j": 3,
-            "v": 1,
-            "e": 0,
-            "d": 2,
-            "gp": 2,
-            "gc": 5,
-            "sg": -3
-          },
-          {
-            "selecao": "Nigéria",
-            "pts": 1,
-            "j": 3,
-            "v": 0,
-            "e": 1,
-            "d": 2,
-            "gp": 3,
-            "gc": 5,
-            "sg": -2
-          }
+        "Seleção Portuguesa - Campeonato do Mundo de Futebol de 2010": [
+          "Eduardo",
+          "Bruno Alves",
+          "Paulo Ferreira",
+          "Rolando",
+          "Duda",
+          "Ricardo Carvalho",
+          "Cristiano Ronaldo",
+          "Pedro Mendes",
+          "Liedson",
+          "Danny",
+          "Simão",
+          "Beto",
+          "Miguel",
+          "Miguel Veloso",
+          "Pepe",
+          "Raul Meireles",
+          "Rúben Amorim",
+          "Hugo Almeida",
+          "Tiago",
+          "Deco",
+          "Ricardo Costa",
+          "Daniel Fernandes",
+          "Fábio Coentrão"
         ],
-        "grupoC": [
-          {
-            "selecao": "Estados Unidos",
-            "pts": 5,
-            "j": 3,
-            "v": 1,
-            "e": 2,
-            "d": 0,
-            "gp": 4,
-            "gc": 3,
-            "sg": 1
-          },
-          {
-            "selecao": "Inglaterra",
-            "pts": 5,
-            "j": 3,
-            "v": 1,
-            "e": 2,
-            "d": 0,
-            "gp": 2,
-            "gc": 1,
-            "sg": 1
-          },
-          {
-            "selecao": "Eslovênia",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 3,
-            "gc": 3,
-            "sg": 0
-          },
-          {
-            "selecao": "Argélia",
-            "pts": 1,
-            "j": 3,
-            "v": 0,
-            "e": 1,
-            "d": 2,
-            "gp": 0,
-            "gc": 2,
-            "sg": -2
-          }
+        "Seleção Marfinense - Copa do Mundo de 2010": [
+          "Barry",
+          "Angoua",
+          "Boka",
+          "K. Touré",
+          "Zokora",
+          "Gohouri",
+          "Doumbia",
+          "Kalou",
+          "Tioté",
+          "Gervinho",
+          "Drogba",
+          "Gosso",
+          "Romaric",
+          "Koné",
+          "Dindane",
+          "Zogbo",
+          "Tiéné",
+          "Keïta",
+          "Y. Touré",
+          "Demel",
+          "Eboué",
+          "Bamba",
+          "Yeboah"
         ],
-        "grupoD": [
-          {
-            "selecao": "Alemanha",
-            "pts": 6,
-            "j": 3,
-            "v": 2,
-            "e": 0,
-            "d": 1,
-            "gp": 5,
-            "gc": 1,
-            "sg": 4
-          },
-          {
-            "selecao": "Gana",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 2,
-            "gc": 2,
-            "sg": 0
-          },
-          {
-            "selecao": "Austrália",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 3,
-            "gc": 6,
-            "sg": -3
-          },
-          {
-            "selecao": "Sérvia",
-            "pts": 3,
-            "j": 3,
-            "v": 1,
-            "e": 0,
-            "d": 2,
-            "gp": 2,
-            "gc": 3,
-            "sg": -1
-          }
-        ],
-        "grupoE": [
-          {
-            "selecao": "Países Baixos",
-            "pts": 9,
-            "j": 3,
-            "v": 3,
-            "e": 0,
-            "d": 0,
-            "gp": 5,
-            "gc": 1,
-            "sg": 4
-          },
-          {
-            "selecao": "Japão",
-            "pts": 6,
-            "j": 3,
-            "v": 2,
-            "e": 0,
-            "d": 1,
-            "gp": 4,
-            "gc": 2,
-            "sg": 2
-          },
-          {
-            "selecao": "Dinamarca",
-            "pts": 3,
-            "j": 3,
-            "v": 1,
-            "e": 0,
-            "d": 2,
-            "gp": 3,
-            "gc": 6,
-            "sg": -3
-          },
-          {
-            "selecao": "Camarões",
-            "pts": 0,
-            "j": 3,
-            "v": 0,
-            "e": 0,
-            "d": 3,
-            "gp": 2,
-            "gc": 5,
-            "sg": -3
-          }
-        ],
-        "grupoF": [
-          {
-            "selecao": "Paraguai",
-            "pts": 5,
-            "j": 3,
-            "v": 1,
-            "e": 2,
-            "d": 0,
-            "gp": 3,
-            "gc": 1,
-            "sg": 2
-          },
-          {
-            "selecao": "Eslováquia",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 4,
-            "gc": 5,
-            "sg": -1
-          },
-          {
-            "selecao": "Nova Zelândia",
-            "pts": 3,
-            "j": 3,
-            "v": 0,
-            "e": 3,
-            "d": 0,
-            "gp": 2,
-            "gc": 2,
-            "sg": 0
-          },
-          {
-            "selecao": "Itália",
-            "pts": 2,
-            "j": 3,
-            "v": 0,
-            "e": 2,
-            "d": 1,
-            "gp": 4,
-            "gc": 5,
-            "sg": -1
-          }
-        ],
-        "grupoG": [
-          {
-            "selecao": "Brasil",
-            "pts": 7,
-            "j": 3,
-            "v": 2,
-            "e": 1,
-            "d": 0,
-            "gp": 5,
-            "gc": 2,
-            "sg": 3
-          },
-          {
-            "selecao": "Portugal",
-            "pts": 5,
-            "j": 3,
-            "v": 1,
-            "e": 2,
-            "d": 0,
-            "gp": 7,
-            "gc": 0,
-            "sg": 7
-          },
-          {
-            "selecao": "Costa do Marfim",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 4,
-            "gc": 3,
-            "sg": 1
-          },
-          {
-            "selecao": "Coreia do Norte",
-            "pts": 0,
-            "j": 3,
-            "v": 0,
-            "e": 0,
-            "d": 3,
-            "gp": 1,
-            "gc": 12,
-            "sg": -11
-          }
-        ],
-        "grupoH": [
-          {
-            "selecao": "Espanha",
-            "pts": 6,
-            "j": 3,
-            "v": 2,
-            "e": 0,
-            "d": 1,
-            "gp": 4,
-            "gc": 2,
-            "sg": 2
-          },
-          {
-            "selecao": "Chile",
-            "pts": 6,
-            "j": 3,
-            "v": 2,
-            "e": 0,
-            "d": 1,
-            "gp": 3,
-            "gc": 2,
-            "sg": 1
-          },
-          {
-            "selecoa": "Suíça",
-            "pts": 4,
-            "j": 3,
-            "v": 1,
-            "e": 1,
-            "d": 1,
-            "gp": 1,
-            "gc": 1,
-            "sg": 0
-          },
-          {
-            "selecao": "Honduras",
-            "pts": 1,
-            "j": 3,
-            "v": 0,
-            "e": 1,
-            "d": 2,
-            "gp": 0,
-            "gc": 3,
-            "sg": -3
-          }
+        "Seleção Norte-Coreana - Copa do Mundo de 2010": [
+          "Ri Myong-Guk",
+          "Cha Jong-Hyok",
+          "Ri Jun-il",
+          "Pak Nam-Chol",
+          "Ri Kwang-Chon",
+          "Kim Kum-Il",
+          "An Chol-Hyok",
+          "Ji Yun-Nam",
+          "Jong Tae-Se",
+          "Hong Yong-Jo",
+          "Mun In-Guk",
+          "Choe Kum-Chol",
+          "Pak Chol-Jin",
+          "Pak Nam-Chol",
+          "Kim Yong-Jun",
+          "Nam Song-Chol",
+          "Ahn Young-hak",
+          "Kim Myong-Gil",
+          "Ri Chol-Myong",
+          "Kim Myong-Won",
+          "Ri Kwang-Hyok",
+          "Kim Kyong-Il",
+          "Pak Sung-Hyok"
         ]
+      },
+      "Grupo H": {
+        "selecao_espanhola": {
+          "titulo": "Copa do Mundo de 2010 (1.º Título)",
+          "jogadores": [
+            "Casillas",
+            "Albiol",
+            "Piqué",
+            "Marchena",
+            "Puyol",
+            "Iniesta",
+            "Villa",
+            "Xavi",
+            "Torres",
+            "Fàbregas",
+            "Capdevila",
+            "Valdés",
+            "Mata",
+            "Alonso",
+            "Ramos",
+            "Busquets",
+            "Arbeloa",
+            "Pedro",
+            "Llorente",
+            "Martínez",
+            "Silva",
+            "Navas",
+            "Reina"
+          ],
+          "treinador": "Del Bosque"
+        },
+        "selecao_chilena": {
+          "titulo": "Copa do Mundo de 2010",
+          "jogadores": [
+            "Bravo",
+            "Ponce",
+            "Isla",
+            "Contreras",
+            "Carmona",
+            "Sánchez",
+            "Vidal",
+            "Suazo",
+            "Valdivia",
+            "González",
+            "Pinto",
+            "Estrada",
+            "Fernández",
+            "Beausejour",
+            "Orellana",
+            "Medel",
+            "Jara",
+            "Fierro",
+            "Millar",
+            "Tello",
+            "Paredes",
+            "Marín"
+          ],
+          "treinador": "Bielsa"
+        },
+        "selecao_suica": {
+          "titulo": "Copa do Mundo de 2010",
+          "jogadores": [
+            "Benaglio",
+            "Lichtsteiner",
+            "Magnin",
+            "Senderos",
+            "Von Bergen",
+            "Huggel",
+            "Barnetta",
+            "İnler",
+            "Frei",
+            "Nkufo",
+            "Behrami",
+            "Wölfli",
+            "Grichting",
+            "Padalino",
+            "Yakın",
+            "Fernandes",
+            "Ziegler",
+            "Bunjaku",
+            "Derdiyok",
+            "Schwegler",
+            "Leoni",
+            "Eggimann",
+            "Shaqiri"
+          ],
+          "treinador": "Hitzfeld"
+        },
+        "selecao_hondurenha": {
+          "titulo": "Copa do Mundo de 2010",
+          "jogadores": [
+            "Canales",
+            "Chávez",
+            "Figueroa",
+            "Johnny Palacios",
+            "Bernárdez",
+            "Thomas",
+            "Núñez",
+            "W. Palacios",
+            "Pavón",
+            "Jerry Palacios",
+            "Suazo",
+            "Welcome",
+            "Espinoza",
+            "García",
+            "Martínez",
+            "Sabillón",
+            "Álvarez",
+            "Valladares",
+            "Turcios",
+            "Guevara",
+            "Izaguirre",
+            "Escober",
+            "Mendoza"
+          ],
+          "treinador": "Rueda"
+        }
       }
+    },
+    "Estadios": [
+      {
+        "Cidade": "Joanesburgo",
+        "Estádio": "Estádio FNB1",
+        "Capacidade": "84,490",
+        "Localização": {
+          "Latitude": -26.2348,
+          "Longitude": 27.9823
+        }
+      },
+      {
+        "Cidade": "Cidade do Cabo",
+        "Estádio": "Estádio da Cidade do Cabo2",
+        "Capacidade": "64,100",
+        "Localização": {
+          "Latitude": -33.9035,
+          "Longitude": 18.4207
+        }
+      },
+      {
+        "Cidade": "Durban",
+        "Estádio": "Estádio Moses Mabhida3",
+        "Capacidade": "62,760",
+        "Localização": {
+          "Latitude": -29.8494,
+          "Longitude": 31.0297
+        }
+      },
+      {
+        "Cidade": "Joanesburgo",
+        "Estádio": "Estádio Ellis Park",
+        "Capacidade": "55,686",
+        "Localização": {
+          "Latitude": -26.1975,
+          "Longitude": 28.0608
+        }
+      },
+      {
+        "Cidade": "Pretória",
+        "Estádio": "Estádio Loftus Versfeld",
+        "Capacidade": "42,858",
+        "Localização": {
+          "Latitude": -25.7533,
+          "Longitude": 28.2244
+        }
+      },
+      {
+        "Cidade": "Porto Elizabeth",
+        "Estádio": "Estádio Nelson Mandela Bay",
+        "Capacidade": "42,486",
+        "Localização": {
+          "Latitude": -33.9469,
+          "Longitude": 25.5707
+        }
+      },
+      {
+        "Cidade": "Bloemfontein",
+        "Estádio": "Estádio Free State",
+        "Capacidade": "40,911",
+        "Localização": {
+          "Latitude": -29.0822,
+          "Longitude": 26.1596
+        }
+      },
+      {
+        "Cidade": "Polokwane",
+        "Estádio": "Estádio Peter Mokaba",
+        "Capacidade": "41,733",
+        "Localização": {
+          "Latitude": -23.9247,
+          "Longitude": 29.4694
+        }
+      },
+      {
+        "Cidade": "Nelspruit",
+        "Estádio": "Estádio Mbombela",
+        "Capacidade": "40,929",
+        "Localização": {
+          "Latitude": -25.4607,
+          "Longitude": 30.9496
+        }
+      },
+      {
+        "Cidade": "Rustemburgo",
+        "Estádio": "Estádio Royal Bafokeng",
+        "Capacidade": "38,646",
+        "Localização": {
+          "Latitude": -25.3477,
+          "Longitude": 27.0875
+        }
+      }
+    ],
+    "Tabelas": {
+      "grupoA": [
+        {
+          "selecao": "Uruguai",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gp": 4,
+          "gc": 0,
+          "sg": 4
+        },
+        {
+          "selecao": "México",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 3,
+          "gc": 2,
+          "sg": 1
+        },
+        {
+          "selecao": "África do Sul",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 3,
+          "gc": 5,
+          "sg": -2
+        },
+        {
+          "selecao": "França",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gp": 1,
+          "gc": 4,
+          "sg": -3
+        }
+      ],
+      "grupoB": [
+        {
+          "selecao": "Argentina",
+          "pts": 9,
+          "j": 3,
+          "v": 3,
+          "e": 0,
+          "d": 0,
+          "gp": 7,
+          "gc": 1,
+          "sg": 6
+        },
+        {
+          "selecao": "Coreia do Sul",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 5,
+          "gc": 6,
+          "sg": -1
+        },
+        {
+          "selecao": "Grécia",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gp": 2,
+          "gc": 5,
+          "sg": -3
+        },
+        {
+          "selecao": "Nigéria",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gp": 3,
+          "gc": 5,
+          "sg": -2
+        }
+      ],
+      "grupoC": [
+        {
+          "selecao": "Estados Unidos",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gp": 4,
+          "gc": 3,
+          "sg": 1
+        },
+        {
+          "selecao": "Inglaterra",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gp": 2,
+          "gc": 1,
+          "sg": 1
+        },
+        {
+          "selecao": "Eslovênia",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 3,
+          "gc": 3,
+          "sg": 0
+        },
+        {
+          "selecao": "Argélia",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gp": 0,
+          "gc": 2,
+          "sg": -2
+        }
+      ],
+      "grupoD": [
+        {
+          "selecao": "Alemanha",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gp": 5,
+          "gc": 1,
+          "sg": 4
+        },
+        {
+          "selecao": "Gana",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 2,
+          "gc": 2,
+          "sg": 0
+        },
+        {
+          "selecao": "Austrália",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 3,
+          "gc": 6,
+          "sg": -3
+        },
+        {
+          "selecao": "Sérvia",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gp": 2,
+          "gc": 3,
+          "sg": -1
+        }
+      ],
+      "grupoE": [
+        {
+          "selecao": "Países Baixos",
+          "pts": 9,
+          "j": 3,
+          "v": 3,
+          "e": 0,
+          "d": 0,
+          "gp": 5,
+          "gc": 1,
+          "sg": 4
+        },
+        {
+          "selecao": "Japão",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gp": 4,
+          "gc": 2,
+          "sg": 2
+        },
+        {
+          "selecao": "Dinamarca",
+          "pts": 3,
+          "j": 3,
+          "v": 1,
+          "e": 0,
+          "d": 2,
+          "gp": 3,
+          "gc": 6,
+          "sg": -3
+        },
+        {
+          "selecao": "Camarões",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gp": 2,
+          "gc": 5,
+          "sg": -3
+        }
+      ],
+      "grupoF": [
+        {
+          "selecao": "Paraguai",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gp": 3,
+          "gc": 1,
+          "sg": 2
+        },
+        {
+          "selecao": "Eslováquia",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 4,
+          "gc": 5,
+          "sg": -1
+        },
+        {
+          "selecao": "Nova Zelândia",
+          "pts": 3,
+          "j": 3,
+          "v": 0,
+          "e": 3,
+          "d": 0,
+          "gp": 2,
+          "gc": 2,
+          "sg": 0
+        },
+        {
+          "selecao": "Itália",
+          "pts": 2,
+          "j": 3,
+          "v": 0,
+          "e": 2,
+          "d": 1,
+          "gp": 4,
+          "gc": 5,
+          "sg": -1
+        }
+      ],
+      "grupoG": [
+        {
+          "selecao": "Brasil",
+          "pts": 7,
+          "j": 3,
+          "v": 2,
+          "e": 1,
+          "d": 0,
+          "gp": 5,
+          "gc": 2,
+          "sg": 3
+        },
+        {
+          "selecao": "Portugal",
+          "pts": 5,
+          "j": 3,
+          "v": 1,
+          "e": 2,
+          "d": 0,
+          "gp": 7,
+          "gc": 0,
+          "sg": 7
+        },
+        {
+          "selecao": "Costa do Marfim",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 4,
+          "gc": 3,
+          "sg": 1
+        },
+        {
+          "selecao": "Coreia do Norte",
+          "pts": 0,
+          "j": 3,
+          "v": 0,
+          "e": 0,
+          "d": 3,
+          "gp": 1,
+          "gc": 12,
+          "sg": -11
+        }
+      ],
+      "grupoH": [
+        {
+          "selecao": "Espanha",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gp": 4,
+          "gc": 2,
+          "sg": 2
+        },
+        {
+          "selecao": "Chile",
+          "pts": 6,
+          "j": 3,
+          "v": 2,
+          "e": 0,
+          "d": 1,
+          "gp": 3,
+          "gc": 2,
+          "sg": 1
+        },
+        {
+          "selecoa": "Suíça",
+          "pts": 4,
+          "j": 3,
+          "v": 1,
+          "e": 1,
+          "d": 1,
+          "gp": 1,
+          "gc": 1,
+          "sg": 0
+        },
+        {
+          "selecao": "Honduras",
+          "pts": 1,
+          "j": 3,
+          "v": 0,
+          "e": 1,
+          "d": 2,
+          "gp": 0,
+          "gc": 3,
+          "sg": -3
+        }
+      ]
     }
   },
   "Copa-do-mundo-2014": {
@@ -29363,8 +29165,9 @@
       "melhorJogador": "Lionel Messi",
       "melhorGoleiro": "Manuel Neuer"
     },
-    {
-      "estadios": {
+
+    "estadios": [
+      {
         "nome": "Arena de São Paulo",
         "cidade": "São Paulo",
         "capacidade": "61.606 espectadores",
@@ -29448,8 +29251,7 @@
         "latitude": "30.0655° S",
         "longitude": "51.2353° W"
       }
-    },
-    {
-      "jogos": {}
-    },
+    ],
+    "jogos": {}
   }
+}
